@@ -41,6 +41,7 @@
         },
         "video_iwmqqk": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/hand-rub.mp4",
             "allow_sound": true,
@@ -109,6 +110,35 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "The future of healthy skin",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin."
       }
     },
     "featured_product_yAPJqc": {
@@ -205,6 +235,7 @@
         "buy_buttons_wiqGDD",
         "pickup_availability_GtJVXz"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "product": "akti-clear",
@@ -222,35 +253,6 @@
         "subheading": "",
         "title": "Featured product",
         "content": ""
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
       }
     },
     "multi-column": {
@@ -623,8 +625,8 @@
   },
   "order": [
     "slideshow",
-    "featured_product_yAPJqc",
     "featured-collections",
+    "featured_product_yAPJqc",
     "multi-column",
     "collection-list",
     "before-after",
