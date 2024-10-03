@@ -85,8 +85,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>",
+            "title": "AK Botanicals",
+            "content": "<p>We offer an all-natural, safe, and effective homeopathic formula designed to remove sun-damaged, pre-cancerous skin lesions (Solar\/Actinic Keratosis) before they can develop into cancer.<\/p>",
             "enable_follow_on_shop": true
           }
         }
