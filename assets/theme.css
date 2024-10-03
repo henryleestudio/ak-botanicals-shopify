@@ -559,7 +559,9 @@ height-observer {
   overflow: hidden;
 }
 
-.content-over-media:before {
+/* hero and image color over lay - custom edit*/
+
+/* .content-over-media:before {
   content: "";
   background: var(--content-over-media-gradient-overlay, rgb(var(--content-over-media-overlay)));
   border-radius: inherit;
@@ -567,7 +569,7 @@ height-observer {
   pointer-events: none;
   position: absolute;
   inset: 0;
-}
+} */
 
 .content-over-media > picture {
   display: contents;
@@ -4558,6 +4560,8 @@ tfoot td {
   display: none;
 }
 
+/* Header background color - Custom code */
+
 .header {
   --header-show-transparent-logo: 0;
   grid: var(--header-grid);
@@ -4565,6 +4569,7 @@ tfoot td {
   align-items: center;
   column-gap: 1.25rem;
   row-gap: var(--header-padding-block);
+  /* background: #FDF9F5; */
   background: rgb(var(--background));
   color: rgb(var(--text-color));
   box-shadow: 0 -1px rgb(var(--header-separation-border-color)) inset;
