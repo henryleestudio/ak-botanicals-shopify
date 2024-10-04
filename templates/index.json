@@ -111,7 +111,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin.",
+            "title": "natural safe & effective",
             "link_url": "",
             "link_text": ""
           }
@@ -129,7 +129,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Actinic Keratosis (ak-TIN-ik ker-uh-TOE-sis) is a rough, scaly patch on the skin that develops from years of sun exposure. It's often found on the face, lips, ears, forearms, scalp, neck or back of the hands.Although only around 10% of actinic keratosis turns into cancer, the vast majority of squamous skin carcinomas do begin their life as actinic keratosis."
+        "subheading": "Solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin."
       }
     },
     "image-with-text-scroll": {
@@ -301,6 +301,54 @@
         "content": ""
       }
     },
+    "testimonials_pmABQj": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_YfxkAX": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_pGeeBC": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_dLRajF": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_YfxkAX",
+        "testimonial_pGeeBC",
+        "testimonial_dLRajF"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "auto_rotate_between_testimonials": false,
+        "cycle_speed": 5,
+        "font_size_factor": 1,
+        "subheading": "",
+        "title": "Live more",
+        "content": ""
+      }
+    },
     "before-after": {
       "type": "before-after",
       "blocks": {
@@ -359,6 +407,41 @@
         "overlay_opacity": 0
       }
     },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "hot_spots_background": "#ffffff",
+            "product_1": "",
+            "product_1_horizontal_position": 55,
+            "product_1_vertical_position": 30,
+            "product_2": "",
+            "product_2_horizontal_position": 25,
+            "product_2_vertical_position": 40,
+            "product_3": "",
+            "product_3_horizontal_position": 65,
+            "product_3_vertical_position": 60,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "look-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
     "rich_text_zwXKph": {
       "type": "rich-text",
       "blocks": {
@@ -395,41 +478,6 @@
         "remove_vertical_spacing": false
       }
     },
-    "shop-the-look": {
-      "type": "shop-the-look",
-      "blocks": {
-        "look-1": {
-          "type": "look",
-          "settings": {
-            "hot_spots_background": "#ffffff",
-            "product_1": "",
-            "product_1_horizontal_position": 55,
-            "product_1_vertical_position": 30,
-            "product_2": "",
-            "product_2_horizontal_position": 25,
-            "product_2_vertical_position": 40,
-            "product_3": "",
-            "product_3_horizontal_position": 65,
-            "product_3_vertical_position": 60,
-            "product_4": "",
-            "product_4_horizontal_position": 85,
-            "product_4_vertical_position": 85
-          }
-        }
-      },
-      "block_order": [
-        "look-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Shop the look",
-        "content": "",
-        "popover_title": "Shop the look"
-      }
-    },
     "video_PiLmmQ": {
       "type": "video",
       "blocks": {
@@ -454,7 +502,7 @@
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "md",
+        "video_size": "lg",
         "video": "shopify:\/\/files\/videos\/suring-video.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
@@ -502,6 +550,41 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
+      }
+    },
+    "image_with_text_overlay_3JJtMX": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_kb8ppc": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_jLbiMq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kb8ppc",
+        "richtext_jLbiMq"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/pexels-sumcig-28528885.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "sm",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "media_grid_QcHYNw": {
@@ -604,10 +687,10 @@
       "settings": {
         "color_scheme": "",
         "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "after_text",
+        "separate_section_with_border": false,
+        "media_position_desktop": "before_text",
         "media_position_mobile": "before_text",
-        "media_layout": "overlap",
+        "media_layout": "separated",
         "media_alignment": "center",
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
@@ -621,83 +704,6 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "testimonials_pmABQj": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_YfxkAX": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        },
-        "testimonial_pGeeBC": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        },
-        "testimonial_dLRajF": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_YfxkAX",
-        "testimonial_pGeeBC",
-        "testimonial_dLRajF"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "auto_rotate_between_testimonials": false,
-        "cycle_speed": 5,
-        "font_size_factor": 1,
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
-    "video_bWLwWM": {
-      "type": "video",
-      "blocks": {
-        "play_NehJkw": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
-        "heading_MTbPmj": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "play_NehJkw",
-        "heading_MTbPmj"
-      ],
-      "settings": {
-        "autoplay": true,
-        "show_controls": false,
-        "video_size": "md",
-        "video": "shopify:\/\/files\/videos\/video-boat.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
       }
     },
     "faq_KBkNdU": {
@@ -765,11 +771,41 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "show_categories": false,
-        "subheading": "Need help?",
+        "subheading": "",
         "title": "How it works",
         "content": ""
+      }
+    },
+    "video_bWLwWM": {
+      "type": "video",
+      "blocks": {
+        "play_NehJkw": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_MTbPmj": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_NehJkw",
+        "heading_MTbPmj"
+      ],
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "lg",
+        "video": "shopify:\/\/files\/videos\/video-boat.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
       }
     }
   },
@@ -778,16 +814,17 @@
     "featured-collections",
     "image-with-text-scroll",
     "featured_product_yAPJqc",
+    "testimonials_pmABQj",
     "before-after",
     "newsletter",
-    "rich_text_zwXKph",
     "shop-the-look",
+    "rich_text_zwXKph",
     "video_PiLmmQ",
     "multiple-media-with-text",
+    "image_with_text_overlay_3JJtMX",
     "media_grid_QcHYNw",
     "multiple_media_with_text_xRkPp7",
-    "testimonials_pmABQj",
-    "video_bWLwWM",
-    "faq_KBkNdU"
+    "faq_KBkNdU",
+    "video_bWLwWM"
   ]
 }
