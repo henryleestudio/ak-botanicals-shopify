@@ -1,12 +1,3 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "current": {
     "section_vertical_spacing": "md",
@@ -17,25 +8,27 @@
     "success_color": "#307a07",
     "warning_color": "#ed8a00",
     "error_color": "#cb2b2b",
-    "heading_font": "univers_next_n4",
-    "heading_letter_spacing": 18,
-    "text_font": "univers_next_n4",
-    "text_font_size_desktop": 14,
+    "heading_font": "lato_n4",
+    "heading_font_size_factor": 1.2,
+    "heading_letter_spacing": 20,
+    "text_font": "noto_serif_n4",
+    "text_font_size_mobile": 15,
+    "text_font_size_desktop": 20,
     "button_letter_spacing": 18,
-    "favicon": "shopify://shop_images/ak-favicon.png",
+    "favicon": "shopify:\/\/shop_images\/ak-favicon-3.png",
     "content_for_index": [
 
     ],
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#efefef",
+          "background": "#fdf9f5",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
-          "primary_button_background": "#1c1c1c",
-          "primary_button_text_color": "#ffffff",
-          "circle_button_background": "#ffffff",
-          "circle_button_icon": "#1c1c1c"
+          "text_color": "#2c2d24",
+          "primary_button_background": "#2c2d24",
+          "primary_button_text_color": "#fdf9f5",
+          "circle_button_background": "#fdf9f5",
+          "circle_button_icon": "#2c2d24"
         }
       },
       "scheme-2": {
@@ -51,13 +44,13 @@
       },
       "scheme-3": {
         "settings": {
-          "background": "#1c1c1c",
+          "background": "#2c2d24",
           "background_gradient": "",
-          "text_color": "#ffffff",
-          "primary_button_background": "#ffffff",
-          "primary_button_text_color": "#1c1c1c",
-          "circle_button_background": "#ffffff",
-          "circle_button_icon": "#1c1c1c"
+          "text_color": "#fdf9f5",
+          "primary_button_background": "#fdf9f5",
+          "primary_button_text_color": "#2c2d24",
+          "circle_button_background": "#fdf9f5",
+          "circle_button_icon": "#2c2d24"
         }
       },
       "scheme-4": {
