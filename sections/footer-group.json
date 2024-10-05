@@ -64,6 +64,7 @@
     },
     "newsletter_gP3aih": {
       "type": "newsletter",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,

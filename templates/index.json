@@ -94,7 +94,7 @@
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": true,
-        "media_size": "auto",
+        "media_size": "lg",
         "show_initial_transition": true,
         "autoplay": true,
         "autoplay_pause_on_video": true,
@@ -129,7 +129,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin."
+        "subheading": "Solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin"
       }
     },
     "image-with-text-scroll": {
@@ -139,7 +139,7 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot2024-10-03at12.39.59PM.png",
-            "subheading": "(ak-TIN-ik ker-uh-TOE-sis)",
+            "subheading": "",
             "title": "AKti-Clear",
             "content": "<p>AKti-Clear is a simple mineral and botanical-based topical lotion for use on Skin Lesions, Actinic Keratosis and other Abnormal Skin Growths.<\/p>",
             "link_text": "",
@@ -152,8 +152,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot2024-10-03at12.40.47PM.png",
             "subheading": "",
-            "title": "Akti-Clear",
-            "content": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>",
+            "title": "AK Wound Wash",
+            "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -448,20 +448,20 @@
         "subheading_YeQx6T": {
           "type": "subheading",
           "settings": {
-            "text": "(ak-TIN-ik ker-uh-TOE-sis)"
+            "text": ""
           }
         },
         "heading_wzWg79": {
           "type": "heading",
           "settings": {
-            "text": "Live life more abundantly",
+            "text": "Live Fearlessly",
             "heading_tag": "h1"
           }
         },
         "richtext_VWNfT9": {
           "type": "richtext",
           "settings": {
-            "content": "<p>A a rough, scaly patch on the skin that develops from years of sun exposure. It's often found on the face, lips, ears, forearms, scalp, neck or back of the hands.<\/p>"
+            "content": "<p>Prevent Actinic Keratosis and ensure your skin stays healthy and protected for years to come<\/p>"
           }
         }
       },
@@ -521,7 +521,7 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nicole-osborne-dupe.jpg",
+            "image": "shopify:\/\/shop_images\/alana-kapetanellis_-dupe.jpg",
             "rotation": 0
           }
         }
@@ -533,8 +533,8 @@
       "settings": {
         "color_scheme": "",
         "reveal_on_scroll": true,
-        "separate_section_with_border": true,
-        "media_position_desktop": "before_text",
+        "separate_section_with_border": false,
+        "media_position_desktop": "after_text",
         "media_position_mobile": "before_text",
         "media_layout": "overlap",
         "media_alignment": "center",
@@ -550,6 +550,45 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
+      }
+    },
+    "image_with_text_qcVywE": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_eLqiEM": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_xnNWB8": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_cPMbwd": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eLqiEM",
+        "heading_xnNWB8",
+        "richtext_cPMbwd"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/nicole-osborne-dupe.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_overlay_3JJtMX": {
@@ -573,6 +612,7 @@
         "heading_kb8ppc",
         "richtext_jLbiMq"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "image_size": "sm",
@@ -662,6 +702,36 @@
         "content": ""
       }
     },
+    "video_bWLwWM": {
+      "type": "video",
+      "blocks": {
+        "play_NehJkw": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_MTbPmj": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_NehJkw",
+        "heading_MTbPmj"
+      ],
+      "settings": {
+        "autoplay": true,
+        "show_controls": false,
+        "video_size": "lg",
+        "video": "shopify:\/\/files\/videos\/InShot_20241004_193430999.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
     "multiple_media_with_text_xRkPp7": {
       "type": "multiple-media-with-text",
       "blocks": {
@@ -697,7 +767,7 @@
         "text_alignment": "center",
         "subheading": "About",
         "title": "How it works",
-        "content": "<p>Write some content about your products, collections or brand. Use image or video to create an impactful layout.<\/p>",
+        "content": "<p>The main ingredient is derived from Euphorbia peplus, a plant that produces a milky sap that has been used as a natural remedy for skin cancers like actinic keratosis.<\/p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -713,7 +783,7 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic Keratosis (ak-TIN-ik ker-uh-TOE-sis) is a rough, scaly patch on the skin that develops from years of sun exposure. <br\/><br\/>It's often found on the face, lips, ears, forearms, scalp, neck or back of the hands. Although only around 10% of actinic keratosis turns into cancer, the vast majority of squamous skin carcinomas do begin their life as actinic keratosis.<\/p>"
+            "answer": "<p>Actinic keratoses (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.<\/p>"
           }
         },
         "question_rNWBmd": {
@@ -721,6 +791,27 @@
           "settings": {
             "question": "Why treat Actinic Keratosis?",
             "answer": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. <br\/><br\/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>"
+          }
+        },
+        "question_mrjnrz": {
+          "type": "question",
+          "settings": {
+            "question": "Skin Cancer and Actinic Keratosis",
+            "answer": "<p>AKs can progress into skin cancer if left untreated. Skin cancer is the most common cancer in the U.S., with more than 1 million new cases annually. About 80% of these will be basal cell carcinoma, 16% squamous cell carcinoma, and 4% melanoma.<\/p>"
+          }
+        },
+        "question_kHjGYF": {
+          "type": "question",
+          "settings": {
+            "question": "Treatment Options",
+            "answer": "<p>Various treatments are available for AKs. Early detection and treatment can prevent them from developing into skin cancer. Most cases of AKs and skin cancer are treatable and curable if caught early.<\/p>"
+          }
+        },
+        "question_VrUYpX": {
+          "type": "question",
+          "settings": {
+            "question": "What Do AKs Look Like?",
+            "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.<\/p>"
           }
         },
         "question_ekmKBT": {
@@ -739,6 +830,7 @@
         },
         "category_87LkGd": {
           "type": "category",
+          "disabled": true,
           "settings": {
             "title": "Shipping",
             "icon": "none",
@@ -747,6 +839,7 @@
         },
         "question_J4rbPy": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Do you ship overseas?",
             "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
@@ -754,6 +847,7 @@
         },
         "question_qzTx7Q": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "How long will it take to get my orders?",
             "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
@@ -763,6 +857,9 @@
       "block_order": [
         "question_CnkwqX",
         "question_rNWBmd",
+        "question_mrjnrz",
+        "question_kHjGYF",
+        "question_VrUYpX",
         "question_ekmKBT",
         "question_eQfq3a",
         "category_87LkGd",
@@ -776,36 +873,6 @@
         "subheading": "",
         "title": "How it works",
         "content": ""
-      }
-    },
-    "video_bWLwWM": {
-      "type": "video",
-      "blocks": {
-        "play_NehJkw": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
-        "heading_MTbPmj": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "play_NehJkw",
-        "heading_MTbPmj"
-      ],
-      "settings": {
-        "autoplay": true,
-        "show_controls": false,
-        "video_size": "lg",
-        "video": "shopify:\/\/files\/videos\/video-boat.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
       }
     }
   },
@@ -821,10 +888,11 @@
     "rich_text_zwXKph",
     "video_PiLmmQ",
     "multiple-media-with-text",
+    "image_with_text_qcVywE",
     "image_with_text_overlay_3JJtMX",
     "media_grid_QcHYNw",
+    "video_bWLwWM",
     "multiple_media_with_text_xRkPp7",
-    "faq_KBkNdU",
-    "video_bWLwWM"
+    "faq_KBkNdU"
   ]
 }
