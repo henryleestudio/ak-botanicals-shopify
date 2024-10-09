@@ -11,11 +11,13 @@
         "title": {
           "type": "title",
           "settings": {
+            "heading_tag": "h3"
           }
         },
         "price": {
           "type": "price",
           "settings": {
+            "show_taxes_notice": false
           }
         },
         "payment_terms": {
@@ -31,11 +33,18 @@
         "description": {
           "type": "description",
           "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
           }
         },
         "quantity_selector": {
@@ -46,16 +55,22 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-          }
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
+            "title": "Pairs well with",
+            "products_count": 2,
+            "show_below_gallery": true,
+            "stack_products": false,
+            "show_quick_buy": true
           }
         }
       },
@@ -72,16 +87,175 @@
         "complementary_products"
       ],
       "settings": {
+        "color_scheme": "",
+        "container_size": "lg",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": false,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
       }
     },
     "related-products": {
       "type": "related-products",
       "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
+        "content": ""
+      }
+    },
+    "media_grid_tEkhdP": {
+      "type": "media-grid",
+      "blocks": {
+        "image_LVtGq8": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/4K3dRenderimage-3PNG.png",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FfnWrk": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/4K3dRenderimage-6PNG.png",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_j4q94d": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-1.webp",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_LVtGq8",
+        "image_FfnWrk",
+        "image_j4q94d"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Media grid",
+        "content": ""
+      }
+    },
+    "faq_kDyCm9": {
+      "type": "faq",
+      "blocks": {
+        "category_cq8wee": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_NHm3b6": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Natural Homeopathic\/Herbal Formula<\/strong>",
+            "answer": "<p>A potent combination of minerals and botanicals with a precise affinity for cells altered by UV-A and UV-B exposure.<\/p>"
+          }
+        },
+        "question_ji3pVX": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Safe & Effective<\/strong>",
+            "answer": "<p>AKti-Clear’s unique action only affects damaged cells, triggering the natural process of cell death (Apoptosis) to help shed them, without harming healthy skin.<\/p>"
+          }
+        },
+        "question_yWiQAd": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Quick Treatment Time<\/strong>",
+            "answer": "<p>Noticeable results after just 3 days of application, with full lesion removal within 15-20 days.<\/p>"
+          }
+        },
+        "question_q6xL8f": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Not Suitable For<\/strong>",
+            "answer": "<p>Skin cancers such as Basal Cell Carcinoma, Squamous Cell Carcinoma, or Melanoma.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_cq8wee",
+        "question_NHm3b6",
+        "question_ji3pVX",
+        "question_yWiQAd",
+        "question_q6xL8f"
+      ],
+      "settings": {
+        "faq-id": "",
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "media_grid_tEkhdP",
+    "faq_kDyCm9"
   ]
 }
