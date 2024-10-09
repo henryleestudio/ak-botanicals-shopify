@@ -17,8 +17,8 @@
           "settings": {
             "video": "shopify://files/videos/depositphotos_542352812-stock-video-closeup-pretty-woman-looking-at.mp4",
             "allow_sound": true,
-            "subheading": "Tell your story",
-            "title": "Video slide",
+            "subheading": "Nartural Skin Rejuvenation",
+            "title": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -73,7 +73,7 @@
           "settings": {
             "video": "shopify://files/videos/ak-hero-banner-video-compressed.mp4",
             "allow_sound": false,
-            "subheading": "Nartural skin rejuvenation",
+            "subheading": "Nartural Skin Rejuvenation",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-end sm:text-end",
@@ -101,7 +101,7 @@
           "settings": {
             "image": "shopify://shop_images/pexels-yankrukov-5480023.jpg",
             "subheading": "Tell your story",
-            "title": "Image slide",
+            "title": "Your science backed naturopathic treatment to Actinic Keratosis",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
