@@ -72,6 +72,18 @@
             "stack_products": false,
             "show_quick_buy": true
           }
+        },
+        "accordion_iM6iQg": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -84,7 +96,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "complementary_products"
+        "complementary_products",
+        "accordion_iM6iQg"
       ],
       "settings": {
         "color_scheme": "",
@@ -92,7 +105,7 @@
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
-        "desktop_media_layout": "grid",
+        "desktop_media_layout": "carousel_dots",
         "desktop_media_grid_gap": 30,
         "mobile_controls": "dots",
         "enable_media_autoplay": false,
@@ -143,6 +156,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/4K3dRenderimage-3PNG.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -160,6 +174,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/4K3dRenderimage-2PNG.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -203,6 +218,13 @@
             "icon_width": 16
           }
         },
+        "question_KKn47Q": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
+            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
+          }
+        },
         "question_TrcJDQ": {
           "type": "question",
           "settings": {
@@ -230,27 +252,20 @@
             "question": "<strong>Long-Lasting Moisturization<\/strong>",
             "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.<\/p>"
           }
-        },
-        "question_KKn47Q": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
-            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
-          }
         }
       },
       "block_order": [
         "category_X3UbTH",
+        "question_KKn47Q",
         "question_TrcJDQ",
         "question_yCaBBU",
         "question_emKgXj",
-        "question_WFQVzL",
-        "question_KKn47Q"
+        "question_WFQVzL"
       ],
       "settings": {
         "faq-id": "",
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "show_categories": false,
         "subheading": "",
         "title": "",
