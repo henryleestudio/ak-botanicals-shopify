@@ -167,7 +167,7 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot2024-10-03at12.39.59PM.png",
+            "image": "shopify:\/\/shop_images\/akti-clear-product-3-trans.png",
             "subheading": "",
             "title": "AKti-Clear",
             "content": "<p>AKti-Clear is a simple mineral and botanical-based topical lotion for use on Skin Lesions, Actinic Keratosis and other Abnormal Skin Growths.<\/p>",
@@ -179,7 +179,7 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot2024-10-03at12.40.47PM.png",
+            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-2.2_db93afb6-548a-4726-b324-8bcf9b99b797.png",
             "subheading": "",
             "title": "AK Wound Wash",
             "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
@@ -1001,8 +1001,8 @@
         "logo-list-id": "results",
         "color_scheme": "",
         "separate_section_with_border": false,
-        "subheading": "Results",
-        "title": "",
+        "subheading": "Before & after",
+        "title": "Results",
         "items_per_row": 4,
         "logo_item_background": "",
         "logo_item_border": ""
