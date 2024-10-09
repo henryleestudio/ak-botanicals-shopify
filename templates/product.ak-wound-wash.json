@@ -11,11 +11,13 @@
         "title": {
           "type": "title",
           "settings": {
+            "heading_tag": "h3"
           }
         },
         "price": {
           "type": "price",
           "settings": {
+            "show_taxes_notice": false
           }
         },
         "payment_terms": {
@@ -31,11 +33,18 @@
         "description": {
           "type": "description",
           "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
           }
         },
         "quantity_selector": {
@@ -46,16 +55,22 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-          }
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
+            "title": "Pairs well with",
+            "products_count": 2,
+            "show_below_gallery": true,
+            "stack_products": false,
+            "show_quick_buy": true
           }
         }
       },
@@ -72,16 +87,181 @@
         "complementary_products"
       ],
       "settings": {
+        "color_scheme": "",
+        "container_size": "lg",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": false,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
       }
     },
     "related-products": {
       "type": "related-products",
       "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
+        "content": ""
+      }
+    },
+    "media_grid_xnJmnw": {
+      "type": "media-grid",
+      "blocks": {
+        "image_An7ghB": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-1.webp",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_YF6GAG": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_b64btN": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_An7ghB",
+        "image_YF6GAG",
+        "image_b64btN"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "faq_JWBgCg": {
+      "type": "faq",
+      "blocks": {
+        "category_X3UbTH": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_TrcJDQ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Natural & Effective<\/strong>",
+            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.<\/p>"
+          }
+        },
+        "question_yCaBBU": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Anti-Infective Cleanser<\/strong>",
+            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.<\/p>"
+          }
+        },
+        "question_emKgXj": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Skin Repair & Conditioning<\/strong>",
+            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.<\/p>"
+          }
+        },
+        "question_WFQVzL": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Long-Lasting Moisturization<\/strong>",
+            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.<\/p>"
+          }
+        },
+        "question_KKn47Q": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
+            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_X3UbTH",
+        "question_TrcJDQ",
+        "question_yCaBBU",
+        "question_emKgXj",
+        "question_WFQVzL",
+        "question_KKn47Q"
+      ],
+      "settings": {
+        "faq-id": "",
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "media_grid_xnJmnw",
+    "faq_JWBgCg"
   ]
 }
