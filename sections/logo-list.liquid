@@ -21,7 +21,7 @@
 
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
-  <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
+  <div id="{{ section.settings.logo-list-id }}" class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
     <div class="container container--xl">
       <div class="section-stack">
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, text_alignment: 'center' -%}
@@ -61,6 +61,11 @@
   "class": "shopify-section--logo-list",
   "tag": "section",
   "settings": [
+    {
+      "type":"text",
+      "id":"logo-list-id",
+      "label": "Section id"
+    },
     {
       "type": "color_scheme",
       "id": "color_scheme",
