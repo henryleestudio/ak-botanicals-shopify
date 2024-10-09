@@ -6,7 +6,7 @@
       <div class="section-stack">
         {%- render 'section-header', subheading: section.settings.subheading, heading: section.settings.title, content: section.settings.content -%}
 
-        <div class="faq">
+        <div id="{{ section.settings.faq-id }}" class="faq">
           {%- assign categories_blocks = section.blocks | where: 'type', 'category' -%}
 
           {%- if section.settings.show_categories and categories_blocks.size > 0 -%}
@@ -88,6 +88,11 @@
     "groups": ["header", "custom.overlay"]
   },
   "settings": [
+    {
+      "type":"text",
+      "id":"faq-id",
+      "label":"Section id"
+    },
     {
       "type": "color_scheme",
       "id": "color_scheme",

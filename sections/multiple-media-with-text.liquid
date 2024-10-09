@@ -79,7 +79,7 @@
   {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
   <div class="section-spacing color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }} {% if section.settings.separate_section_with_border %}bordered-section{% endif %}">
-    <div class="container container--md">
+    <div id="{{ section.settings.multi-img-id }}" class="container container--md">
       <multiple-media-with-text {% if section.settings.reveal_on_scroll %}reveal-on-scroll="true"{% endif %} class="multiple-media-with-text {% if use_overlap_layout %}multiple-media-with-text--overlap{% endif %} {% if section.settings.media_position_desktop == 'after_text' %}multiple-media-with-text--reverse{% endif %}">
         <div class="multiple-media-with-text__media-wrapper">
           {%- for block in section.blocks -%}
@@ -146,6 +146,11 @@
     "groups": ["header", "custom.overlay"]
   },
   "settings": [
+    {
+      "type": "text",
+      "id":"multi-img-id",
+      "label":"Section id"
+    },
     {
       "type": "color_scheme",
       "id": "color_scheme",
