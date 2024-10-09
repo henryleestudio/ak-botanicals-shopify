@@ -5,14 +5,13 @@
       "blocks": {
         "video_xgVcyy": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video": "shopify:\/\/files\/videos\/depositphotos_542352812-stock-video-closeup-pretty-woman-looking-at.mp4",
-            "allow_sound": true,
+            "video": "shopify:\/\/files\/videos\/sun-blocking-hero-video-compressed.mp4",
+            "allow_sound": false,
             "subheading": "Nartural Skin Rejuvenation",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -33,6 +32,7 @@
         },
         "video_wdcGpc": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video": "shopify:\/\/files\/videos\/ak-hero-banner-video-compressed.mp4",
             "allow_sound": false,
@@ -682,7 +682,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/ak-logo-blk-offwhite-bg_3c54d986-3806-456e-b32c-68798bfa826e.png",
+            "image": "shopify:\/\/shop_images\/ak-botanicals-blk-logo-off-white-bg.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
