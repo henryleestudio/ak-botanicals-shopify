@@ -189,7 +189,7 @@
         "section_width": "lg",
         "spacing": "md",
         "subheading": "",
-        "title": "Media grid",
+        "title": "",
         "content": ""
       }
     },
@@ -255,7 +255,7 @@
   "order": [
     "main",
     "related-products",
-    "media_grid_tEkhdP",
-    "faq_kDyCm9"
+    "faq_kDyCm9",
+    "media_grid_tEkhdP"
   ]
 }
