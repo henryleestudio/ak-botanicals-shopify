@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -6,7 +15,7 @@
         "video_xgVcyy": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/sun-blocking-hero-video-compressed.mp4",
+            "video": "shopify://files/videos/sun-blocking-hero-video-compressed.mp4",
             "allow_sound": false,
             "subheading": "Nartural Skin Rejuvenation",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
@@ -34,7 +43,7 @@
           "type": "video",
           "disabled": true,
           "settings": {
-            "video": "shopify:\/\/files\/videos\/ak-hero-banner-video-compressed.mp4",
+            "video": "shopify://files/videos/ak-hero-banner-video-compressed.mp4",
             "allow_sound": false,
             "subheading": "Nartural Skin Rejuvenation",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
@@ -42,7 +51,7 @@
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
             "button_1_text": "Skin Solutions",
-            "button_1_link": "shopify:\/\/collections\/featured-products",
+            "button_1_link": "shopify://collections/featured-products",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -62,7 +71,7 @@
           "type": "video",
           "disabled": true,
           "settings": {
-            "video": "shopify:\/\/files\/videos\/hand-rub.mp4",
+            "video": "shopify://files/videos/hand-rub.mp4",
             "allow_sound": true,
             "subheading": "",
             "title": "",
@@ -90,7 +99,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-yankrukov-5480023.jpg",
+            "image": "shopify://shop_images/pexels-yankrukov-5480023.jpg",
             "subheading": "Tell your story",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
             "mobile_text_position": "place-self-center text-center",
@@ -167,22 +176,22 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/akti-clear-product-3-trans.png",
+            "image": "shopify://shop_images/akti-clear-product-3-trans.png",
             "subheading": "",
             "title": "AKti-Clear",
-            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical lotion for use on Skin Lesions, Actinic Keratosis and other Abnormal Skin Growths.<\/p>",
+            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical lotion for use on Skin Lesions, Actinic Keratosis and other Abnormal Skin Growths.</p>",
             "link_text": "",
-            "link_url": "https:\/\/google.com",
+            "link_url": "https://google.com",
             "link_style": "link"
           }
         },
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-2.2_db93afb6-548a-4726-b324-8bcf9b99b797.png",
+            "image": "shopify://shop_images/ak-wound-wash-product-2.2_db93afb6-548a-4726-b324-8bcf9b99b797.png",
             "subheading": "",
             "title": "AK Wound Wash",
-            "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
+            "content": "<p>An effective treatment to <strong>“STOP” </strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar/Actinic Keratosis</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -194,7 +203,7 @@
           "settings": {
             "subheading": "",
             "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...<\/p>",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -208,7 +217,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "background_image": "shopify:\/\/shop_images\/pexels-mogildea-justin-1851928-6419048.jpg",
+        "background_image": "shopify://shop_images/pexels-mogildea-justin-1851928-6419048.jpg",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
@@ -336,7 +345,7 @@
         "testimonial_YfxkAX": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -345,7 +354,7 @@
         "testimonial_pGeeBC": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -354,7 +363,7 @@
         "testimonial_dLRajF": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -385,7 +394,7 @@
           "type": "before",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/before-cropped.png",
+            "image": "shopify://shop_images/before-cropped.png",
             "text": "Before",
             "link_text": "",
             "link_url": "",
@@ -396,7 +405,7 @@
           "type": "after",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-marcello-sokal-62573206-8556245.jpg",
+            "image": "shopify://shop_images/pexels-marcello-sokal-62573206-8556245.jpg",
             "text": "After",
             "link_text": "",
             "link_url": "",
@@ -413,8 +422,8 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Before\/after",
-        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "cursor_direction": "horizontal",
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
@@ -430,7 +439,7 @@
         "image_size": "auto",
         "subheading": "Keep me updated",
         "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.</p>",
         "button_text": "Subscribe",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -490,7 +499,7 @@
         "richtext_VWNfT9": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Prevent Actinic Keratosis and ensure your skin stays healthy and protected for years to come<\/p>"
+            "content": "<p>Prevent Actinic Keratosis and ensure your skin stays healthy and protected for years to come</p>"
           }
         }
       },
@@ -532,8 +541,8 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "lg",
-        "video": "shopify:\/\/files\/videos\/suring-video.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/suring-video.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
     },
@@ -543,14 +552,14 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-iurii-laimin-78973777-14641739.jpg",
+            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641739.jpg",
             "rotation": 0
           }
         },
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/alana-kapetanellis_-dupe.jpg",
+            "image": "shopify://shop_images/alana-kapetanellis_-dupe.jpg",
             "rotation": 0
           }
         }
@@ -573,7 +582,7 @@
         "text_alignment": "center",
         "subheading": "Actinic Keratosis",
         "title": "Why treat Actinic Keratosis?",
-        "content": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<\/p>",
+        "content": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -601,7 +610,7 @@
         "richtext_cPMbwd": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -614,7 +623,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/nicole-osborne-dupe.jpg",
+        "image": "shopify://shop_images/nicole-osborne-dupe.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -634,7 +643,7 @@
         "richtext_jLbiMq": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
         }
       },
@@ -646,7 +655,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "sm",
-        "image": "shopify:\/\/shop_images\/pexels-sumcig-28528885.jpg",
+        "image": "shopify://shop_images/pexels-sumcig-28528885.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -664,7 +673,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-laura-va-3546191-10137593.jpg",
+            "image": "shopify://shop_images/pexels-laura-va-3546191-10137593.jpg",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -682,7 +691,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/ak-botanicals-blk-logo-off-white-bg.png",
+            "image": "shopify://shop_images/ak-botanicals-blk-logo-off-white-bg_105a5ace-afa8-4b63-8de6-c05555741af4.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -700,7 +709,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-iurii-laimin-78973777-14641755.jpg",
+            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641755.jpg",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -757,8 +766,8 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "lg",
-        "video": "shopify:\/\/files\/videos\/InShot_20241004_193430999.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/InShot_20241004_193430999.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
     },
@@ -768,14 +777,14 @@
         "image_VmFcBD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Depositphotos_211913696_XL.webp",
+            "image": "shopify://shop_images/Depositphotos_211913696_XL.webp",
             "rotation": 0
           }
         },
         "image_ixbLzw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-gottapics-18421438.jpg",
+            "image": "shopify://shop_images/pexels-gottapics-18421438.jpg",
             "rotation": 0
           }
         }
@@ -798,7 +807,7 @@
         "text_alignment": "center",
         "subheading": "the secret ingredient",
         "title": "How it works",
-        "content": "<p>The main ingredient is derived from Euphorbia peplus, a plant that produces a milky sap that has been used as a natural remedy for skin cancers like actinic keratosis.<\/p>",
+        "content": "<p>The main ingredient is derived from Euphorbia peplus, a plant that produces a milky sap that has been used as a natural remedy for skin cancers like actinic keratosis.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -814,49 +823,49 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic keratoses (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.<\/p>"
+            "answer": "<p>Actinic keratoses (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.</p>"
           }
         },
         "question_rNWBmd": {
           "type": "question",
           "settings": {
             "question": "Why treat Actinic Keratosis?",
-            "answer": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. <br\/><br\/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>"
+            "answer": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. <br/><br/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.</p>"
           }
         },
         "question_mrjnrz": {
           "type": "question",
           "settings": {
             "question": "Skin Cancer and Actinic Keratosis",
-            "answer": "<p>AKs can progress into skin cancer if left untreated. Skin cancer is the most common cancer in the U.S., with more than 1 million new cases annually. About 80% of these will be basal cell carcinoma, 16% squamous cell carcinoma, and 4% melanoma.<\/p>"
+            "answer": "<p>AKs can progress into skin cancer if left untreated. Skin cancer is the most common cancer in the U.S., with more than 1 million new cases annually. About 80% of these will be basal cell carcinoma, 16% squamous cell carcinoma, and 4% melanoma.</p>"
           }
         },
         "question_kHjGYF": {
           "type": "question",
           "settings": {
             "question": "Treatment Options",
-            "answer": "<p>Various treatments are available for AKs. Early detection and treatment can prevent them from developing into skin cancer. Most cases of AKs and skin cancer are treatable and curable if caught early.<\/p>"
+            "answer": "<p>Various treatments are available for AKs. Early detection and treatment can prevent them from developing into skin cancer. Most cases of AKs and skin cancer are treatable and curable if caught early.</p>"
           }
         },
         "question_VrUYpX": {
           "type": "question",
           "settings": {
             "question": "What Do AKs Look Like?",
-            "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.<\/p>"
+            "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.</p>"
           }
         },
         "question_ekmKBT": {
           "type": "question",
           "settings": {
             "question": "FDA Approved?",
-            "answer": "<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
+            "answer": "<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.</p>"
           }
         },
         "question_eQfq3a": {
           "type": "question",
           "settings": {
             "question": "How will it effect my skin?",
-            "answer": "<p>When applied to an abnormal (pre-cancerous) sun-damaged skin lesion you may initially experience a<strong>tingling  and\/or  mild  burning  sensation<\/strong>within minutes of the first application. <br\/><br\/>Usually within hours there will be a color change (usually white but may be dark in nature).  After 6 to 24 hours you may notice exudate (“pus”) starting to come from the lesion (abnormal cells are being derided). <br\/><br\/>Mild to moderate discomfort may accompany each subsequent application (an over-the counter pain reliever may be required depending on individual tolerance to pain). The derided lesion will eventually form an eschar (“scab”) and will usually fall off in 12 to 15 days.  <br\/><br\/>Often a cavitation, (sunken in area) will occur in the are a where the eschar was. This is normal and will gradually fill in with new tissue over time.<\/p>"
+            "answer": "<p>When applied to an abnormal (pre-cancerous) sun-damaged skin lesion you may initially experience a<strong>tingling  and/or  mild  burning  sensation</strong>within minutes of the first application. <br/><br/>Usually within hours there will be a color change (usually white but may be dark in nature).  After 6 to 24 hours you may notice exudate (“pus”) starting to come from the lesion (abnormal cells are being derided). <br/><br/>Mild to moderate discomfort may accompany each subsequent application (an over-the counter pain reliever may be required depending on individual tolerance to pain). The derided lesion will eventually form an eschar (“scab”) and will usually fall off in 12 to 15 days.  <br/><br/>Often a cavitation, (sunken in area) will occur in the are a where the eschar was. This is normal and will gradually fill in with new tissue over time.</p>"
           }
         },
         "category_87LkGd": {
@@ -873,7 +882,7 @@
           "disabled": true,
           "settings": {
             "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "question_qzTx7Q": {
@@ -881,7 +890,7 @@
           "disabled": true,
           "settings": {
             "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         }
       },
@@ -919,14 +928,14 @@
         "heading_qpfaBG": {
           "type": "heading",
           "settings": {
-            "text": "<strong>the different types of skin cancer<\/strong>",
+            "text": "<strong>the different types of skin cancer</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_ptJcgr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Your skin is composed of various types of cells, and when the DNA in these cells becomes damaged, it can lead to skin cancer. <br\/><br\/>The type of skin cancer depends on the cells where the cancer starts. Below is a breakdown of the most common types of skin cancer, their risk factors, and signs to look out for.<\/p>"
+            "content": "<p>Your skin is composed of various types of cells, and when the DNA in these cells becomes damaged, it can lead to skin cancer. <br/><br/>The type of skin cancer depends on the cells where the cancer starts. Below is a breakdown of the most common types of skin cancer, their risk factors, and signs to look out for.</p>"
           }
         }
       },
@@ -939,7 +948,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/skin.png",
+        "image": "shopify://shop_images/skin.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
@@ -952,7 +961,7 @@
         "logo_mBknCN": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/before-cropped.png",
+            "logo": "shopify://shop_images/before-cropped.png",
             "logo_width": 250,
             "link": ""
           }
@@ -960,7 +969,7 @@
         "logo_ya3XYH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/after-cropped.png",
+            "logo": "shopify://shop_images/after-cropped.png",
             "logo_width": 250,
             "link": ""
           }
@@ -968,7 +977,7 @@
         "logo_xywxWY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/day4.png",
+            "logo": "shopify://shop_images/day4.png",
             "logo_width": 250,
             "link": ""
           }
@@ -976,7 +985,7 @@
         "logo_Qg9FeJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/day15.png",
+            "logo": "shopify://shop_images/day15.png",
             "logo_width": 250,
             "link": ""
           }
