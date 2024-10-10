@@ -1,0 +1,23 @@
+img.header__logo-image.blk-logo {
+display: none;
+}
+
+img.header__logo-image:not(.blk-logo) {
+opacity: 1;
+} 
+
+.is-solid img.header__logo-image:not(.blk-logo) {
+display: none;
+}
+
+.is-solid img.header__logo-image.blk-logo {
+display: block;
+} 
+
+x-header:hover img.header__logo-image:not(.blk-logo){
+display:none;
+}
+
+x-header:hover img.header__logo-image.blk-logo{
+display: block;
+}
