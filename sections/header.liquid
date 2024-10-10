@@ -73,6 +73,7 @@
 
         <span class="sr-only">{{ shop.name }}</span>
         {{- section.settings.logo | image_url: width: section.settings.logo.width | image_tag: sizes: sizes, widths: widths, class: 'header__logo-image' -}}
+        {{- section.settings.logo_blk | image_url: width: section.settings.logo_blk.width | image_tag: sizes: sizes, widths: widths, class: 'header__logo-image blk-logo' -}}
 
         {%- if section.settings.transparent_logo -%}
           {{- section.settings.transparent_logo | image_url: width: section.settings.transparent_logo.width | image_tag: sizes: sizes, widths: widths, class: 'header__logo-image header__logo-image--transparent' -}}
@@ -314,6 +315,12 @@
     {
       "type": "image_picker",
       "id": "logo",
+      "label": "t:global.image.image",
+      "info": "t:sections.header.logo_size_recommendation"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo_blk",
       "label": "t:global.image.image",
       "info": "t:sections.header.logo_size_recommendation"
     },
