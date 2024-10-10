@@ -140,6 +140,72 @@
         "content": ""
       }
     },
+    "faq_JWBgCg": {
+      "type": "faq",
+      "blocks": {
+        "category_X3UbTH": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_KKn47Q": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
+            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
+          }
+        },
+        "question_TrcJDQ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Natural & Effective<\/strong>",
+            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.<\/p>"
+          }
+        },
+        "question_yCaBBU": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Anti-Infective Cleanser<\/strong>",
+            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.<\/p>"
+          }
+        },
+        "question_emKgXj": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Skin Repair & Conditioning<\/strong>",
+            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.<\/p>"
+          }
+        },
+        "question_WFQVzL": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Long-Lasting Moisturization<\/strong>",
+            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_X3UbTH",
+        "question_KKn47Q",
+        "question_TrcJDQ",
+        "question_yCaBBU",
+        "question_emKgXj",
+        "question_WFQVzL"
+      ],
+      "settings": {
+        "faq-id": "",
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "show_categories": false,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
     "media_grid_xnJmnw": {
       "type": "media-grid",
       "blocks": {
@@ -214,78 +280,12 @@
         "title": "",
         "content": ""
       }
-    },
-    "faq_JWBgCg": {
-      "type": "faq",
-      "blocks": {
-        "category_X3UbTH": {
-          "type": "category",
-          "disabled": true,
-          "settings": {
-            "title": "Order",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
-        "question_KKn47Q": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
-            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
-          }
-        },
-        "question_TrcJDQ": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Natural & Effective<\/strong>",
-            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.<\/p>"
-          }
-        },
-        "question_yCaBBU": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Anti-Infective Cleanser<\/strong>",
-            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.<\/p>"
-          }
-        },
-        "question_emKgXj": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Skin Repair & Conditioning<\/strong>",
-            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.<\/p>"
-          }
-        },
-        "question_WFQVzL": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Long-Lasting Moisturization<\/strong>",
-            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "category_X3UbTH",
-        "question_KKn47Q",
-        "question_TrcJDQ",
-        "question_yCaBBU",
-        "question_emKgXj",
-        "question_WFQVzL"
-      ],
-      "settings": {
-        "faq-id": "",
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "show_categories": false,
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "media_grid_xnJmnw",
-    "faq_JWBgCg"
+    "faq_JWBgCg",
+    "media_grid_xnJmnw"
   ]
 }
