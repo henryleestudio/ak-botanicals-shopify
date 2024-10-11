@@ -179,7 +179,7 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-2.2_db93afb6-548a-4726-b324-8bcf9b99b797.png",
+            "image": "shopify:\/\/shop_images\/AKWoundWashBottleMockUp.png",
             "subheading": "",
             "title": "AK Wound Wash",
             "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
@@ -520,21 +520,6 @@
         "video": "shopify:\/\/files\/videos\/suring-video.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/friends-nature.gif",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multiple-media-with-text": {
@@ -1006,6 +991,21 @@
         "items_per_row": 4,
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/friends-nature.gif",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
