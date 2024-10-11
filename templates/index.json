@@ -9,7 +9,7 @@
             "video": "shopify:\/\/files\/videos\/sun-blocking-hero-video-compressed.mp4",
             "allow_sound": false,
             "subheading": "Nartural Skin Rejuvenation",
-            "title": "Your science based treatment for Actinic Keratosis and sun damage",
+            "title": "Your proven treatment for Actinic Keratosis & sun damaged skin",
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
@@ -179,7 +179,7 @@
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AKWoundWashBottleMockUp.png",
+            "image": "shopify:\/\/shop_images\/wound-wash-product-trans.webp",
             "subheading": "",
             "title": "AK Wound Wash",
             "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
