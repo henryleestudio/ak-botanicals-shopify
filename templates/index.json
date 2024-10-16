@@ -517,7 +517,7 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "lg",
-        "video": "shopify:\/\/files\/videos\/suring-video.mp4",
+        "video": "shopify:\/\/files\/videos\/ak-action-video-compressed.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
@@ -685,7 +685,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-iurii-laimin-78973777-14641755.jpg",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-10-15_at_6.51.30_PM.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -931,6 +931,191 @@
         "remove_vertical_spacing": true
       }
     },
+    "image_with_text_block_NU3wXG": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_TYPPtb": {
+          "type": "subheading",
+          "settings": {
+            "text": "Image with text block"
+          }
+        },
+        "richtext_LFmVQX": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_TYPPtb",
+        "richtext_LFmVQX"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "image_size": "lg",
+        "image": "shopify:\/\/shop_images\/nicole-osborne-dupe_4a8c3159-c875-4ed2-bc7d-f5b7b7e7fa43.jpg",
+        "content_width": "sm",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_ciNKFX": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_htwhFY": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_34WQKn": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Nmf6rP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_htwhFY",
+        "heading_34WQKn",
+        "richtext_Nmf6rP"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify:\/\/shop_images\/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "media_grid_EC7fgN": {
+      "type": "media-grid",
+      "blocks": {
+        "image_EreDxN": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-10-15_at_8.56.39_PM.png",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_WD3WDD": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_QUVBm7": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_EreDxN",
+        "image_WD3WDD",
+        "image_QUVBm7"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 180,
+        "section_width": "lg",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Media grid",
+        "content": ""
+      }
+    },
+    "before_after_VF3mp3": {
+      "type": "before-after",
+      "blocks": {
+        "before_XyyRCm": {
+          "type": "before",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-10-07_at_2.01.33_PM.png",
+            "text": "Before",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        },
+        "after_UqEVwQ": {
+          "type": "after",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify:\/\/shop_images\/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
+            "text": "After",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "before_XyyRCm",
+        "after_UqEVwQ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "cursor_direction": "horizontal",
+        "cursor_initial_position": 50,
+        "cursor_background": "#ffffff",
+        "cursor_arrows_color": "#000000"
+      }
+    },
     "logo_list_JiRF8y": {
       "type": "logo-list",
       "blocks": {
@@ -996,10 +1181,10 @@
     "newsletter": {
       "type": "newsletter",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "separate_section_with_border": true,
-        "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/friends-nature.gif",
+        "image_size": "sm",
+        "image": "shopify:\/\/shop_images\/banner-img_b47ffb75-6eb7-433d-b4e9-44bf22afd052.png",
         "subheading": "Keep me updated",
         "title": "Newsletter",
         "content": "<p>A short sentence describing what someone will receive by subscribing.<\/p>",
@@ -1027,6 +1212,10 @@
     "multiple_media_with_text_xRkPp7",
     "faq_KBkNdU",
     "image_with_text_Mb6t6m",
+    "image_with_text_block_NU3wXG",
+    "image_with_text_ciNKFX",
+    "media_grid_EC7fgN",
+    "before_after_VF3mp3",
     "logo_list_JiRF8y",
     "newsletter"
   ]
