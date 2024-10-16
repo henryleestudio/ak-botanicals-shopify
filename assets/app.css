@@ -21,3 +21,11 @@ x-header:hover img.header__logo-image:not(.blk-logo) {
 x-header:hover img.header__logo-image.blk-logo {
   display: block;
 }
+
+.no-trans-header img.header__logo-image {
+  display: none;
+}
+
+.no-trans-header img.header__logo-image.blk-logo {
+  display: block;
+}

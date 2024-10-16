@@ -84,7 +84,8 @@
     endif
   %}
 
-  <body class="{{ features_class }} color-scheme color-scheme--{{ settings.default_color_scheme.id }}">
+  {% comment %} custom code - Henry Lee Oct.16.2024 {% endcomment %}
+  <body class="{{ features_class }} color-scheme color-scheme--{{ settings.default_color_scheme.id }} {% unless template == 'index' %} no-trans-header {% endunless %} {{ template }}">
     {%- render 'shadow-dom-templates' -%}
 
     <loading-bar class="loading-bar" aria-hidden="true"></loading-bar>
