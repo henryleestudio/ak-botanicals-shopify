@@ -84,8 +84,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Newsletter",
-            "content": "<p>Sign up to our newsletter to receive exclusive offers.<\/p>",
+            "title": "Transform Your Skin, Risk-Free",
+            "content": "<p>Try It Free by Sharing Your Results<\/p>",
             "button_background": "",
             "button_text_color": ""
           }
