@@ -8,12 +8,12 @@
           "settings": {
             "video": "shopify:\/\/files\/videos\/sun-blocking-hero-video-compressed.mp4",
             "allow_sound": false,
-            "subheading": "Nartural Skin Rejuvenation",
-            "title": "Your proven treatment for Actinic Keratosis & sun damaged skin",
+            "subheading": "Nature Provides",
+            "title": "Dermatological Skincare for Use on Actinic Keratosis & Sun Damaged Skin Lesions",
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
-            "button_1_text": "Skin treatments",
+            "button_1_text": "GET AKti-Clear",
             "button_1_link": "",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
@@ -140,7 +140,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "natural safe & effective",
+            "title": "Botanically-Infused",
             "link_url": "",
             "link_text": ""
           }
@@ -158,7 +158,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Solution for non-melanoma lesions, actinic keratosis, and sun-damaged skin"
+        "subheading": "Our products for use on actinic keratosis"
       }
     },
     "image-with-text-scroll": {
@@ -167,10 +167,10 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/akti-clear-product-3-trans.png",
+            "image": "shopify:\/\/shop_images\/akti-clear-product-bundle-trans.webp",
             "subheading": "",
-            "title": "AKti-Clear",
-            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical lotion for use on Skin Lesions, Actinic Keratosis and other Abnormal Skin Growths.<\/p>",
+            "title": "AKti-Clear™",
+            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical solution for use on Skin Lesions, Actinic Keratosis and other abnormal skin growths.<\/p>",
             "link_text": "",
             "link_url": "https:\/\/google.com",
             "link_style": "link"
@@ -182,7 +182,7 @@
             "image": "shopify:\/\/shop_images\/wound-wash-product-trans.webp",
             "subheading": "",
             "title": "AK Wound Wash",
-            "content": "<p>An effective treatment to <strong>“STOP” <\/strong>sun-damage pre-cancerous skin lesions, an “All Natural, Safe and Effective Homeopathic Formula” to remove Solar\/Actinic Keratosis<\/p>",
+            "content": "<p>Next Generation of Wound and Skin Care Using Naturally-Derived Lipids to Clean Wounds and Promote Healing<\/p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -208,7 +208,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "background_image": "shopify:\/\/shop_images\/pexels-mogildea-justin-1851928-6419048.jpg",
+        "background_image": "shopify:\/\/shop_images\/soursop-banner_eecd5377-38d5-4e8a-b5d0-c56447c99bb0.png",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
@@ -475,7 +475,7 @@
         "richtext_VWNfT9": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Prevent Actinic Keratosis and ensure your skin stays healthy and protected for years to come<\/p>"
+            "content": "<p>Your skin can stay healthy and protected for years to come.<\/p>"
           }
         }
       },
@@ -485,7 +485,7 @@
         "richtext_VWNfT9"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": false,
         "content_width": "sm",
         "text_position": "center",
@@ -517,7 +517,7 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "sm",
-        "video": "shopify:\/\/files\/videos\/ak-action-video-compressed.mp4",
+        "video": "shopify:\/\/files\/videos\/suring-video.mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
@@ -557,8 +557,8 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "Actinic Keratosis",
-        "title": "Why treat Actinic Keratosis?",
-        "content": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<\/p>",
+        "title": "Why choose AKti-Clear?",
+        "content": "<p>If unaddressed, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<\/p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -781,9 +781,9 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "the secret ingredient",
-        "title": "How it works",
-        "content": "<p>The main ingredient is derived from Euphorbia peplus, a plant that produces a milky sap that has been used as a natural remedy for skin cancers like actinic keratosis.<\/p>",
+        "subheading": "Botanical Ingredients",
+        "title": "What’s in AKti-Clear™?",
+        "content": "<p><em><strong>Sanguinaria canadensis<\/strong><\/em> is a plant native to North America. It has been around for centuries and is known for its medicinal properties.<\/p><p><em><strong>Annona muricata<\/strong><\/em> is the fruit from a plant belonging to the Annonaceae family that has been widely used globally as a traditional medicine for many diseases.<\/p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -799,14 +799,14 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic keratoses (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.<\/p>"
+            "answer": "<p>Actinic Keratosis (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.<\/p>"
           }
         },
         "question_rNWBmd": {
           "type": "question",
           "settings": {
-            "question": "Why treat Actinic Keratosis?",
-            "answer": "<p>If left untreated, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. <br\/><br\/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>"
+            "question": "Why address Actinic Keratosis?",
+            "answer": "<p>AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<br\/><br\/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>"
           }
         },
         "question_mrjnrz": {
@@ -828,13 +828,6 @@
           "settings": {
             "question": "What Do AKs Look Like?",
             "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.<\/p>"
-          }
-        },
-        "question_ekmKBT": {
-          "type": "question",
-          "settings": {
-            "question": "FDA Approved?",
-            "answer": "<p>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
           }
         },
         "question_eQfq3a": {
@@ -876,7 +869,6 @@
         "question_mrjnrz",
         "question_kHjGYF",
         "question_VrUYpX",
-        "question_ekmKBT",
         "question_eQfq3a",
         "category_87LkGd",
         "question_J4rbPy",
@@ -1185,7 +1177,7 @@
         "color_scheme": "scheme-4",
         "separate_section_with_border": false,
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/banner-img-4.png",
+        "image": "shopify:\/\/shop_images\/news-letter-banner-img.webp",
         "subheading": "Your Skin, Our Priority",
         "title": "Latest Skin Care Insights",
         "content": "<p>The latest insights on preventing and treating Actinic Keratosis and other skin disorders<\/p>",
