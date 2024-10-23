@@ -33,11 +33,11 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#2c2d24",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
-          "primary_button_background": "#1c1c1c",
-          "primary_button_text_color": "#ffffff",
+          "text_color": "#fff8f3",
+          "primary_button_background": "#b5c29c",
+          "primary_button_text_color": "#fff8f3",
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
         }

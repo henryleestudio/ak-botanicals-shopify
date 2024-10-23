@@ -85,7 +85,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Transform Your Skin, Risk-Free",
-            "content": "<p>Try It Free by Sharing Your Results<\/p>",
+            "content": "",
             "button_background": "",
             "button_text_color": ""
           }
@@ -110,7 +110,7 @@
           "type": "text",
           "settings": {
             "title": "AK Botanicals",
-            "content": "<p>We offer a natural, safe, and effective homeopathic formula designed to remove sun-damaged, pre-cancerous skin lesions (Solar\/Actinic Keratosis) before they can develop into cancer.<\/p>",
+            "content": "<p>We offer a safe, effective botanically-infused formula designed to remove sun-damaged skin lesions (Solar\/Actinic Keratosis).<\/p>",
             "enable_follow_on_shop": true
           }
         }
