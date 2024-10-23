@@ -557,7 +557,7 @@
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
         "subheading": "Actinic Keratosis",
-        "title": "Why choose AKti-Clear?",
+        "title": "Why choose AKti-Clear™?",
         "content": "<p>If unaddressed, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<\/p>",
         "button_1_text": "",
         "button_1_link": "",
@@ -753,14 +753,14 @@
         "image_VmFcBD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Depositphotos_211913696_XL.webp",
+            "image": "shopify:\/\/shop_images\/standard_compressed_Bloodroot__Sanguinaria_canadensis.jpg",
             "rotation": 0
           }
         },
         "image_ixbLzw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-gottapics-18421438.jpg",
+            "image": "shopify:\/\/shop_images\/nicole-osborne-dupe_4a8c3159-c875-4ed2-bc7d-f5b7b7e7fa43.jpg",
             "rotation": 0
           }
         }
@@ -833,8 +833,8 @@
         "question_eQfq3a": {
           "type": "question",
           "settings": {
-            "question": "How will it effect my skin?",
-            "answer": "<p>When applied to an abnormal (pre-cancerous) sun-damaged skin lesion you may initially experience a<strong>tingling  and\/or  mild  burning  sensation<\/strong>within minutes of the first application. <br\/><br\/>Usually within hours there will be a color change (usually white but may be dark in nature).  After 6 to 24 hours you may notice exudate (“pus”) starting to come from the lesion (abnormal cells are being derided). <br\/><br\/>Mild to moderate discomfort may accompany each subsequent application (an over-the counter pain reliever may be required depending on individual tolerance to pain). The derided lesion will eventually form an eschar (“scab”) and will usually fall off in 12 to 15 days.  <br\/><br\/>Often a cavitation, (sunken in area) will occur in the are a where the eschar was. This is normal and will gradually fill in with new tissue over time.<\/p>"
+            "question": "How does AKti-Clear™ work on the skin?",
+            "answer": "<p>Upon application to sun-damaged areas, you may feel a mild tingling or burning sensation. Within hours, the skin may change color, and after 6 to 24 hours, a small amount of exudate may appear as the skin is being debrided.<\/p><p>Some discomfort may follow each application, and over-the-counter pain relief may help. After use, a scab may form and typically fall off within 12 to 15 days, often leaving a temporary sunken area that will gradually fill in with new, healthy tissue.<\/p>"
           }
         },
         "category_87LkGd": {
