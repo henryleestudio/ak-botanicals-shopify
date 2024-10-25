@@ -177,8 +177,8 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/akti-clear-product-bundle-trans.webp",
-            "subheading": "",
-            "title": "AKti-Clear™",
+            "subheading": "<strong>AKti-Clear™</strong>",
+            "title": "",
             "content": "<p>AKti-Clear is a simple mineral and botanical-based topical solution for use on Skin Lesions, Actinic Keratosis and other abnormal skin growths.</p>",
             "link_text": "",
             "link_url": "https://google.com",
@@ -189,9 +189,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/wound-wash-product-trans.webp",
-            "subheading": "",
-            "title": "AK Wound Wash",
-            "content": "<p>Next Generation of Wound and Skin Care Using Naturally-Derived Lipids to Clean Wounds and Promote Healing</p>",
+            "subheading": "<strong>AK Wound wash</strong>",
+            "title": "",
+            "content": "<p>Next generation of wound and skin care using naturally-derived lipids to clean wounds and promote healing.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
