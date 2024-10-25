@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -6,7 +15,7 @@
         "video_xgVcyy": {
           "type": "video",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/ak-hero-video-sun-compressed.mp4",
+            "video": "shopify://files/videos/sunshine girl.mp4",
             "allow_sound": false,
             "subheading": "Nature Provides",
             "title": "Dermatological Skincare for Actinic Keratosis & Sun Damaged Skin Lesions",
@@ -34,7 +43,7 @@
           "type": "video",
           "disabled": true,
           "settings": {
-            "video": "shopify:\/\/files\/videos\/ak-hero-banner-video-compressed.mp4",
+            "video": "shopify://files/videos/ak-hero-banner-video-compressed.mp4",
             "allow_sound": false,
             "subheading": "Nartural Skin Rejuvenation",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
@@ -42,7 +51,7 @@
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
             "button_1_text": "Skin Solutions",
-            "button_1_link": "shopify:\/\/collections\/featured-products",
+            "button_1_link": "shopify://collections/featured-products",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -62,7 +71,7 @@
           "type": "video",
           "disabled": true,
           "settings": {
-            "video": "shopify:\/\/files\/videos\/hand-rub.mp4",
+            "video": "shopify://files/videos/hand-rub.mp4",
             "allow_sound": true,
             "subheading": "",
             "title": "",
@@ -90,7 +99,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-yankrukov-5480023.jpg",
+            "image": "shopify://shop_images/pexels-yankrukov-5480023.jpg",
             "subheading": "Tell your story",
             "title": "Your science backed naturopathic treatment to Actinic Keratosis",
             "mobile_text_position": "place-self-center text-center",
@@ -167,22 +176,22 @@
         "item-1": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/akti-clear-product-bundle-trans.webp",
+            "image": "shopify://shop_images/akti-clear-product-bundle-trans.webp",
             "subheading": "",
             "title": "AKti-Clear™",
-            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical solution for use on Skin Lesions, Actinic Keratosis and other abnormal skin growths.<\/p>",
+            "content": "<p>AKti-Clear is a simple mineral and botanical-based topical solution for use on Skin Lesions, Actinic Keratosis and other abnormal skin growths.</p>",
             "link_text": "",
-            "link_url": "https:\/\/google.com",
+            "link_url": "https://google.com",
             "link_style": "link"
           }
         },
         "item-2": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wound-wash-product-trans.webp",
+            "image": "shopify://shop_images/wound-wash-product-trans.webp",
             "subheading": "",
             "title": "AK Wound Wash",
-            "content": "<p>Next Generation of Wound and Skin Care Using Naturally-Derived Lipids to Clean Wounds and Promote Healing<\/p>",
+            "content": "<p>Next Generation of Wound and Skin Care Using Naturally-Derived Lipids to Clean Wounds and Promote Healing</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -194,7 +203,7 @@
           "settings": {
             "subheading": "",
             "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...<\/p>",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -208,7 +217,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "background_image": "shopify:\/\/shop_images\/soursop-banner_eecd5377-38d5-4e8a-b5d0-c56447c99bb0.png",
+        "background_image": "shopify://shop_images/soursop-banner_eecd5377-38d5-4e8a-b5d0-c56447c99bb0.png",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
@@ -336,7 +345,7 @@
         "testimonial_YfxkAX": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -345,7 +354,7 @@
         "testimonial_pGeeBC": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -354,7 +363,7 @@
         "testimonial_dLRajF": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "logo_max_width": 140,
             "logo_mobile_max_width": 100,
             "author": ""
@@ -385,7 +394,7 @@
           "type": "before",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/before-cropped.png",
+            "image": "shopify://shop_images/before-cropped.png",
             "text": "Before",
             "link_text": "",
             "link_url": "",
@@ -396,7 +405,7 @@
           "type": "after",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-marcello-sokal-62573206-8556245.jpg",
+            "image": "shopify://shop_images/pexels-marcello-sokal-62573206-8556245.jpg",
             "text": "After",
             "link_text": "",
             "link_url": "",
@@ -413,8 +422,8 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Before\/after",
-        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "cursor_direction": "horizontal",
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
@@ -475,7 +484,7 @@
         "richtext_VWNfT9": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Your skin can stay healthy and protected for years to come.<\/p>"
+            "content": "<p>Your skin can stay healthy and protected for years to come.</p>"
           }
         }
       },
@@ -517,8 +526,8 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "sm",
-        "video": "shopify:\/\/files\/videos\/suring-video.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/suring-video.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
     },
@@ -528,14 +537,14 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-iurii-laimin-78973777-14641739.jpg",
+            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641739.jpg",
             "rotation": 0
           }
         },
         "image-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/alana-kapetanellis_-dupe.jpg",
+            "image": "shopify://shop_images/alana-kapetanellis_-dupe.jpg",
             "rotation": 0
           }
         }
@@ -558,7 +567,7 @@
         "text_alignment": "center",
         "subheading": "Actinic Keratosis",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>If unaddressed, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<\/p>",
+        "content": "<p>If unaddressed, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -586,7 +595,7 @@
         "richtext_cPMbwd": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -599,7 +608,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/nicole-osborne-dupe.jpg",
+        "image": "shopify://shop_images/nicole-osborne-dupe.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -619,7 +628,7 @@
         "richtext_jLbiMq": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
         }
       },
@@ -631,7 +640,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "sm",
-        "image": "shopify:\/\/shop_images\/pexels-sumcig-28528885.jpg",
+        "image": "shopify://shop_images/pexels-sumcig-28528885.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -649,7 +658,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-laura-va-3546191-10137593.jpg",
+            "image": "shopify://shop_images/pexels-laura-va-3546191-10137593.jpg",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -667,7 +676,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/ak-botanicals-blk-logo-off-white-bg_a5706f39-c0ec-4f17-8e6a-56d399bd6d5c.png",
+            "image": "shopify://shop_images/ak-botanicals-blk-logo-off-white-bg_a5706f39-c0ec-4f17-8e6a-56d399bd6d5c.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -685,7 +694,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/pexels-iurii-laimin-78973777-14641755.jpg",
+            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641755.jpg",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -742,8 +751,8 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "lg",
-        "video": "shopify:\/\/files\/videos\/InShot_20241004_193430999.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/InShot_20241004_193430999.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
     },
@@ -753,14 +762,14 @@
         "image_VmFcBD": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/water-surfing.webp",
+            "image": "shopify://shop_images/water-surfing.webp",
             "rotation": 0
           }
         },
         "image_ixbLzw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/standard_compressed_Bloodroot__Sanguinaria_canadensis.jpg",
+            "image": "shopify://shop_images/standard_compressed_Bloodroot__Sanguinaria_canadensis.jpg",
             "rotation": 0
           }
         }
@@ -783,7 +792,7 @@
         "text_alignment": "center",
         "subheading": "Botanical Ingredients",
         "title": "What’s in AKti-Clear™?",
-        "content": "<p><em><strong>Sanguinaria canadensis<\/strong><\/em> is a plant native to North America. It has been around for centuries and is known for its medicinal properties.<\/p><p><em><strong>Annona muricata<\/strong><\/em> is the fruit from a plant belonging to the Annonaceae family that has been widely used globally as a traditional medicine for many diseases.<\/p>",
+        "content": "<p><em><strong>Sanguinaria canadensis</strong></em> is a plant native to North America. It has been around for centuries and is known for its medicinal properties.</p><p><em><strong>Annona muricata</strong></em> is the fruit from a plant belonging to the Annonaceae family that has been widely used globally as a traditional medicine for many diseases.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -799,42 +808,42 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic Keratosis (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.<\/p>"
+            "answer": "<p>Actinic Keratosis (AKs) are rough, red, scaly patches, crusts, or sores typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. These patches can range in size from one-quarter to one inch in diameter.</p>"
           }
         },
         "question_rNWBmd": {
           "type": "question",
           "settings": {
             "question": "Why address Actinic Keratosis?",
-            "answer": "<p>AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<br\/><br\/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.<\/p>"
+            "answer": "<p>AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.<br/><br/>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.</p>"
           }
         },
         "question_mrjnrz": {
           "type": "question",
           "settings": {
             "question": "Skin Cancer and Actinic Keratosis",
-            "answer": "<p>AKs can progress into skin cancer if left untreated. Skin cancer is the most common cancer in the U.S., with more than 1 million new cases annually. About 80% of these will be basal cell carcinoma, 16% squamous cell carcinoma, and 4% melanoma.<\/p>"
+            "answer": "<p>AKs can progress into skin cancer if left untreated. Skin cancer is the most common cancer in the U.S., with more than 1 million new cases annually. About 80% of these will be basal cell carcinoma, 16% squamous cell carcinoma, and 4% melanoma.</p>"
           }
         },
         "question_kHjGYF": {
           "type": "question",
           "settings": {
             "question": "Treatment Options",
-            "answer": "<p>Various treatments are available for AKs. Early detection and treatment can prevent them from developing into skin cancer. Most cases of AKs and skin cancer are treatable and curable if caught early.<\/p>"
+            "answer": "<p>Various treatments are available for AKs. Early detection and treatment can prevent them from developing into skin cancer. Most cases of AKs and skin cancer are treatable and curable if caught early.</p>"
           }
         },
         "question_VrUYpX": {
           "type": "question",
           "settings": {
             "question": "What Do AKs Look Like?",
-            "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.<\/p>"
+            "answer": "<p>AKs appear on sun-exposed areas of the body. They may be dry, scaly, or rough, and can vary in color from red to brown to yellowish-black. Some may resemble animal horns (cutaneous horns) or appear as red bumps or thick patches.</p>"
           }
         },
         "question_eQfq3a": {
           "type": "question",
           "settings": {
             "question": "How does AKti-Clear™ work on the skin?",
-            "answer": "<p>Upon application to sun-damaged areas, you may feel a mild tingling or burning sensation. Within hours, the skin may change color, and after 6 to 24 hours, a small amount of exudate may appear as the skin is being debrided.<\/p><p>Some discomfort may follow each application, and over-the-counter pain relief may help. After use, a scab may form and typically fall off within 12 to 15 days, often leaving a temporary sunken area that will gradually fill in with new, healthy tissue.<\/p>"
+            "answer": "<p>Upon application to sun-damaged areas, you may feel a mild tingling or burning sensation. Within hours, the skin may change color, and after 6 to 24 hours, a small amount of exudate may appear as the skin is being debrided.</p><p>Some discomfort may follow each application, and over-the-counter pain relief may help. After use, a scab may form and typically fall off within 12 to 15 days, often leaving a temporary sunken area that will gradually fill in with new, healthy tissue.</p>"
           }
         },
         "category_87LkGd": {
@@ -851,7 +860,7 @@
           "disabled": true,
           "settings": {
             "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "question_qzTx7Q": {
@@ -859,7 +868,7 @@
           "disabled": true,
           "settings": {
             "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         }
       },
@@ -896,14 +905,14 @@
         "heading_qpfaBG": {
           "type": "heading",
           "settings": {
-            "text": "<strong>the different types of skin cancer<\/strong>",
+            "text": "<strong>the different types of skin cancer</strong>",
             "heading_tag": "h1"
           }
         },
         "richtext_ptJcgr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Your skin is composed of various types of cells, and when the DNA in these cells becomes damaged, it can lead to skin cancer. <br\/><br\/>The type of skin cancer depends on the cells where the cancer starts. Below is a breakdown of the most common types of skin cancer, their risk factors, and signs to look out for.<\/p>"
+            "content": "<p>Your skin is composed of various types of cells, and when the DNA in these cells becomes damaged, it can lead to skin cancer. <br/><br/>The type of skin cancer depends on the cells where the cancer starts. Below is a breakdown of the most common types of skin cancer, their risk factors, and signs to look out for.</p>"
           }
         }
       },
@@ -916,7 +925,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/skin.png",
+        "image": "shopify://shop_images/skin.png",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
@@ -935,7 +944,7 @@
         "richtext_LFmVQX": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Add your own custom content to give more information about your store, availability details...<\/p>"
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
         }
       },
@@ -947,7 +956,7 @@
       "settings": {
         "color_scheme": "",
         "image_size": "lg",
-        "image": "shopify:\/\/shop_images\/nicole-osborne-dupe_4a8c3159-c875-4ed2-bc7d-f5b7b7e7fa43.jpg",
+        "image": "shopify://shop_images/nicole-osborne-dupe_4a8c3159-c875-4ed2-bc7d-f5b7b7e7fa43.jpg",
         "content_width": "sm",
         "enable_parallax": true,
         "remove_vertical_spacing": true
@@ -972,7 +981,7 @@
         "richtext_Nmf6rP": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -985,7 +994,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "image": "shopify:\/\/shop_images\/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
+        "image": "shopify://shop_images/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -999,7 +1008,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-10-15_at_8.56.39_PM.png",
+            "image": "shopify://shop_images/Screenshot_2024-10-15_at_8.56.39_PM.png",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -1073,7 +1082,7 @@
           "type": "before",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-10-07_at_2.01.33_PM.png",
+            "image": "shopify://shop_images/Screenshot_2024-10-07_at_2.01.33_PM.png",
             "text": "Before",
             "link_text": "",
             "link_url": "",
@@ -1084,7 +1093,7 @@
           "type": "after",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
+            "image": "shopify://shop_images/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
             "text": "After",
             "link_text": "",
             "link_url": "",
@@ -1115,7 +1124,7 @@
         "logo_mBknCN": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/before-cropped.png",
+            "logo": "shopify://shop_images/before-cropped.png",
             "logo_width": 250,
             "link": ""
           }
@@ -1123,7 +1132,7 @@
         "logo_ya3XYH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/after-cropped.png",
+            "logo": "shopify://shop_images/after-cropped.png",
             "logo_width": 250,
             "link": ""
           }
@@ -1131,7 +1140,7 @@
         "logo_xywxWY": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/day4.png",
+            "logo": "shopify://shop_images/day4.png",
             "logo_width": 250,
             "link": ""
           }
@@ -1139,7 +1148,7 @@
         "logo_Qg9FeJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/day15.png",
+            "logo": "shopify://shop_images/day15.png",
             "logo_width": 250,
             "link": ""
           }
@@ -1177,10 +1186,10 @@
         "color_scheme": "scheme-4",
         "separate_section_with_border": false,
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/news-letter-banner-img.webp",
+        "image": "shopify://shop_images/news-letter-banner-img.webp",
         "subheading": "Your Skin, Our Priority",
         "title": "Latest Skin Care Insights",
-        "content": "<p>The latest insights on preventing and treating Actinic Keratosis and other skin disorders<\/p>",
+        "content": "<p>The latest insights on preventing and treating Actinic Keratosis and other skin disorders</p>",
         "button_text": "Be the first to know",
         "overlay_color": "#000000",
         "overlay_opacity": 0
