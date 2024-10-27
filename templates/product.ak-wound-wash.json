@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -80,7 +89,7 @@
             "show_below_gallery": true,
             "icon": "none",
             "title": "Title",
-            "content": "<p>Share some content to your customers about your products.<\/p>",
+            "content": "<p>Share some content to your customers about your products.</p>",
             "liquid": "",
             "page": ""
           }
@@ -146,36 +155,36 @@
         "question_KKn47Q": {
           "type": "question",
           "settings": {
-            "question": "<strong>Why Choose AK Wound Wash?<\/strong>",
-            "answer": "<p>• Superior transdermal penetration for deep, effective action<\/p><p>• Anti-irritation effects that soothe damaged or inflamed skin<\/p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths<\/p>"
+            "question": "<strong>Why Choose AK Wound Wash?</strong>",
+            "answer": "<p>• Superior transdermal penetration for deep, effective action</p><p>• Anti-irritation effects that soothe damaged or inflamed skin</p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths</p>"
           }
         },
         "question_TrcJDQ": {
           "type": "question",
           "settings": {
-            "question": "<strong>Natural & Effective<\/strong>",
-            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.<\/p>"
+            "question": "<strong>Natural & Effective</strong>",
+            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.</p>"
           }
         },
         "question_yCaBBU": {
           "type": "question",
           "settings": {
-            "question": "<strong>Anti-Infective Cleanser<\/strong>",
-            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.<\/p>"
+            "question": "<strong>Anti-Infective Cleanser</strong>",
+            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.</p>"
           }
         },
         "question_emKgXj": {
           "type": "question",
           "settings": {
-            "question": "<strong>Skin Repair & Conditioning<\/strong>",
-            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.<\/p>"
+            "question": "<strong>Skin Repair & Conditioning</strong>",
+            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.</p>"
           }
         },
         "question_WFQVzL": {
           "type": "question",
           "settings": {
-            "question": "<strong>Long-Lasting Moisturization<\/strong>",
-            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.<\/p>"
+            "question": "<strong>Long-Lasting Moisturization</strong>",
+            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.</p>"
           }
         }
       },
@@ -204,7 +213,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-1.webp",
+            "image": "shopify://shop_images/ak-wound-wash-product-1.webp",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -222,7 +231,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/4K3dRenderimage-3PNG.png",
+            "image": "shopify://shop_images/4K3dRenderimage-3PNG.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -240,7 +249,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/4K3dRenderimage-2PNG.png",
+            "image": "shopify://shop_images/4K3dRenderimage-2PNG.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -260,6 +269,7 @@
         "image_YF6GAG",
         "image_b64btN"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
