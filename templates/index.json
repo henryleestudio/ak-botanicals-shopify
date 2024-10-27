@@ -149,7 +149,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "Botanically-Infused",
+            "title": "Botanically-Infused topicals",
             "link_url": "",
             "link_text": ""
           }
@@ -167,7 +167,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "for use on actinic keratosis & sun damaged skin lesions"
+        "subheading": "for use on sun damaged skin lesions"
       }
     },
     "image-with-text-scroll": {
@@ -537,7 +537,7 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641739.jpg",
+            "image": "shopify://shop_images/pexels-angela-roma-7479983.jpg",
             "rotation": 0
           }
         },
@@ -565,9 +565,9 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "Actinic Keratosis",
+        "subheading": "",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>If unaddressed, AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.</p>",
+        "content": "<p>If left unaddressed, Actinic Keratosis may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.</p>",
         "button_1_text": "",
         "button_1_link": "",
         "button_1_style": "solid",
@@ -721,8 +721,8 @@
         "mobile_row_height": 180,
         "section_width": "lg",
         "spacing": "md",
-        "subheading": "Dermatological Skincare",
-        "title": "Botanically Infused",
+        "subheading": "<strong>Botanically-Infused</strong>",
+        "title": "Dermatological Skincare",
         "content": ""
       }
     },
@@ -762,14 +762,14 @@
         "image_VmFcBD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/water-surfing.webp",
+            "image": "shopify://shop_images/standard_compressed_Bloodroot__Sanguinaria_canadensis.jpg",
             "rotation": 0
           }
         },
         "image_ixbLzw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/standard_compressed_Bloodroot__Sanguinaria_canadensis.jpg",
+            "image": "shopify://shop_images/pexels-iurii-laimin-78973777-14641739_81ca1ae2-6a17-4321-b2e8-6cd93bd77067.jpg",
             "rotation": 0
           }
         }
@@ -790,7 +790,7 @@
         "media_alignment_offset": 0,
         "media_mobile_alignment_offset": 0,
         "text_alignment": "center",
-        "subheading": "Botanical Ingredients",
+        "subheading": "A Proprietary Blend of Ingredients",
         "title": "What’s in AKti-Clear™?",
         "content": "<p><em><strong>Sanguinaria canadensis</strong></em> is a plant native to North America. It has been around for centuries and is known for its medicinal properties.</p><p><em><strong>Annona muricata</strong></em> is the fruit from a plant belonging to the Annonaceae family that has been widely used globally as a traditional medicine for many diseases.</p>",
         "button_1_text": "",
