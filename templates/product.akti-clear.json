@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -133,29 +142,29 @@
         "question_NHm3b6": {
           "type": "question",
           "settings": {
-            "question": "<strong>Botanically-Infused Formula<\/strong>",
-            "answer": "<p>A proprietary combination of botanicals with a precise affinity for cells altered by UV-A and UV-B exposure.<\/p>"
+            "question": "<strong>Botanically-Infused Formula</strong>",
+            "answer": "<p>A proprietary combination of botanicals with a precise affinity for cells altered by UV-A and UV-B exposure.</p>"
           }
         },
         "question_ji3pVX": {
           "type": "question",
           "settings": {
-            "question": "<strong>Safe & Effective<\/strong>",
-            "answer": "<p>AKti-Clear’s unique action only affects damaged cells, triggering the natural process of cell death (Apoptosis) to help shed them, without harming healthy skin.<\/p>"
+            "question": "<strong>Safe & Effective</strong>",
+            "answer": "<p>AKti-Clear’s unique action only affects damaged cells, triggering the natural process of cell death (Apoptosis) to help shed them, without harming healthy skin.</p>"
           }
         },
         "question_yWiQAd": {
           "type": "question",
           "settings": {
-            "question": "<strong>Fast, 3-Day Application<\/strong>",
-            "answer": "<p>Noticeable results with just 3 days of application, with healing within 15-20 days.<\/p>"
+            "question": "<strong>Fast, 3-Day Application</strong>",
+            "answer": "<p>Requires just 3 once-a-day applications. Healing can take 15 to 20 days.</p>"
           }
         },
         "question_q6xL8f": {
           "type": "question",
           "settings": {
-            "question": "<strong>Contact Us<\/strong>",
-            "answer": "<p>Phone: 855-252-8739<\/p><p>Email: info@akbotanicals.com<\/p>"
+            "question": "<strong>Contact Us</strong>",
+            "answer": "<p>Phone: 855-252-8739</p><p>Email: info@akbotanicals.com</p>"
           }
         }
       },
@@ -183,7 +192,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/4K3dRenderimage-3PNG.png",
+            "image": "shopify://shop_images/4K3dRenderimage-3PNG.png",
             "column_count": "8",
             "row_count": 2,
             "title": "",
@@ -201,7 +210,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/4K3dRenderimage-6PNG.png",
+            "image": "shopify://shop_images/4K3dRenderimage-6PNG.png",
             "column_count": "4",
             "row_count": 1,
             "title": "",
@@ -219,7 +228,7 @@
           "type": "image",
           "settings": {
             "color_scheme": "",
-            "image": "shopify:\/\/shop_images\/ak-wound-wash-product-1.webp",
+            "image": "shopify://shop_images/ak-wound-wash-product-1.webp",
             "column_count": "4",
             "row_count": 1,
             "title": "",
