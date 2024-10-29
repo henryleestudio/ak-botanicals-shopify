@@ -17,13 +17,13 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "FREE USPS SHIPPING FOR CUSTOMERS ON DOMESTIC ORDERS OVER $75"
+            "text": "your purchase is backed by a 60-day money back guarantee"
           }
         },
         "message_dmYkNB": {
           "type": "message",
           "settings": {
-            "text": "FREE INTERNATIONAL SHIPPING FOR ORDERS OVER $300"
+            "text": "Limited offer: FREE SHIPPING on  Akti-clear bundle"
           }
         }
       },
