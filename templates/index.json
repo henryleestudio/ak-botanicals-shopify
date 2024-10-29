@@ -1180,6 +1180,42 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_TfYeRE": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_tm8Dfq": {
+          "type": "subheading",
+          "settings": {
+            "text": "your results may vary."
+          }
+        },
+        "heading_rN3MUM": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_VDHAN3": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_tm8Dfq",
+        "heading_rN3MUM",
+        "richtext_VDHAN3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "settings": {
@@ -1219,6 +1255,7 @@
     "media_grid_EC7fgN",
     "before_after_VF3mp3",
     "logo_list_JiRF8y",
+    "rich_text_TfYeRE",
     "newsletter"
   ]
 }
