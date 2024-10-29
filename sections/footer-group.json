@@ -92,6 +92,7 @@
       "blocks": {
         "newsletter": {
           "type": "newsletter",
+          "disabled": true,
           "settings": {
             "title": "Transform Your Skin, Risk-Free",
             "content": "",
