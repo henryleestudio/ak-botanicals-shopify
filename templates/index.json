@@ -1222,6 +1222,21 @@
             "content": "<h6><em>\"I had a diagnosed basil cell carcinoma on my lower leg. I had it treated by a dermatologist but the spot came back after a couple of years. I then treated it with AKti-Clear. AKti-Clear worked just like they said it would. I treated it for three consecutive days and then kept it covered and left it alone. They said to not pick off the scab but let it fall off. It worked!! The spot has not come back after a number of years now. I would highly recommend this product to anyone.\"</em> - Cathy Robinson, Florida</h6>"
           }
         },
+        "image_t6A3tt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image000000_8.jpg",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_ynDYBe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h6><em>\"I applied the serum three times and my hand spot went away. I am very impressed with the results. Next time, I will try it on my face. I love it!\" - C</em>onnie Garzon, Florida</h6>"
+          }
+        },
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
@@ -1236,6 +1251,8 @@
         "richtext_VDHAN3",
         "image_a4eW66",
         "richtext_kYUDzi",
+        "image_t6A3tt",
+        "richtext_ynDYBe",
         "subheading_tm8Dfq"
       ],
       "settings": {
