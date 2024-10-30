@@ -1190,12 +1190,6 @@
             "heading_tag": "h1"
           }
         },
-        "subheading_tm8Dfq": {
-          "type": "subheading",
-          "settings": {
-            "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
-          }
-        },
         "richtext_n7JbdQ": {
           "type": "richtext",
           "settings": {
@@ -1215,10 +1209,10 @@
             "content": ""
           }
         },
-        "image_7iwQ9C": {
+        "image_a4eW66": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/womans-face.gif",
+            "image": "shopify://shop_images/4.png",
             "width_mode": "full_width",
             "max_width": 600,
             "mobile_max_width": 400
@@ -1229,16 +1223,22 @@
           "settings": {
             "content": "<h6><em>\"I had a diagnosed basil cell carcinoma on my lower leg. I had it treated by a dermatologist but the spot came back after a couple of years. I then treated it with AKti-Clear. AKti-Clear worked just like they said it would. I treated it for three consecutive days and then kept it covered and left it alone. They said to not pick off the scab but let it fall off. It worked!! The spot has not come back after a number of years now. I would highly recommend this product to anyone.\"</em> - Cathy Robinson, Florida</h6>"
           }
+        },
+        "subheading_tm8Dfq": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
+          }
         }
       },
       "block_order": [
         "heading_ydy69V",
-        "subheading_tm8Dfq",
         "richtext_n7JbdQ",
         "heading_rN3MUM",
         "richtext_VDHAN3",
-        "image_7iwQ9C",
-        "richtext_kYUDzi"
+        "image_a4eW66",
+        "richtext_kYUDzi",
+        "subheading_tm8Dfq"
       ],
       "settings": {
         "color_scheme": "",
