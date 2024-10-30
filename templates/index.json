@@ -1193,7 +1193,7 @@
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
-            "text": "<strong>Disclaimer</strong>: Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results."
+            "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
           }
         },
         "richtext_n7JbdQ": {
@@ -1215,6 +1215,15 @@
             "content": ""
           }
         },
+        "image_7iwQ9C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/womans-face.gif",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "richtext_kYUDzi": {
           "type": "richtext",
           "settings": {
@@ -1228,6 +1237,7 @@
         "richtext_n7JbdQ",
         "heading_rN3MUM",
         "richtext_VDHAN3",
+        "image_7iwQ9C",
         "richtext_kYUDzi"
       ],
       "settings": {
