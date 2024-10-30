@@ -1183,10 +1183,23 @@
     "rich_text_TfYeRE": {
       "type": "rich-text",
       "blocks": {
+        "heading_ydy69V": {
+          "type": "heading",
+          "settings": {
+            "text": "testimonials",
+            "heading_tag": "h1"
+          }
+        },
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
-            "text": "your results may vary."
+            "text": "<strong>Disclaimer</strong>: Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results."
+          }
+        },
+        "richtext_n7JbdQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h6><em>\"In the words of my dermatologist, I am a lifelong dermatology patient. This is in part due to being a fair skinned person growing up by the beach and having a great deal of sun exposure much of my life. I have a lot of flaky spots on my arms, legs, back, chest and face that have been diagnosed as Actinic Keratosis. Over the years I’ve had those removed with a variety of methods and prescription medications and it was always an unpleasant experience...  Recently. I discovered AKti-Clear from AK Botanicals. This method is easy (3 one day, one drop, applications) painless and, after using it on multiple spots, I’m happy to say it works! The spots I have treated with this product have left my skin fresh and new without scars. One of the spots I had on my right shoulder turned out to be a squamous cell carcinoma. My dermatologist told me it would require surgery and, because of the severity of it, would mean going all the way to my shoulder bone. This procedure, I was advised,  would be quite painful and I would need to have my arm in a sling for some time afterwards. I told her I would think about it. I decided to try AKti-Clear on the spot to see what would happen. Within a few days I began to see results. The spot was irritated, blistering and red but not painful. I followed the protocol and after a couple of weeks the spot looked improved but not gone. Encouraged I proceeded with a second round of treatment. Again I experienced a reaction and similar results. I decided to go for a third round. At the end of the third round my skin looked pink and clear. I made an appointment with my dermatologist to get her opinion. After a thorough exam she told me, much to her amazement, that the I was in the clear and cancer was completely gone! I may be a lifelong dermatology patient however I will also be a lifelong AKti-Clear user. If you have flaky skin spots caused by sun damage I highly recommend you try AKti-Clear.\" </em>- Melissa Thompson, Escondido, California</h6>"
           }
         },
         "heading_rN3MUM": {
@@ -1201,12 +1214,21 @@
           "settings": {
             "content": ""
           }
+        },
+        "richtext_kYUDzi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h6><em>\"I had a diagnosed basil cell carcinoma on my lower leg. I had it treated by a dermatologist but the spot came back after a couple of years. I then treated it with AKti-Clear. AKti-Clear worked just like they said it would. I treated it for three consecutive days and then kept it covered and left it alone. They said to not pick off the scab but let it fall off. It worked!! The spot has not come back after a number of years now. I would highly recommend this product to anyone.\"</em> - Cathy Robinson, Florida</h6>"
+          }
         }
       },
       "block_order": [
+        "heading_ydy69V",
         "subheading_tm8Dfq",
+        "richtext_n7JbdQ",
         "heading_rN3MUM",
-        "richtext_VDHAN3"
+        "richtext_VDHAN3",
+        "richtext_kYUDzi"
       ],
       "settings": {
         "color_scheme": "",
