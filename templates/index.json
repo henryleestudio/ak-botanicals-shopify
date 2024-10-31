@@ -891,6 +891,53 @@
         "content": ""
       }
     },
+    "rich_text_kMnKyC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_69c9tG": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_wRUcw7": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3nNLeV": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        },
+        "button_H3ataP": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "get AKti-Clear now",
+            "url": "shopify://collections/featured-products",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_69c9tG",
+        "heading_wRUcw7",
+        "richtext_3nNLeV",
+        "button_H3ataP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
     "image_with_text_Mb6t6m": {
       "type": "image-with-text",
       "blocks": {
@@ -1296,6 +1343,7 @@
     "video_bWLwWM",
     "multiple_media_with_text_xRkPp7",
     "faq_KBkNdU",
+    "rich_text_kMnKyC",
     "image_with_text_Mb6t6m",
     "image_with_text_block_NU3wXG",
     "image_with_text_ciNKFX",
