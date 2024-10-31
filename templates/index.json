@@ -1289,7 +1289,7 @@
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "order AKti-Clear now",
+            "text": "order AKti-Clear",
             "url": "shopify://collections/featured-products",
             "background": "",
             "text_color": ""
