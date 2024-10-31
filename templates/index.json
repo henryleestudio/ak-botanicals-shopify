@@ -808,7 +808,7 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic Keratosis (AKs) are rough, scaly patches, crusts, or sores on the skin that develop due to prolonged sun exposure. </p><p>AKs are typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. They can vary in color, texture, and size. </p><p>AK patches can range in size from one-quarter to one inch in diameter. Not all AK lesions are visible on the skin.</p>"
+            "answer": "<p>Actinic Keratosis (AKs) are rough, scaly patches, crusts, or sores on the skin that develop due to prolonged sun exposure. </p><p>AKs are typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. </p><p>AK patches can range in size from one-quarter to one inch in diameter. They can vary in color, texture, and size.  </p>"
           }
         },
         "question_VrUYpX": {
