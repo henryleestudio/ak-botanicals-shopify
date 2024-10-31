@@ -1144,8 +1144,8 @@
             "style": "solid",
             "text": "order AKti-Clear",
             "url": "shopify://collections/featured-products",
-            "background": "",
-            "text_color": ""
+            "background": "#ffffff",
+            "text_color": "#000000"
           }
         }
       },
