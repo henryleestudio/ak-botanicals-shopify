@@ -1296,8 +1296,8 @@
             "style": "solid",
             "text": "order now",
             "url": "shopify://collections/featured-products",
-            "background": "",
-            "text_color": ""
+            "background": "#b5c29c",
+            "text_color": "#000000"
           }
         }
       },
