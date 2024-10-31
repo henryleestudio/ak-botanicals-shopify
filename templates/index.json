@@ -1242,6 +1242,16 @@
           "settings": {
             "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
           }
+        },
+        "button_mwpwCG": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "order now",
+            "url": "shopify://collections/featured-products",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
@@ -1253,7 +1263,8 @@
         "richtext_kYUDzi",
         "image_t6A3tt",
         "richtext_ynDYBe",
-        "subheading_tm8Dfq"
+        "subheading_tm8Dfq",
+        "button_mwpwCG"
       ],
       "settings": {
         "color_scheme": "",
