@@ -822,7 +822,7 @@
           "type": "question",
           "settings": {
             "question": "Why address Actinic Keratosis?",
-            "answer": "<p>AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.</p>"
+            "answer": "<p>AK may progress to skin cancer such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States. </p><p>If you have visible AK lesions on the surface of your skin, you might also have AK that you cannot see. That's because not all the UV sunlight damage is apparent. Simply removing the AK you see doesn't mean you won't have more AK in the future.</p>"
           }
         },
         "question_kHjGYF": {
