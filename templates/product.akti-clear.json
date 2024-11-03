@@ -139,20 +139,6 @@
             "icon_width": 16
           }
         },
-        "question_yLRiLF": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>What's included?</strong>",
-            "answer": "<p>Each AKti-Clear order includes three ampules, enough to cover a small-to-medium lesion, to be used once daily for three consecutive days.</p>"
-          }
-        },
-        "question_NHm3b6": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Botanically-Infused Formula</strong>",
-            "answer": "<p>AKti-Clear is a proprietary combination of botanicals with a precise affinity for cells altered by UV-A and UV-B exposure.</p>"
-          }
-        },
         "question_ji3pVX": {
           "type": "question",
           "settings": {
@@ -167,6 +153,20 @@
             "answer": "<p>Requires just 3 daily applications. Healing can take 15 to 20 days.</p>"
           }
         },
+        "question_NHm3b6": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Botanically-Infused Formula</strong>",
+            "answer": "<p>AKti-Clear is a proprietary combination of botanicals with a precise affinity for cells altered by UV-A and UV-B exposure.</p>"
+          }
+        },
+        "question_yLRiLF": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>What's included?</strong>",
+            "answer": "<p>Each AKti-Clear order includes three ampules, enough to cover a small-to-medium lesion, to be used once daily for three consecutive days.</p>"
+          }
+        },
         "question_q6xL8f": {
           "type": "question",
           "settings": {
@@ -177,10 +177,10 @@
       },
       "block_order": [
         "category_cq8wee",
-        "question_yLRiLF",
-        "question_NHm3b6",
         "question_ji3pVX",
         "question_yWiQAd",
+        "question_NHm3b6",
+        "question_yLRiLF",
         "question_q6xL8f"
       ],
       "settings": {
