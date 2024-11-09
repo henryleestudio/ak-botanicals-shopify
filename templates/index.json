@@ -230,8 +230,7 @@
       "blocks": {
         "vendor_d4hNxr": {
           "type": "vendor",
-          "settings": {
-          }
+          "settings": {}
         },
         "title_kJ9YgE": {
           "type": "title",
@@ -241,8 +240,7 @@
         },
         "badges_z8CHgV": {
           "type": "badges",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_6Fh3H3": {
           "type": "price",
@@ -259,13 +257,11 @@
         },
         "payment_terms_CYJtCz": {
           "type": "payment_terms",
-          "settings": {
-          }
+          "settings": {}
         },
         "separator_DYfyTE": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_4BNJgc": {
           "type": "description",
@@ -285,8 +281,7 @@
         },
         "quantity_selector_ngydLT": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons_wiqGDD": {
           "type": "buy_buttons",
@@ -301,8 +296,7 @@
         },
         "pickup_availability_GtJVXz": {
           "type": "pickup_availability",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -808,7 +802,7 @@
           "type": "question",
           "settings": {
             "question": "What is Actinic Keratosis?",
-            "answer": "<p>Actinic Keratosis (AKs) are rough, scaly patches, crusts, or sores on the skin that develop due to prolonged sun exposure. </p><p>AKs are typically found on sun-exposed areas like the face, lips, scalp, neck, forearms, and hands. </p><p>AK patches can range in size from one-quarter to one inch in diameter. They can vary in color, texture, and size.  </p>"
+            "answer": "<p>Actinic Keratosis (AKs) are rough, scaly patches, crusts, or sores on the skin that develop due to prolonged sun exposure. </p><p>AKs are typically found on sun-exposed areas like the face, scalp, neck, forearms, and hands. </p><p>AK patches can range in size from one-quarter to one inch in diameter. They can vary in color, texture, and size.  </p>"
           }
         },
         "question_VrUYpX": {
