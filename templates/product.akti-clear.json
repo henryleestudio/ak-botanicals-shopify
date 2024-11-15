@@ -14,8 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
@@ -31,13 +30,11 @@
         },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {
-          }
+          "settings": {}
         },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -58,8 +55,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -167,6 +163,13 @@
             "answer": "<p>Each AKti-Clear order includes three ampules, enough to cover a small-to-medium lesion, to be used once daily for three consecutive days.</p>"
           }
         },
+        "question_ncfY6P": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Why are the ampules partly filled?</strong>",
+            "answer": "<p>AKti-Clear is a concentrated solution. All you need is a drop or two per day for three days.</p>"
+          }
+        },
         "question_q6xL8f": {
           "type": "question",
           "settings": {
@@ -181,6 +184,7 @@
         "question_yWiQAd",
         "question_NHm3b6",
         "question_yLRiLF",
+        "question_ncfY6P",
         "question_q6xL8f"
       ],
       "settings": {
