@@ -41,6 +41,7 @@
     },
     "privacy-banner": {
       "type": "privacy-banner",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "title": "🍪 Cookie policy",
