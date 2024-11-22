@@ -49,6 +49,42 @@
         "text_color": "#ffffff"
       }
     },
+    "rich_text_GfVLf9": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_KFYEaG": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_Upr8Gq": {
+          "type": "heading",
+          "settings": {
+            "text": "our leadership team",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_qnnggN": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KFYEaG",
+        "heading_Upr8Gq",
+        "richtext_qnnggN"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image_with_text_BmPRJh": {
       "type": "image-with-text",
       "blocks": {
@@ -79,11 +115,11 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/Untitled_design_19.png",
         "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "md",
+        "image_position": "end",
+        "content_width": "lg",
         "remove_vertical_spacing": true
       }
     },
@@ -120,7 +156,7 @@
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Untitled_design_18.png",
         "reveal_on_scroll": true,
-        "image_position": "end",
+        "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
@@ -158,45 +194,9 @@
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Untitled_design_17.png",
         "reveal_on_scroll": true,
-        "image_position": "start",
+        "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_GfVLf9": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_KFYEaG": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_Upr8Gq": {
-          "type": "heading",
-          "settings": {
-            "text": "our leadership team",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_qnnggN": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_KFYEaG",
-        "heading_Upr8Gq",
-        "richtext_qnnggN"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
       }
     }
   },
