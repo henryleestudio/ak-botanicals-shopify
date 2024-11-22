@@ -44,14 +44,46 @@
         "autoplay": true,
         "show_controls": false,
         "video_size": "md",
-        "video": "shopify:\/\/files\/videos\/hand-rub.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/hand-rub.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
+      }
+    },
+    "image_with_text_block_Rq4bKT": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_UJJmmz": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "richtext_EHKP7R": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UJJmmz",
+        "richtext_EHKP7R"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "image_size": "auto",
+        "image": "shopify://shop_images/Slide1.png",
+        "content_width": "lg",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
       }
     }
   },
   "order": [
     "main",
-    "video_UYaCyM"
+    "video_UYaCyM",
+    "image_with_text_block_Rq4bKT"
   ]
 }
