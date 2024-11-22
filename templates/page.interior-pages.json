@@ -61,7 +61,7 @@
         "heading_Upr8Gq": {
           "type": "heading",
           "settings": {
-            "text": "our leadership team",
+            "text": "leadership team",
             "heading_tag": "h1"
           }
         },
@@ -80,9 +80,9 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "content_width": "md",
+        "content_width": "sm",
         "text_position": "center",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": true
       }
     },
     "image_with_text_BmPRJh": {
