@@ -48,10 +48,164 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
+    },
+    "image_with_text_BmPRJh": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_eEXHbE": {
+          "type": "subheading",
+          "settings": {
+            "text": "Chairman & CEO"
+          }
+        },
+        "heading_BQXTWt": {
+          "type": "heading",
+          "settings": {
+            "text": "Howard Hirsch",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LrgcBx": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A Queens College graduate, Howard built a diverse career in public accounting, business ventures, and technology innovation. He sold his accounting practice to start AK Botanicals. Previously, Howard founded and sold Seville Energy Development Company, achieving success in oil and gas investments. After his personal experience with AKti-Clear, he’s dedicated himself to bringing it to the world.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eEXHbE",
+        "heading_BQXTWt",
+        "richtext_LrgcBx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Untitled_design_19.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "md",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_yXAHpE": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_V8X7bn": {
+          "type": "subheading",
+          "settings": {
+            "text": "Medical director"
+          }
+        },
+        "heading_HEW8zp": {
+          "type": "heading",
+          "settings": {
+            "text": "Dr. ron robinson",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_W6AVnK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dr. Robinson for the past 32 years has been a Primary Healthcare Chiropractic Physician as well as Healthcare Consultant holding positions as CEO, COO and Director of various Healthcare ventures and companies, including a Nutraceutical Company. He has earned a Doctor of Chiropractic Degree as well as Bachelor of Arts with a Biology Major and Chemistry Minor.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_V8X7bn",
+        "heading_HEW8zp",
+        "richtext_W6AVnK"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Untitled_design_18.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_nPbjYA": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_HHdiCF": {
+          "type": "subheading",
+          "settings": {
+            "text": "president"
+          }
+        },
+        "heading_f4qXYD": {
+          "type": "heading",
+          "settings": {
+            "text": "Mark B. Hirsch",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Rri8YY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A visionary leader with 25+ years of entrepreneurial and executive experience, specializing in driving revenue growth, developing strategic marketing initiatives, and scaling high-impact ventures. Proven expertise in developing and launching CPG products via Amazon and e-commerce. Mark has held executive leadership roles in two, middle-market companies, Stroll and Agora. <br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HHdiCF",
+        "heading_f4qXYD",
+        "richtext_Rri8YY"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Untitled_design_17.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_GfVLf9": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_KFYEaG": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_Upr8Gq": {
+          "type": "heading",
+          "settings": {
+            "text": "our leadership team",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_qnnggN": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KFYEaG",
+        "heading_Upr8Gq",
+        "richtext_qnnggN"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "video_UYaCyM"
+    "video_UYaCyM",
+    "rich_text_GfVLf9",
+    "image_with_text_BmPRJh",
+    "image_with_text_yXAHpE",
+    "image_with_text_nPbjYA"
   ]
 }
