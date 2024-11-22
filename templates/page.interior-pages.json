@@ -13,8 +13,8 @@
       "type": "main-page",
       "settings": {
         "color_scheme": "",
-        "show_title": false,
-        "page_width": "xs"
+        "show_title": true,
+        "page_width": "sm"
       }
     },
     "video_UYaCyM": {
