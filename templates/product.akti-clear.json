@@ -106,21 +106,42 @@
         "max_image_zoom_level": 3
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "rich_text_C9EX6V": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_faaT9r": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_RqTrcF": {
+          "type": "heading",
+          "settings": {
+            "text": "FAQs",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_YaW7JM": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_faaT9r",
+        "heading_RqTrcF",
+        "richtext_YaW7JM"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "recommendations_count": 10,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "",
-        "title": "Related products",
-        "content": ""
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
       }
     },
     "faq_kDyCm9": {
@@ -194,6 +215,23 @@
         "show_categories": false,
         "subheading": "",
         "title": "",
+        "content": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
         "content": ""
       }
     },
@@ -276,8 +314,9 @@
   },
   "order": [
     "main",
-    "related-products",
+    "rich_text_C9EX6V",
     "faq_kDyCm9",
+    "related-products",
     "media_grid_tEkhdP"
   ]
 }
