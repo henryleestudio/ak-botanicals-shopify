@@ -1,1 +1,205 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"payment_terms":{"type":"payment_terms","settings":{}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}},"pickup_availability":{"type":"pickup_availability","settings":{}},"complementary_products":{"type":"complementary_products","settings":{}}},"block_order":["vendor","title","price","payment_terms","separator","description","variant_picker","quantity_selector","buy_buttons","complementary_products"],"settings":{}},"related-products":{"type":"related-products","settings":{}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "complementary_products": {
+          "type": "complementary_products",
+          "settings": {
+            "title": "Pairs well with",
+            "products_count": 2,
+            "show_below_gallery": true,
+            "stack_products": false,
+            "show_quick_buy": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "payment_terms",
+        "separator",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "complementary_products"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "lg",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": false,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "faq_ka3AeJ": {
+      "type": "faq",
+      "blocks": {
+        "category_fMgjkt": {
+          "type": "category",
+          "settings": {
+            "title": "",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_fYEGzn": {
+          "type": "question",
+          "settings": {
+            "question": "AKti-Clear is Safe & Effective",
+            "answer": "<p>AKti-Clear’s unique action only affects damaged cells to help shed them, without harming healthy skin.</p>"
+          }
+        },
+        "question_WGAXek": {
+          "type": "question",
+          "settings": {
+            "question": "Fast, 3-Day Application",
+            "answer": "<p>Requires just 3 daily applications. Use AK Wound Wash during the healing process, which can take 15 to 20 days.</p>"
+          }
+        },
+        "question_rgqzRi": {
+          "type": "question",
+          "settings": {
+            "question": "Botanically-Infused Formula",
+            "answer": "<p>AKti-Clear is a proprietary combination of botanicals with a precise affinity for cells altered by UV-A and UV-B exposure. </p>"
+          }
+        },
+        "question_MMTNxH": {
+          "type": "question",
+          "settings": {
+            "question": "What’s Included?",
+            "answer": "<p>Three AKti-Clear ampules, enough to cover a small-to-medium lesion, once daily for 3 days. <br/>Plus, a 2 oz spray bottle of AK Wound Wash, using naturally-derived lipids to promote healing.</p>"
+          }
+        },
+        "question_j7pRth": {
+          "type": "question",
+          "settings": {
+            "question": "Is This a Subscription?",
+            "answer": "<p>No. We do not offer any subscription to AKti-Clear.  Your purchase is a one-time purchase.  </p>"
+          }
+        },
+        "question_RjBrkB": {
+          "type": "question",
+          "settings": {
+            "question": "60-Day Guarantee",
+            "answer": "<p>Your purchase of the AKti-Clear Bundle is backed by a 60-Day, 100% Money Back Guarantee.</p><p>If you're not satisfied for any reason, simply contact us within 60 days of your purchase to request a full refund.</p><p>Customer Service Phone: 855-252-8739</p><p>By Email: returns@akbotanicals.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_fMgjkt",
+        "question_fYEGzn",
+        "question_WGAXek",
+        "question_rgqzRi",
+        "question_MMTNxH",
+        "question_j7pRth",
+        "question_RjBrkB"
+      ],
+      "settings": {
+        "faq-id": "FAQ",
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "show_categories": false,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq_ka3AeJ",
+    "related-products"
+  ]
+}
