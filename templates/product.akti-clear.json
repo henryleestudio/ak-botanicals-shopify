@@ -235,82 +235,6 @@
         "content": ""
       }
     },
-    "media_grid_tEkhdP": {
-      "type": "media-grid",
-      "blocks": {
-        "image_LVtGq8": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/4K3dRenderimage-3PNG.png",
-            "column_count": "8",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_FfnWrk": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/4K3dRenderimage-6PNG.png",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_j4q94d": {
-          "type": "image",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/ak-wound-wash-product-1.webp",
-            "column_count": "4",
-            "row_count": 1,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_LVtGq8",
-        "image_FfnWrk",
-        "image_j4q94d"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "desktop_row_height": 290,
-        "mobile_row_height": 180,
-        "section_width": "lg",
-        "spacing": "md",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
     "image_with_text_Ub3BgF": {
       "type": "image-with-text",
       "blocks": {
@@ -354,8 +278,7 @@
     "main",
     "rich_text_C9EX6V",
     "faq_kDyCm9",
-    "related-products",
-    "media_grid_tEkhdP",
-    "image_with_text_Ub3BgF"
+    "image_with_text_Ub3BgF",
+    "related-products"
   ]
 }
