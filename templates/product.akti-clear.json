@@ -119,8 +119,8 @@
         "heading_RqTrcF": {
           "type": "heading",
           "settings": {
-            "text": "FAQs",
-            "heading_tag": "h1"
+            "text": "click for more information",
+            "heading_tag": "h3"
           }
         },
         "richtext_YaW7JM": {
@@ -218,23 +218,6 @@
         "content": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "recommendations_count": 10,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "",
-        "title": "Related products",
-        "content": ""
-      }
-    },
     "image_with_text_Ub3BgF": {
       "type": "image-with-text",
       "blocks": {
@@ -271,6 +254,23 @@
         "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
+        "content": ""
       }
     }
   },
