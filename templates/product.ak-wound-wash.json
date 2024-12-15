@@ -119,23 +119,6 @@
         "max_image_zoom_level": 3
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "recommendations_count": 10,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "",
-        "title": "Related products",
-        "content": ""
-      }
-    },
     "faq_JWBgCg": {
       "type": "faq",
       "blocks": {
@@ -169,11 +152,25 @@
             "answer": "<p>Yes. We recommend keeping the lesion covered with a sterile bandage. </p>"
           }
         },
+        "question_ftVgQw": {
+          "type": "question",
+          "settings": {
+            "question": "What are the directions for use?",
+            "answer": "<p>Shake well. Hold 3 to 6 inches from wound, aiming spray nozzle toward the affected<br/>area. Depress nozzle and spray a thin layer over affected area. Cover with a<br/>non-stick, sterile bandage. For best results, repeat twice daily.</p><p>WARNING: Avoid contact with eyes.  For external use only. Do not inhale or swallow. Keep out of reach of children.</p>"
+          }
+        },
         "question_qrzqnG": {
           "type": "question",
           "settings": {
             "question": "What if a scab formed?",
             "answer": "<p>Let the scab fall off naturally.  Do not pick at it.</p>"
+          }
+        },
+        "question_UBDgak": {
+          "type": "question",
+          "settings": {
+            "question": "What are the ingredients?",
+            "answer": "<p>Glycine betaine, Alpha-glyceryl phosphoryl choline, Tris (N-C5-17-alkylamidopropyl-N,<br/>N-dimethyl- N-(2-hydroxypropyl) ammonio) phosphate trichloride.</p>"
           }
         }
       },
@@ -182,7 +179,9 @@
         "question_KKn47Q",
         "question_WFQVzL",
         "question_TrpLKn",
-        "question_qrzqnG"
+        "question_ftVgQw",
+        "question_qrzqnG",
+        "question_UBDgak"
       ],
       "settings": {
         "faq-id": "",
@@ -191,6 +190,23 @@
         "show_categories": false,
         "subheading": "",
         "title": "",
+        "content": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Related products",
         "content": ""
       }
     },
