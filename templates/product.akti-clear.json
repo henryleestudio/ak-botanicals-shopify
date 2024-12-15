@@ -119,7 +119,7 @@
         "heading_RqTrcF": {
           "type": "heading",
           "settings": {
-            "text": "click below for more information",
+            "text": "click to expand",
             "heading_tag": "h3"
           }
         },
