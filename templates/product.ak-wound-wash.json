@@ -14,8 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
@@ -31,13 +30,11 @@
         },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {
-          }
+          "settings": {}
         },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -58,8 +55,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -155,48 +151,39 @@
         "question_KKn47Q": {
           "type": "question",
           "settings": {
-            "question": "<strong>Why Choose AK Wound Wash?</strong>",
-            "answer": "<p>• Superior transdermal penetration for deep, effective action</p><p>• Anti-irritation effects that soothe damaged or inflamed skin</p><p>• Ideal for non-melanoma lesions and sun-damaged skin growths</p>"
-          }
-        },
-        "question_TrcJDQ": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Natural & Effective</strong>",
-            "answer": "<p>AK Wound Wash is formulated with plant-derived oils that act as a  antiseptic, biomimetic lipid complex, mimicking the skin’s natural processes to promote healing.</p>"
-          }
-        },
-        "question_yCaBBU": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Anti-Infective Cleanser</strong>",
-            "answer": "<p>Its broad-spectrum antimicrobial properties provide rapid protection against  pathogenic bacteria and fungi, ensuring a clean and healthy wound environment.</p>"
-          }
-        },
-        "question_emKgXj": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Skin Repair & Conditioning</strong>",
-            "answer": "<p>Deposits essential fatty acids to help repair damaged skin and wound tissue, promoting a smooth recovery process.</p>"
+            "question": "Why use AK Wound Wash?",
+            "answer": "<p>AK Wound Wash's naturally-derived lipids clean wounds and promote healing. </p>"
           }
         },
         "question_WFQVzL": {
           "type": "question",
           "settings": {
-            "question": "<strong>Long-Lasting Moisturization</strong>",
-            "answer": "<p>The lipid complex offers lasting skin conditioning while creating an optimal environment for faster, healthier skin healing.</p>"
+            "question": "How long is the healing process?",
+            "answer": "<p>It typically takes 15 to 20 days after using AKti-Clear for skin's natural healing process. Keep the area clean and protected.</p>"
+          }
+        },
+        "question_TrpLKn": {
+          "type": "question",
+          "settings": {
+            "question": "Do I need to keep the area covered?",
+            "answer": "<p>Yes. We recommend keeping the lesion covered with a sterile bandage. </p>"
+          }
+        },
+        "question_qrzqnG": {
+          "type": "question",
+          "settings": {
+            "question": "What if a scab formed?",
+            "answer": "<p>Let the scab fall off naturally.  Do not pick at it.</p>"
           }
         }
       },
       "block_order": [
         "category_X3UbTH",
         "question_KKn47Q",
-        "question_TrcJDQ",
-        "question_yCaBBU",
-        "question_emKgXj",
-        "question_WFQVzL"
+        "question_WFQVzL",
+        "question_TrpLKn",
+        "question_qrzqnG"
       ],
-      "disabled": true,
       "settings": {
         "faq-id": "",
         "color_scheme": "",
@@ -286,8 +273,8 @@
   },
   "order": [
     "main",
-    "related-products",
     "faq_JWBgCg",
+    "related-products",
     "media_grid_xnJmnw"
   ]
 }
