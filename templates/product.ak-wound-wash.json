@@ -134,42 +134,42 @@
         "question_KKn47Q": {
           "type": "question",
           "settings": {
-            "question": "Why use AK Wound Wash?",
+            "question": "<strong>Why use AK Wound Wash?</strong>",
             "answer": "<p>AK Wound Wash's naturally-derived lipids clean wounds and promote healing. </p>"
           }
         },
         "question_WFQVzL": {
           "type": "question",
           "settings": {
-            "question": "How long is the healing process?",
-            "answer": "<p>It typically takes 15 to 20 days after using AKti-Clear for skin's natural healing process. Keep the area clean and protected.</p>"
+            "question": "<strong>How long is the healing process?</strong>",
+            "answer": "<p>It typically takes 15 to 20 days after using AKti-Clear for healing.  The skin's natural healing process varies from person to person.  Keep the area clean and protected.</p>"
           }
         },
         "question_TrpLKn": {
           "type": "question",
           "settings": {
-            "question": "Do I need to keep the area covered?",
+            "question": "<strong>Do I need to keep the area covered?</strong>",
             "answer": "<p>Yes. We recommend keeping the lesion covered with a sterile bandage. </p>"
           }
         },
         "question_ftVgQw": {
           "type": "question",
           "settings": {
-            "question": "What are the directions for use?",
+            "question": "<strong>What are the directions for use?</strong>",
             "answer": "<p>Shake well. Hold 3 to 6 inches from wound, aiming spray nozzle toward the affected<br/>area. Depress nozzle and spray a thin layer over affected area. Cover with a<br/>non-stick, sterile bandage. For best results, repeat twice daily.</p><p>WARNING: Avoid contact with eyes.  For external use only. Do not inhale or swallow. Keep out of reach of children.</p>"
           }
         },
         "question_qrzqnG": {
           "type": "question",
           "settings": {
-            "question": "What if a scab formed?",
+            "question": "<strong>What if a scab formed?</strong>",
             "answer": "<p>Let the scab fall off naturally.  Do not pick at it.</p>"
           }
         },
         "question_UBDgak": {
           "type": "question",
           "settings": {
-            "question": "What are the ingredients?",
+            "question": "<strong>What are the ingredients?</strong>",
             "answer": "<p>AK Wound Wash Contains: Glycine betaine, Alpha-glyceryl phosphoryl choline, Tris (N-C5-17-alkylamidopropyl-N, N-dimethyl- N-(2-hydroxypropyl) ammonio) phosphate trichloride.</p>"
           }
         }
