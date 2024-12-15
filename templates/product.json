@@ -179,6 +179,44 @@
         "content": ""
       }
     },
+    "image_with_text_te4rmx": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_CPQcfX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Your Satisfaction is Guaranteed"
+          }
+        },
+        "heading_MLnLb3": {
+          "type": "heading",
+          "settings": {
+            "text": "share your healing story",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_zD7z4T": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Individual results may vary. The opinions reflect our users' personal experiences. </p><p>Testimonials are not claimed to represent typical results.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CPQcfX",
+        "heading_MLnLb3",
+        "richtext_zD7z4T"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify://shop_images/product-img-7.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -201,6 +239,7 @@
   "order": [
     "main",
     "faq_ka3AeJ",
+    "image_with_text_te4rmx",
     "related-products"
   ]
 }
