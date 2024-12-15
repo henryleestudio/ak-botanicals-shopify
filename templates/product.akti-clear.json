@@ -310,6 +310,44 @@
         "title": "",
         "content": ""
       }
+    },
+    "image_with_text_Ub3BgF": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_jbaa8L": {
+          "type": "subheading",
+          "settings": {
+            "text": "a drop a day for 3 days"
+          }
+        },
+        "heading_WiWwRN": {
+          "type": "heading",
+          "settings": {
+            "text": "How Does AKti-clear work?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Vxtgg7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>AKti-Clear's unique formula targets UV-damaged cells, shedding them without harming healthy skin. Just 3 daily applications of one to three drops per lesion.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_jbaa8L",
+        "heading_WiWwRN",
+        "richtext_Vxtgg7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/product-img-3.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
@@ -317,6 +355,7 @@
     "rich_text_C9EX6V",
     "faq_kDyCm9",
     "related-products",
-    "media_grid_tEkhdP"
+    "media_grid_tEkhdP",
+    "image_with_text_Ub3BgF"
   ]
 }
