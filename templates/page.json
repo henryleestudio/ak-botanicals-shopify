@@ -41,7 +41,7 @@
         "heading_q6AjYk"
       ],
       "settings": {
-        "autoplay": false,
+        "autoplay": true,
         "show_controls": true,
         "video_size": "md",
         "video": "shopify://files/videos/Add a heading (1).mp4",
