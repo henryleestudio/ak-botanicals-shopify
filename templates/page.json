@@ -43,7 +43,7 @@
       "settings": {
         "autoplay": true,
         "show_controls": true,
-        "video_size": "md",
+        "video_size": "lg",
         "video": "shopify://files/videos/Add a heading (1).mp4",
         "mobile_video": "shopify://files/videos/Add a heading (Mobile Video).mp4",
         "external_video_url": "",
