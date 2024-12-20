@@ -43,15 +43,124 @@
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "md",
-        "video": "shopify://files/videos/hand-rub.mp4",
+        "video_size": "fill",
+        "video": "shopify://files/videos/Add a heading (1).mp4",
+        "mobile_video": "shopify://files/videos/Add a heading (1).mp4",
         "external_video_url": "https://youtu.be/EevheaKceWY",
         "text_color": "#ffffff"
+      }
+    },
+    "featured_product_JJCAfM": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_pgYMxH": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_9XaYHV": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_LXwEpd": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_qtq4EM": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_33yKyQ": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_DDwk6A": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_Lc3Pk6": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_CaNR6n": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_ri9MPP": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_4TDX4L": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_rNXhHz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_9kpy6n": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_pgYMxH",
+        "title_9XaYHV",
+        "badges_LXwEpd",
+        "price_qtq4EM",
+        "rating_33yKyQ",
+        "payment_terms_DDwk6A",
+        "separator_Lc3Pk6",
+        "description_CaNR6n",
+        "variant_picker_ri9MPP",
+        "quantity_selector_4TDX4L",
+        "buy_buttons_rNXhHz",
+        "pickup_availability_9kpy6n"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "ak-wound-wash",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Featured product",
+        "content": ""
       }
     }
   },
   "order": [
     "main",
-    "video_UYaCyM"
+    "video_UYaCyM",
+    "featured_product_JJCAfM"
   ]
 }
