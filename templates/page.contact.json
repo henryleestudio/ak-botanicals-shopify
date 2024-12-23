@@ -37,7 +37,7 @@
         "richtext_ErbTrA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Customer Service Phone: 855-252-8739</p><p>Email: info@akbotanicals.com</p><p>Hours: Monday to Friday between 9:00am and 5:00pm Eastern time. </p><p>(Closed weekends and holidays.)</p>"
+            "content": "<p>Customer Service Phone: <a href=\"tel:8552528739\" title=\"tel:8552528739\">855-252-8739</a></p><p>Email: info@akbotanicals.com</p><p>Hours: Monday to Friday between 9:00am and 5:00pm Eastern time. </p><p>(Closed weekends and holidays.)</p>"
           }
         }
       },
