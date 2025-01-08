@@ -125,7 +125,7 @@
         "richtext_qnYF8N": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Call Customer Care at (855) 252-8739.  </p><p>Open Monday to Friday 9AM to 5PM Eastern time</p><p>Answers to <strong>Frequently Asked Questions</strong> can be found below.</p>"
+            "content": "<p>Call Customer Care at (855) 252-8739.  </p><p>Open Monday to Friday 9AM to 5PM Eastern time</p><p><strong>Answers to Frequently Asked Questions can be found below.</strong></p>"
           }
         }
       },
