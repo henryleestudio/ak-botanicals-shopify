@@ -40,6 +40,7 @@
         "play_7baRLH",
         "heading_q6AjYk"
       ],
+      "disabled": true,
       "settings": {
         "autoplay": true,
         "show_controls": true,
@@ -62,14 +63,14 @@
         "heading_eXytUA": {
           "type": "heading",
           "settings": {
-            "text": "Special offer",
+            "text": "Shipping Policy",
             "heading_tag": "h1"
           }
         },
         "richtext_Cp3Lqa": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Save 10% on AK Wound Wash.</p><p>Use promo code <strong>SPRAY10</strong></p>"
+            "content": "<p>Welcome to our Shipping Policy page! We want you to<br/> feel confident in shopping with us and know what to expect in terms of <br/>processing, shipping, costs, and delivery timelines.</p><p><strong>Order Processing Times</strong></p><p>Once you place your order, our team works diligently to prepare it for shipment. Here’s what to expect:<br/><strong>Processing Time</strong>: 2-5 business days (excluding weekends and holidays).<br/><strong>Orders Received After 5 PM</strong>: Orders placed after 5 PM Eastern time are processed the following business day.</p><p><strong>Shipping Options</strong></p><p><strong>Domestic Shipping</strong><br/>We currently ship across the United States through several shipping options to meet your delivery needs:</p><p><br/><strong>Standard Shipping</strong>: Delivery within 5-7 business days.<br/><strong>Expedited Shipping</strong>: Delivery within 2-3 business days.</p><p><strong>International Shipping</strong><br/>We offer shipping to select international locations. However, certain countries may have <br/>restrictions that prevent us from fulfilling orders there. Please check <br/>the list below for availability:</p><p><strong>Region</strong></p><p><strong>Estimated Delivery Time</strong></p><p><strong>Restrictions</strong></p><p>Canada</p><p>7-14 business days</p><p>None</p><p>United Kingdom</p><p>10-15 business days</p><p>None</p><p>Australia</p><p>10-15 business days</p><p>None</p><p><em>Please note that shipping times are estimates and may vary.</em></p><p><strong>Shipping Costs</strong></p><p>We strive to provide transparent shipping rates:</p><p><br/><strong>Standard Domestic Shipping & Handling</strong>: $9.99 or FREE on special promotions and orders over $75.</p><p><br/><strong>International Shipping</strong>: Rates vary based on destination and shipping option.</p><p><br/><strong>Duties and Taxes</strong>: For international orders, additional import <br/>duties or taxes may apply upon delivery. Please check with your local <br/>customs office to understand potential fees.</p><p><strong>Local Delivery Options</strong></p><p>Local delivery is not available.</p><p><strong>Returns, Changes, and Cancellations</strong></p><p>We’re here to help if you need to adjust your order. Here’s how we handle these requests:</p><p><br/><strong>Returns</strong>: For eligible items, returns can be requested within 60 days of your purchase. Visit our Return Policy Page for more details.</p><p><br/><strong>Order Changes and Cancellations</strong>: To change or cancel an order, <br/>please contact us within 24 hours of purchase. Our Customer Service team<br/> can be reached by phone at 855-252-8739. We are open Monday to Friday <br/>between 9:00am and 5:00pm Eastern time, with the exception of national <br/>holidays. Please leave a message if you get voicemail.  It is our policy to respond to all Customer Service inquiries by the next business day.</p><p><br/><strong>Lost or Damaged Orders</strong>: In the rare case of a lost or damaged <br/>package, reach out to our customer support team, and we’ll work to <br/>resolve the issue promptly.</p><p><strong>Potential Service Interruptions</strong></p><p>While we do our best to deliver on time, external <br/>factors such as weather or customs processing may cause delays. Please <br/>check our homepage for any service interruptions that may affect your <br/>order.</p><p><strong>Order Tracking</strong></p><p>Once your order ships, you’ll receive a shipment <br/>confirmation email with tracking details. You can track the status of <br/>your package at any time. If you encounter any issues, our support team <br/>is here to help.</p><p>Thank you for choosing us! We’re committed to a <br/>seamless shopping experience and look forward to serving you. For <br/>further questions, feel free to reach out to our support team by email <br/>at help@akbotanicals.com.</p>"
           }
         }
       },
