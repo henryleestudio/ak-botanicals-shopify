@@ -106,6 +106,42 @@
         "max_image_zoom_level": 3
       }
     },
+    "rich_text_hg9cUB": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_yjBYcM": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_gxeeBf": {
+          "type": "heading",
+          "settings": {
+            "text": "Questions?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Lr3D4Q": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Call Customer Care at 855-252-8739.</p><p>Monday to Friday 9AM to 5PM Eastern Time.</p><p><strong>Answers to Frequently Asked Questions can be found below.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yjBYcM",
+        "heading_gxeeBf",
+        "richtext_Lr3D4Q"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "rich_text_C9EX6V": {
       "type": "rich-text",
       "blocks": {
@@ -276,6 +312,7 @@
   },
   "order": [
     "main",
+    "rich_text_hg9cUB",
     "rich_text_C9EX6V",
     "faq_kDyCm9",
     "image_with_text_Ub3BgF",
