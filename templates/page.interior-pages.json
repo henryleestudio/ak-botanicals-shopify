@@ -40,8 +40,8 @@
         "heading_q6AjYk"
       ],
       "settings": {
-        "autoplay": true,
-        "show_controls": false,
+        "autoplay": false,
+        "show_controls": true,
         "video_size": "auto",
         "video": "shopify://files/videos/POSTED Howard Testimonial.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
