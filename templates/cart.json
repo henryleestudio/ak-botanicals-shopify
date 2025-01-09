@@ -103,7 +103,7 @@
         "richtext_dahHyb": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Call us at (855) 252-8739</p><p>Our Customer Care Team is Available M - F 9am to 5pm Eastern Time</p>"
+            "content": "<p><strong>Call us at (855) 252-8739</strong></p><p>Our Customer Care Team is Available M - F 9am to 5pm Eastern Time.</p><p>After hours, please email us at care@akbotanicals.com</p>"
           }
         }
       },
