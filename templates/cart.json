@@ -106,7 +106,7 @@
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": false,
-        "cycle_speed": 6,
+        "cycle_speed": 4,
         "background": "#fdf9f5",
         "controls_color": "#ffffff"
       }
