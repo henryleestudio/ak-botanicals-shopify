@@ -46,38 +46,11 @@
         "title": "🍪 Cookie policy",
         "content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
       }
-    },
-    "logo_list_qeyiwR": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_LLnhLH": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/60_Day_Money_Back_Guarantee_27.png",
-            "logo_width": 250,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_LLnhLH"
-      ],
-      "settings": {
-        "logo-list-id": "",
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "",
-        "items_per_row": 3,
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
     }
   },
   "order": [
     "cart-drawer",
     "newsletter-popup",
-    "privacy-banner",
-    "logo_list_qeyiwR"
+    "privacy-banner"
   ]
 }
