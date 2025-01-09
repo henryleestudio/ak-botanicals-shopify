@@ -44,7 +44,7 @@
         "autoplay": true,
         "show_controls": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/Add a heading (2).mp4",
+        "video": "shopify://files/videos/final 2 Akti Clear-1080p-241209.mp4",
         "mobile_video": "shopify://files/videos/Add a heading (Mobile Video) (2).mp4",
         "external_video_url": "",
         "text_color": "#ffffff"
@@ -177,7 +177,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "product": "ak-wound-wash",
+        "product": "wound-wash-akti-clear-bundle",
         "separate_section_with_border": true,
         "container_size": "lg",
         "product_info_size": 45,
