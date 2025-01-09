@@ -46,11 +46,56 @@
         "title": "🍪 Cookie policy",
         "content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
       }
+    },
+    "logo_list_YqAi3J": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_QYLLVm": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/2_3_fa14733d-ec16-43cf-a8ad-8dea37c68694.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_MpBmNA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1_3.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_VrygaL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/3_4.png",
+            "logo_width": 200,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_QYLLVm",
+        "logo_MpBmNA",
+        "logo_VrygaL"
+      ],
+      "settings": {
+        "logo-list-id": "",
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Review your order",
+        "items_per_row": 3,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
     "cart-drawer",
     "newsletter-popup",
-    "privacy-banner"
+    "privacy-banner",
+    "logo_list_YqAi3J"
   ]
 }
