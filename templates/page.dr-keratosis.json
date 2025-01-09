@@ -41,12 +41,13 @@
         "heading_q6AjYk"
       ],
       "settings": {
-        "autoplay": true,
+        "autoplay": false,
         "show_controls": true,
-        "video_size": "auto",
+        "video_size": "fill",
         "video": "shopify://files/videos/final 2 Akti Clear-1080p-241209.mp4",
-        "mobile_video": "shopify://files/videos/Add a heading (Mobile Video) (2).mp4",
+        "mobile_video": "shopify://files/videos/final 2 Akti Clear-1080p-241209.mp4",
         "external_video_url": "",
+        "poster": "shopify://shop_images/Screenshot_2025-01-09_140501.png",
         "text_color": "#ffffff"
       }
     },
