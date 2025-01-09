@@ -45,6 +45,7 @@
         "video_size": "auto",
         "video": "shopify://files/videos/POSTED Howard Testimonial.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/Dr_Keratosis_Will_See_You_Now_3.png",
         "text_color": "#ffffff"
       }
     },
