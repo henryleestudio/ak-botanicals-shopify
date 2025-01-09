@@ -39,12 +39,11 @@
         "play_7baRLH",
         "heading_q6AjYk"
       ],
-      "disabled": true,
       "settings": {
         "autoplay": true,
         "show_controls": false,
-        "video_size": "md",
-        "video": "shopify://files/videos/hand-rub.mp4",
+        "video_size": "auto",
+        "video": "shopify://files/videos/POSTED Howard Testimonial.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff"
       }
