@@ -17,6 +17,42 @@
         "page_width": "sm"
       }
     },
+    "rich_text_gzegUy": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4Kpryc": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_jNA7nc": {
+          "type": "heading",
+          "settings": {
+            "text": "howard's story",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LXUWEy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Hear how AK Botanicals came into being from our Chairman.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4Kpryc",
+        "heading_jNA7nc",
+        "richtext_LXUWEy"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "video_UYaCyM": {
       "type": "video",
       "blocks": {
@@ -202,6 +238,7 @@
   },
   "order": [
     "main",
+    "rich_text_gzegUy",
     "video_UYaCyM",
     "rich_text_GfVLf9",
     "image_with_text_BmPRJh",
