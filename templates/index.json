@@ -17,7 +17,7 @@
           "settings": {
             "video": "shopify://files/videos/sunshine girl.mp4",
             "allow_sound": false,
-            "subheading": "<strong>a drop a day for 3 days</strong>",
+            "subheading": "",
             "title": "Dermatological Skincare for Use on Actinic Keratosis",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end sm:text-end",
@@ -150,6 +150,12 @@
             "text": ""
           }
         },
+        "subheading_LXmV79": {
+          "type": "subheading",
+          "settings": {
+            "text": "\"a drop a day for 3 days\""
+          }
+        },
         "heading_F46RBE": {
           "type": "heading",
           "settings": {
@@ -160,12 +166,13 @@
         "richtext_FQChfc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Home of AKti-Clear™, the fast and effective dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>You can begin to restore your skin's health by applying <strong>a drop a day for 3 days</strong>. </p><p>We discovered the AKti-Clear™ solution and got amazing results ourselves. Since then, we've dedicated our lives to sharing it with you.</p><p>Please join us in our commitment to supporting skin cancer prevention. We pledge a portion of our profits to skin cancer research.</p>"
+            "content": "<p>Home of AKti-Clear™, the fast and effective dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p><strong>You could restore your skin's health by applying a drop a day for 3 days. </strong></p><p>We discovered the AKti-Clear™ solution and got amazing results ourselves. Since then, we've dedicated our lives to sharing it with you.</p><p>Please join us in our commitment to supporting skin cancer prevention. We pledge a portion of our profits to skin cancer research.</p>"
           }
         }
       },
       "block_order": [
         "subheading_gKarwX",
+        "subheading_LXmV79",
         "heading_F46RBE",
         "richtext_FQChfc"
       ],
