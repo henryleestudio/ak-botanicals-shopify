@@ -141,6 +141,42 @@
         "controls_color": "#ffffff"
       }
     },
+    "rich_text_3tDxTD": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gKarwX": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_F46RBE": {
+          "type": "heading",
+          "settings": {
+            "text": "welcome to ak botanicals",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_FQChfc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Home of AKti-Clear™, the fast and effective dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>You can begin to restore your skin's health with a drop a day for 3 days. </p><p>We've used AKti-Clear™ ourselves and have gotten amazing results. So we dedicated our lives to sharing it with you.</p><p>We are committed to supporting skin cancer prevention and pledge a portion of our profits to the skin cancer research.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gKarwX",
+        "heading_F46RBE",
+        "richtext_FQChfc"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -330,54 +366,6 @@
         "max_image_zoom_level": 3,
         "subheading": "",
         "title": "Featured product",
-        "content": ""
-      }
-    },
-    "testimonials_pmABQj": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_YfxkAX": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        },
-        "testimonial_pGeeBC": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        },
-        "testimonial_dLRajF": {
-          "type": "testimonial",
-          "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
-            "author": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_YfxkAX",
-        "testimonial_pGeeBC",
-        "testimonial_dLRajF"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "auto_rotate_between_testimonials": false,
-        "cycle_speed": 5,
-        "font_size_factor": 1,
-        "subheading": "",
-        "title": "Live more",
         "content": ""
       }
     },
@@ -1333,10 +1321,10 @@
   },
   "order": [
     "slideshow",
+    "rich_text_3tDxTD",
     "featured-collections",
     "image-with-text-scroll",
     "featured_product_yAPJqc",
-    "testimonials_pmABQj",
     "before-after",
     "shop-the-look",
     "rich_text_zwXKph",
