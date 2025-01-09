@@ -84,6 +84,42 @@
         "content": ""
       }
     },
+    "rich_text_wmFVT3": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_bQibhU": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_iLiwaa": {
+          "type": "heading",
+          "settings": {
+            "text": "questions?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_dahHyb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Call us at (855) 252-8739</p><p>Our Customer Care Team is Available M - F 9am to 5pm Eastern Time</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bQibhU",
+        "heading_iLiwaa",
+        "richtext_dahHyb"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "main": {
       "type": "main-cart",
       "settings": {
@@ -98,6 +134,7 @@
   },
   "order": [
     "media_grid_HBAg8p",
+    "rich_text_wmFVT3",
     "main"
   ]
 }
