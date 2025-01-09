@@ -50,42 +50,6 @@
         "text_color": "#ffffff"
       }
     },
-    "rich_text_VFAA9P": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_aJRTax": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_eXytUA": {
-          "type": "heading",
-          "settings": {
-            "text": "Special offer",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_Cp3Lqa": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Save 10% on AK Wound Wash.</p><p>Use promo code <strong>SPRAY10</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_aJRTax",
-        "heading_eXytUA",
-        "richtext_Cp3Lqa"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "featured_product_JJCAfM": {
       "type": "featured-product",
       "blocks": {
@@ -198,7 +162,6 @@
   "order": [
     "main",
     "video_UYaCyM",
-    "rich_text_VFAA9P",
     "featured_product_JJCAfM"
   ]
 }
