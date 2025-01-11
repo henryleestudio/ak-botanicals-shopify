@@ -17,6 +17,38 @@
         "page_width": "sm"
       }
     },
+    "video_UYaCyM": {
+      "type": "video",
+      "blocks": {
+        "play_7baRLH": {
+          "type": "play",
+          "disabled": true,
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_q6AjYk": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_7baRLH",
+        "heading_q6AjYk"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/POSTED Howard Testimonial.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "poster": "shopify://shop_images/Dr_Keratosis_Will_See_You_Now_3.png",
+        "text_color": "#ffffff"
+      }
+    },
     "rich_text_gzegUy": {
       "type": "rich-text",
       "blocks": {
@@ -51,38 +83,6 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
-      }
-    },
-    "video_UYaCyM": {
-      "type": "video",
-      "blocks": {
-        "play_7baRLH": {
-          "type": "play",
-          "disabled": true,
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        },
-        "heading_q6AjYk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "play_7baRLH",
-        "heading_q6AjYk"
-      ],
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/POSTED Howard Testimonial.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "poster": "shopify://shop_images/Dr_Keratosis_Will_See_You_Now_3.png",
-        "text_color": "#ffffff"
       }
     },
     "rich_text_GfVLf9": {
@@ -237,9 +237,9 @@
     }
   },
   "order": [
-    "main",
     "rich_text_gzegUy",
     "video_UYaCyM",
+    "main",
     "rich_text_GfVLf9",
     "image_with_text_BmPRJh",
     "image_with_text_yXAHpE",
