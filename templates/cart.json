@@ -84,6 +84,17 @@
         "content": ""
       }
     },
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "color_scheme": "",
+        "show_cart_note": false,
+        "show_order_weight": false,
+        "show_shipping_text": true,
+        "show_accelerated_buttons": false,
+        "show_shipping_estimator": false
+      }
+    },
     "rich_text_wmFVT3": {
       "type": "rich-text",
       "blocks": {
@@ -119,22 +130,11 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
-    },
-    "main": {
-      "type": "main-cart",
-      "settings": {
-        "color_scheme": "",
-        "show_cart_note": false,
-        "show_order_weight": false,
-        "show_shipping_text": true,
-        "show_accelerated_buttons": false,
-        "show_shipping_estimator": false
-      }
     }
   },
   "order": [
     "media_grid_HBAg8p",
-    "rich_text_wmFVT3",
-    "main"
+    "main",
+    "rich_text_wmFVT3"
   ]
 }
