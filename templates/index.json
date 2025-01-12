@@ -177,7 +177,7 @@
         "richtext_FQChfc"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
         "content_width": "md",
         "text_position": "center",
@@ -202,7 +202,7 @@
         "collection-1"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
