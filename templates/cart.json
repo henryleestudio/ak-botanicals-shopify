@@ -77,8 +77,8 @@
         "separate_section_with_border": true,
         "desktop_row_height": 220,
         "mobile_row_height": 240,
-        "section_width": "sm",
-        "spacing": "sm",
+        "section_width": "xs",
+        "spacing": "none",
         "subheading": "",
         "title": "",
         "content": ""
