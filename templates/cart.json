@@ -99,7 +99,7 @@
         "trustedsite_trust_badges_engagement_frnUe8"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_cart_note": false,
         "show_order_weight": false,
         "show_shipping_text": true,
@@ -126,7 +126,7 @@
         "richtext_dahHyb": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Call us at (855) 252-8739</strong></p><p>Our Customer Care Team is Available M - F 9am to 5pm Eastern Time</p><p>After hours, please <a href=\"/pages/contact\" title=\"Contact\">use our contact form</a>.</p>"
+            "content": "<p>Use the live chat or <strong>call us at (855) 252-8739</strong></p><p>Our Customer Care Team is Available M - F 9am to 5pm Eastern Time</p><p>After hours, please <a href=\"/pages/contact\" title=\"Contact\">use our contact form</a>.</p>"
           }
         }
       },
