@@ -25,11 +25,18 @@
           "settings": {
             "text": "FREE SHIPPING on  Akti-clear bundle"
           }
+        },
+        "message_DcDd7N": {
+          "type": "message",
+          "settings": {
+            "text": "USE PROMO CODE MLK50 to SAVE 50% THROUGH MONDAY"
+          }
         }
       },
       "block_order": [
         "message-1",
-        "message_dmYkNB"
+        "message_dmYkNB",
+        "message_DcDd7N"
       ],
       "settings": {
         "color_scheme": "",
@@ -37,7 +44,7 @@
         "autoplay": true,
         "cycle_speed": 5,
         "desktop_font_size": 11,
-        "mobile_font_size": 10
+        "mobile_font_size": 12
       }
     },
     "header": {
