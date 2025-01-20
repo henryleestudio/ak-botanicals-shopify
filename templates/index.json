@@ -22,7 +22,7 @@
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 900,
-            "button_1_text": "SAVE 50% ON YOUR ENTIRE PURCHASE THROUGH MONDAY, USE COUPON CODE MLK50 AT CHECKOUT",
+            "button_1_text": "FINAL DAY!  SAVE 50% ON YOUR ENTIRE PURCHASE. USE COUPON CODE MLK50 AT CHECKOUT.",
             "button_1_link": "shopify://collections/featured-products",
             "button_1_style": "solid",
             "button_1_background": "#ffffff",
@@ -1133,7 +1133,7 @@
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "SAVE 50% ON YOUR ENTIRE PURCHASE THROUGH MONDAY, USE COUPON CODE MLK50 AT CHECKOUT",
+            "text": "FINAL DAY!  SAVE 50% ON YOUR ENTIRE PURCHASE. USE COUPON CODE MLK50 AT CHECKOUT",
             "url": "shopify://collections/featured-products",
             "background": "#b5c29c",
             "text_color": "#000000"
