@@ -25,18 +25,11 @@
           "settings": {
             "text": "FREE SHIPPING on  Akti-clear bundle"
           }
-        },
-        "message_DcDd7N": {
-          "type": "message",
-          "settings": {
-            "text": "MLK SALE! USE PROMO CODE MLK50 to SAVE 50% - FINAL DAY"
-          }
         }
       },
       "block_order": [
         "message-1",
-        "message_dmYkNB",
-        "message_DcDd7N"
+        "message_dmYkNB"
       ],
       "settings": {
         "color_scheme": "",
