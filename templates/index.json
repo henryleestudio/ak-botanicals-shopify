@@ -1133,10 +1133,10 @@
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "get akti-clear",
+            "text": "Get AKti-Clear",
             "url": "shopify://collections/featured-products",
-            "background": "#b5c29c",
-            "text_color": "#000000"
+            "background": "#ed8a00",
+            "text_color": "#fdf9f5"
           }
         }
       },
