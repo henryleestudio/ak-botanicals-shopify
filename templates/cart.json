@@ -11,6 +11,7 @@
   "sections": {
     "countdown_HGEnkK": {
       "type": "countdown",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": true,
