@@ -12,12 +12,12 @@
     "countdown_HGEnkK": {
       "type": "countdown",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "image_size": "auto",
         "subheading": "",
         "title": "Special offer",
-        "content": "<p>Use promo code NEW10 in checkout to Save 10% on your purchase now. Hurry offer expires soon.</p>",
+        "content": "<p>Use promo code <strong>NEW10 </strong>in checkout to Save 10% on your purchase now. Hurry offer expires soon.</p>",
         "button_link": "",
         "button_text": "",
         "expiration_date": "2025-01-22 12:00:00",
