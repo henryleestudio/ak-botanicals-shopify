@@ -20,7 +20,7 @@
         "content": "<p>Use promo code <strong>NEW10 </strong>in checkout to Save 10% on your purchase now. Hurry offer expires soon.</p>",
         "button_link": "",
         "button_text": "",
-        "expiration_date": "2025-01-22 12:00:00",
+        "expiration_date": "2025-01-22 16:00:00",
         "expiration_behavior": "leave",
         "timer_position": "end",
         "animate_number": true,
