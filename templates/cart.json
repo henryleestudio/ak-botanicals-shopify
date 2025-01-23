@@ -55,73 +55,6 @@
         "show_shipping_estimator": false
       }
     },
-    "image_with_text_block_zDHxkY": {
-      "type": "image-with-text-block",
-      "blocks": {
-        "subheading_g6tgQL": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": ""
-          }
-        },
-        "richtext_Kxx4xf": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_g6tgQL",
-        "richtext_Kxx4xf"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_size": "auto",
-        "image": "shopify://shop_images/Add_a_subheading_6.png",
-        "content_width": "md",
-        "enable_parallax": false,
-        "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_Bn7PXi": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_wLCAeE": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_KmHFGX": {
-          "type": "heading",
-          "settings": {
-            "text": "we appreciate your business!",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_rAeVnW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Confirm your order quantity & click the CHECKOUT button to complete your purchase.  If you prefer, you can<a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\"> buy AKti-Clear on Amazon.com.</a>  (Please note: AK Wound Wash is not available on Amazon.)</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_wLCAeE",
-        "heading_KmHFGX",
-        "richtext_rAeVnW"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "media_grid_HBAg8p": {
       "type": "media-grid",
       "blocks": {
@@ -232,14 +165,81 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
+    },
+    "image_with_text_block_zDHxkY": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_g6tgQL": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": ""
+          }
+        },
+        "richtext_Kxx4xf": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_g6tgQL",
+        "richtext_Kxx4xf"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/Add_a_subheading_6.png",
+        "content_width": "md",
+        "enable_parallax": false,
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_Bn7PXi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_wLCAeE": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_KmHFGX": {
+          "type": "heading",
+          "settings": {
+            "text": "we appreciate your business!",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_rAeVnW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Confirm your order quantity & click the CHECKOUT button to complete your purchase.  You can<a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\"> buy AKti-Clear on Amazon.com.</a>  (Please note: AK Wound Wash is not available on Amazon.)</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_wLCAeE",
+        "heading_KmHFGX",
+        "richtext_rAeVnW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "countdown_HGEnkK",
     "main",
-    "image_with_text_block_zDHxkY",
-    "rich_text_Bn7PXi",
     "media_grid_HBAg8p",
-    "rich_text_wmFVT3"
+    "rich_text_wmFVT3",
+    "image_with_text_block_zDHxkY",
+    "rich_text_Bn7PXi"
   ]
 }
