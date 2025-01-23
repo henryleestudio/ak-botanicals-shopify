@@ -216,7 +216,7 @@
         "richtext_rAeVnW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Confirm your order quantity & click the CHECKOUT button to complete your purchase.  You can<a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\"> buy AKti-Clear on Amazon.com.</a>  (Please note: AK Wound Wash is not available on Amazon.)</p>"
+            "content": "<p>Confirm your order quantity & click the CHECKOUT button to complete your purchase.  You can also<a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\"> buy AKti-Clear on Amazon.com.</a>  (Please note: AK Wound Wash is not available on Amazon.)</p>"
           }
         }
       },
