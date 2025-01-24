@@ -40,10 +40,11 @@
         "play_7baRLH",
         "heading_q6AjYk"
       ],
+      "custom_css": [],
       "settings": {
         "autoplay": false,
         "show_controls": true,
-        "video_size": "auto",
+        "video_size": "fill",
         "video": "shopify://files/videos/final 2 Akti Clear-1080p-241209.mp4",
         "mobile_video": "shopify://files/videos/final 2 Akti Clear-1080p-241209.mp4",
         "external_video_url": "",
