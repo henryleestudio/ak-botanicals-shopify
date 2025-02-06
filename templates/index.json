@@ -560,8 +560,8 @@
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
         "content": "<p>If left unaddressed, Actinic Keratosis may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
-        "button_1_text": "",
-        "button_1_link": "",
+        "button_1_text": "Order now",
+        "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
         "button_2_text": "",
         "button_2_link": "",
@@ -876,10 +876,10 @@
       "settings": {
         "faq-id": "actinic-keratosis",
         "color_scheme": "",
-        "separate_section_with_border": false,
+        "separate_section_with_border": true,
         "show_categories": false,
         "subheading": "",
-        "title": "",
+        "title": "Frequently asked questions",
         "content": ""
       }
     },
@@ -1322,6 +1322,7 @@
         },
         "variant_picker_mKawEh": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "block",
@@ -1332,6 +1333,7 @@
         },
         "quantity_selector_LU3mVX": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons_fCN7HL": {
@@ -1379,7 +1381,7 @@
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "subheading": "",
-        "title": "try AKti-Clear™  risk free",
+        "title": "a drop a day for 3 days",
         "content": ""
       }
     },
