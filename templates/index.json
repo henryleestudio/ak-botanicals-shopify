@@ -952,45 +952,6 @@
         "remove_vertical_spacing": true
       }
     },
-    "image_with_text_ciNKFX": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_htwhFY": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_34WQKn": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_Nmf6rP": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_htwhFY",
-        "heading_34WQKn",
-        "richtext_Nmf6rP"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image": "shopify://shop_images/Euphorbia-echinus-bed-5-5830-2-scaled_ebe952c5-a6d4-4150-b6cf-3c7867698195.jpg",
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
-    },
     "media_grid_EC7fgN": {
       "type": "media-grid",
       "blocks": {
@@ -1133,8 +1094,8 @@
         "button_H3ataP": {
           "type": "button",
           "settings": {
-            "style": "solid",
-            "text": "Get AKti-Clear",
+            "style": "outline",
+            "text": "",
             "url": "shopify://collections/featured-products",
             "background": "#ed8a00",
             "text_color": "#fdf9f5"
@@ -1230,7 +1191,7 @@
         "richtext_n7JbdQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em>\"In the words of my dermatologist, I am a lifelong dermatology patient. This is in part due to being a fair skinned person growing up by the beach and having a great deal of sun exposure much of my life. I have a lot of flaky spots on my arms, legs, back, chest and face that have been diagnosed as Actinic Keratosis. Over the years I’ve had those removed with a variety of methods and prescription medications and it was always an unpleasant experience...  Recently. I discovered AKti-Clear from AK Botanicals. This method is easy (3 one day, one drop, applications) painless and, after using it on multiple spots, I’m happy to say it works! The spots I have treated with this product have left my skin fresh and new without scars... I may be a lifelong dermatology patient however I will also be a lifelong AKti-Clear user. If you have flaky skin spots caused by sun damage I highly recommend you try AKti-Clear.\" </em>- Melissa Thompson, Escondido, California</p>"
+            "content": "<p><em>\"In the words of my dermatologist, I am a lifelong dermatology patient. This is in part due to being a fair skinned person growing up by the beach and having a great deal of sun exposure much of my life. I have a lot of flaky spots on my arms, legs, back, chest and face that have been diagnosed as Actinic Keratosis... Over the years I’ve had those removed with a variety of methods and prescription medications and it was always an unpleasant experience...  Recently. I discovered AKti-Clear from AK Botanicals. This method is easy (3 one day, one drop, applications) painless and, after using it on multiple spots, I’m happy to say it works! The spots I have treated with this product have left my skin fresh and new without scars... I may be a lifelong dermatology patient however I will also be a lifelong AKti-Clear user. If you have flaky skin spots caused by sun damage I highly recommend you try AKti-Clear.\" </em>- Melissa Thompson, Escondido, California</p>"
           }
         },
         "heading_rN3MUM": {
@@ -1286,7 +1247,7 @@
           "type": "button",
           "settings": {
             "style": "solid",
-            "text": "order now",
+            "text": "",
             "url": "shopify://collections/featured-products",
             "background": "#b5c29c",
             "text_color": "#000000"
@@ -1311,6 +1272,115 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
+      }
+    },
+    "featured_product_qAacGq": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_r9Xjg6": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_iVc9Ag": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_twarTE": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_wgnALQ": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_3f8DWN": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_YJFghC": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_UancMn": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_B6YgYb": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_mKawEh": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_LU3mVX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_fCN7HL": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_6DqFDG": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_r9Xjg6",
+        "title_iVc9Ag",
+        "badges_twarTE",
+        "price_wgnALQ",
+        "rating_3f8DWN",
+        "payment_terms_YJFghC",
+        "separator_UancMn",
+        "description_B6YgYb",
+        "variant_picker_mKawEh",
+        "quantity_selector_LU3mVX",
+        "buy_buttons_fCN7HL",
+        "pickup_availability_6DqFDG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "wound-wash-akti-clear-bundle",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "try AKti-Clear™  risk free",
+        "content": ""
       }
     },
     "newsletter": {
@@ -1348,12 +1418,12 @@
     "faq_KBkNdU",
     "image_with_text_Mb6t6m",
     "image_with_text_block_NU3wXG",
-    "image_with_text_ciNKFX",
     "media_grid_EC7fgN",
     "before_after_VF3mp3",
     "rich_text_kMnKyC",
     "logo_list_JiRF8y",
     "rich_text_TfYeRE",
+    "featured_product_qAacGq",
     "newsletter"
   ]
 }
