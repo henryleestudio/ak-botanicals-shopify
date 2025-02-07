@@ -240,24 +240,11 @@
             "link_url": "",
             "link_style": "solid"
           }
-        },
-        "item-3": {
-          "type": "image_with_text",
-          "disabled": true,
-          "settings": {
-            "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
         }
       },
       "block_order": [
         "item-1",
-        "item-2",
-        "item-3"
+        "item-2"
       ],
       "settings": {
         "color_scheme": "",
@@ -706,6 +693,7 @@
         "image_rPKNGH",
         "image_FPAhwF"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "separate_section_with_border": false,
@@ -1381,7 +1369,7 @@
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "subheading": "",
-        "title": "a drop a day for 3 days",
+        "title": "limited offer",
         "content": ""
       }
     },
