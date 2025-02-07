@@ -184,35 +184,6 @@
         "remove_vertical_spacing": false
       }
     },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "featured-products",
-            "products_count": 8,
-            "title": "Botanically-Infused topicals",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "our products"
-      }
-    },
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -546,7 +517,7 @@
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
         "content": "<p>If left unaddressed, Actinic Keratosis may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
-        "button_1_text": "Order now",
+        "button_1_text": "",
         "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
         "button_2_text": "",
@@ -778,6 +749,35 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "featured-products",
+            "products_count": 8,
+            "title": "Botanically-Infused topicals",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "our products"
       }
     },
     "faq_KBkNdU": {
