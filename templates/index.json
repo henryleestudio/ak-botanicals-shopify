@@ -141,6 +141,44 @@
         "controls_color": "#ffffff"
       }
     },
+    "image_with_text_gxFH3M": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_aJUMre": {
+          "type": "subheading",
+          "settings": {
+            "text": "limited offer"
+          }
+        },
+        "heading_cBzBeD": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>sale! </strong>through february 14th",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_M9XQA3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Give a Valentine’s gift that truly matters. 🎁💖 Give the gift of AKti-Clear and reveal healthier skin together!</p><p> We'll ship 2 for every 1 you buy. </p><p>This \"Buy One, Share One\" offer is available for a limited time.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aJUMre",
+        "heading_cBzBeD",
+        "richtext_M9XQA3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Mark_Hirsch_1.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
     "rich_text_3tDxTD": {
       "type": "rich-text",
       "blocks": {
@@ -332,49 +370,6 @@
         "subheading": "",
         "title": "Featured product",
         "content": ""
-      }
-    },
-    "before-after": {
-      "type": "before-after",
-      "blocks": {
-        "before": {
-          "type": "before",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/before-cropped.png",
-            "text": "Before",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        },
-        "after": {
-          "type": "after",
-          "settings": {
-            "color_scheme": "",
-            "image": "shopify://shop_images/pexels-marcello-sokal-62573206-8556245.jpg",
-            "text": "After",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "before",
-        "after"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "cursor_direction": "horizontal",
-        "cursor_initial_position": 50,
-        "cursor_background": "#ffffff",
-        "cursor_arrows_color": "#000000"
       }
     },
     "shop-the-look": {
@@ -1390,10 +1385,10 @@
   },
   "order": [
     "slideshow",
+    "image_with_text_gxFH3M",
     "rich_text_3tDxTD",
     "image-with-text-scroll",
     "featured_product_yAPJqc",
-    "before-after",
     "shop-the-look",
     "rich_text_zwXKph",
     "video_PiLmmQ",
