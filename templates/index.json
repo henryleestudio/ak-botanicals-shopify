@@ -141,6 +141,49 @@
         "controls_color": "#ffffff"
       }
     },
+    "rich_text_3tDxTD": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gKarwX": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "subheading_LXmV79": {
+          "type": "subheading",
+          "settings": {
+            "text": "\"a drop a day for 3 days\""
+          }
+        },
+        "heading_F46RBE": {
+          "type": "heading",
+          "settings": {
+            "text": "welcome to ak botanicals",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_FQChfc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Home of AKti-Clear™, the fast-acting dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results ourselves</a>. Since then, we've dedicated our lives to sharing it with you.</p><p>Apply a drop a day for 3 days, so you can restore your skin's health too. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gKarwX",
+        "subheading_LXmV79",
+        "heading_F46RBE",
+        "richtext_FQChfc"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "content_width": "md",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image_with_text_gxFH3M": {
       "type": "image-with-text",
       "blocks": {
@@ -184,49 +227,6 @@
         "image_position": "end",
         "content_width": "lg",
         "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_3tDxTD": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_gKarwX": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "subheading_LXmV79": {
-          "type": "subheading",
-          "settings": {
-            "text": "\"a drop a day for 3 days\""
-          }
-        },
-        "heading_F46RBE": {
-          "type": "heading",
-          "settings": {
-            "text": "welcome to ak botanicals",
-            "heading_tag": "h2"
-          }
-        },
-        "richtext_FQChfc": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Home of AKti-Clear™, the fast-acting dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results ourselves</a>. Since then, we've dedicated our lives to sharing it with you.</p><p>Apply a drop a day for 3 days, so you can restore your skin's health too. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_gKarwX",
-        "subheading_LXmV79",
-        "heading_F46RBE",
-        "richtext_FQChfc"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": false,
-        "content_width": "md",
-        "text_position": "center",
-        "remove_vertical_spacing": false
       }
     },
     "image-with-text-scroll": {
@@ -1392,8 +1392,8 @@
   },
   "order": [
     "slideshow",
-    "image_with_text_gxFH3M",
     "rich_text_3tDxTD",
+    "image_with_text_gxFH3M",
     "image-with-text-scroll",
     "featured_product_yAPJqc",
     "shop-the-look",
