@@ -67,10 +67,7 @@
         "play_7baRLH",
         "heading_q6AjYk"
       ],
-      "custom_css": [
-        ".video-wrapper {max-width: 1080px; margin: 0 auto; /* Centers the container */ position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */ height: 0;}",
-        ".video-wrapper iframe {position: absolute; top: 0; left: 0; width: 80%; height: 80%;}"
-      ],
+      "custom_css": [],
       "settings": {
         "autoplay": false,
         "show_controls": true,
