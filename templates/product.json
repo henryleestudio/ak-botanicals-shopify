@@ -131,7 +131,7 @@
         "heading_kJ6d76": {
           "type": "heading",
           "settings": {
-            "text": "how to use akti-clear",
+            "text": "<strong>how to use akti-clear</strong>",
             "heading_tag": "h1"
           }
         },
@@ -144,7 +144,7 @@
         "heading_M6yV8N": {
           "type": "heading",
           "settings": {
-            "text": "why address sun-damaged skin?",
+            "text": "<strong>why address sun-damaged skin?</strong>",
             "heading_tag": "h1"
           }
         },
@@ -241,7 +241,7 @@
         "separate_section_with_border": false,
         "show_categories": false,
         "subheading": "",
-        "title": "click to expand",
+        "title": "<strong>click to expand</strong>",
         "content": ""
       }
     },
