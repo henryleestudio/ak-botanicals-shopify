@@ -140,6 +140,19 @@
           "settings": {
             "content": "<ol><li><strong>Apply a Drop a Day for 3 Days:</strong> The application process is simple and quick. Just one drop daily for three days is all it takes to start the process of restoring your skin’s health.</li><li><strong>Let the Formula Work:</strong> After the three-day application, use AK Wound Wash, Aloe or Vitamin E cream to work with your skin’s natural healing process, revealing healthier skin in just a few weeks.</li></ol>"
           }
+        },
+        "heading_M6yV8N": {
+          "type": "heading",
+          "settings": {
+            "text": "why address sun-damaged skin?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_kw7zgM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Sun-damaged skin, if left unaddressed, can lead to more serious skin concerns such as basal cell and squamous cell carcinoma. AKti-Clear offers a proactive approach to maintaining your skin’s health, helping you feel confident and comfortable in your own skin.</p>"
+          }
         }
       },
       "block_order": [
@@ -147,7 +160,9 @@
         "heading_3KT4rg",
         "richtext_x3RwCx",
         "heading_kJ6d76",
-        "richtext_jFTfda"
+        "richtext_jFTfda",
+        "heading_M6yV8N",
+        "richtext_kw7zgM"
       ],
       "settings": {
         "color_scheme": "",
