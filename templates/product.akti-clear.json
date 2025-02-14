@@ -226,7 +226,7 @@
         "question_ji3pVX": {
           "type": "question",
           "settings": {
-            "question": "<strong>Safe & Effective</strong>",
+            "question": "<strong>AKti-Clear is Safe & Effective</strong>",
             "answer": "<p>AKti-Clear’s unique action only affects damaged cells to help shed them, without harming healthy skin.</p>"
           }
         },
@@ -258,6 +258,13 @@
             "answer": "<p>AKti-Clear is a concentrated solution. All you need is a drop or two per day for three days.</p>"
           }
         },
+        "question_drwAWf": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Is this a subscription?</strong>",
+            "answer": "<p>No. AKti-Clear is offered as a one-time purchase.  We do not offer our products on a subscription basis. Your credit card will not be billed again.</p>"
+          }
+        },
         "question_q6xL8f": {
           "type": "question",
           "settings": {
@@ -273,6 +280,7 @@
         "question_NHm3b6",
         "question_yLRiLF",
         "question_ncfY6P",
+        "question_drwAWf",
         "question_q6xL8f"
       ],
       "settings": {
