@@ -119,7 +119,7 @@
         "heading_3WxMYC": {
           "type": "heading",
           "settings": {
-            "text": "Why Choose AKti-Clear?",
+            "text": "<strong>Why Choose AKti-Clear?</strong>",
             "heading_tag": "h1"
           }
         },
@@ -186,8 +186,8 @@
         "heading_RqTrcF": {
           "type": "heading",
           "settings": {
-            "text": "click to expand",
-            "heading_tag": "h3"
+            "text": "<strong>click to expand</strong>",
+            "heading_tag": "h2"
           }
         },
         "richtext_YaW7JM": {
