@@ -127,12 +127,27 @@
           "settings": {
             "content": "<p><strong>Gentle, Botanical-Based Formula:</strong> Infused with a proprietary blend of natural ingredients, AKti-Clear works with your skin’s natural healing process. It’s free from added fragrances and harsh chemicals.</p><p><strong>Fast 3-Day Application:</strong> Simply apply one drop daily for three days. The formula is designed to be straightforward and effective, allowing you to see visible improvements in your skin’s health within 15-20 days.</p><p><strong>Targeted for Sun-Damaged Skin:</strong> AKti-Clear is specifically formulated for use on sun-exposed areas. It’s an ideal solution for those looking to address sun-damaged skin and abnormal skin growths.</p><p></p><p><strong>Natural Active Ingredients:</strong> AKti-Clear contains Sanguinaria canadensis (Bloodroot) and Annona muricata (Soursop fruit), which have been used for centuries in traditional medicine for their beneficial properties.</p>"
           }
+        },
+        "heading_kJ6d76": {
+          "type": "heading",
+          "settings": {
+            "text": "how to use akti-clear",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_jFTfda": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ol><li><strong>Apply a Drop a Day for 3 Days:</strong> The application process is simple and quick. Just one drop daily for three days is all it takes to start the process of restoring your skin’s health.</li><li><strong>Let the Formula Work:</strong> After the three-day application, use AK Wound Wash, Aloe or Vitamin E cream to work with your skin’s natural healing process, revealing healthier skin in just a few weeks.</li></ol>"
+          }
         }
       },
       "block_order": [
         "subheading_96nVqG",
         "heading_3KT4rg",
-        "richtext_x3RwCx"
+        "richtext_x3RwCx",
+        "heading_kJ6d76",
+        "richtext_jFTfda"
       ],
       "settings": {
         "color_scheme": "",
