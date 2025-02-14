@@ -257,7 +257,7 @@
         "heading_MnwAdV": {
           "type": "heading",
           "settings": {
-            "text": "Questions?",
+            "text": "<strong>Questions?</strong>",
             "heading_tag": "h1"
           }
         },
