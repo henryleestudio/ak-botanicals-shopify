@@ -14,6 +14,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title": {
@@ -104,6 +105,72 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3
+      }
+    },
+    "rich_text_pWf67q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_xTWHqm": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3WxMYC": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Choose AKti-Clear?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_JD7Wie": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Gentle, Botanical-Based Formula</strong>: Infused with a proprietary blend of natural ingredients, AKti-Clear works with your skin’s natural healing process. It’s free from added fragrances and harsh chemicals.</p><p><strong>Fast 3-Day Application</strong>: Simply apply one drop daily for three days. The formula is designed to be straightforward and effective, allowing you to see visible improvements in your skin’s health within 15-20 days.</p><p><strong>Targeted for Sun-Damaged Skin</strong>: AKti-Clear is specifically formulated for use on sun-exposed areas. It’s an ideal solution for those looking to address sun-damaged skin and abnormal skin growths.</p><p><strong>Natural Active Ingredients</strong>: AKti-Clear contains Sanguinaria canadensis (Bloodroot) and Annona muricata (Soursop fruit), which have been used for centuries in traditional medicine for their beneficial properties.</p>"
+          }
+        },
+        "heading_LDjD6x": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>How to Use AKti-Clear</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_QNC6Ji": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ol><li><strong>Apply a Drop a Day for 3 Days</strong>: The application process is simple and quick. Just one drop daily for three days is all it takes to start the process of restoring your skin’s health.</li><li><strong>Let the Formula Work</strong>: After the three-day application, use AK Wound Wash, Aloe or Vitamin E cream to work with your skin’s natural healing process, revealing healthier skin in just a few weeks.</li></ol>"
+          }
+        },
+        "heading_WVH477": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Why Address Sun-Damaged Skin?</strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_emkkMy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Sun-damaged skin, if left unaddressed, can lead to more serious skin concerns such as basal cell and squamous cell carcinoma.<br/>AKti-Clear offers a proactive approach to maintaining your skin’s health,<br/>helping you feel confident and comfortable in your own skin.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xTWHqm",
+        "heading_3WxMYC",
+        "richtext_JD7Wie",
+        "heading_LDjD6x",
+        "richtext_QNC6Ji",
+        "heading_WVH477",
+        "richtext_emkkMy"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "rich_text_hg9cUB": {
@@ -282,6 +349,7 @@
         "heading_WiWwRN",
         "richtext_Vxtgg7"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -313,9 +381,10 @@
   },
   "order": [
     "main",
-    "rich_text_hg9cUB",
+    "rich_text_pWf67q",
     "rich_text_C9EX6V",
     "faq_kDyCm9",
+    "rich_text_hg9cUB",
     "image_with_text_Ub3BgF",
     "related-products"
   ]
