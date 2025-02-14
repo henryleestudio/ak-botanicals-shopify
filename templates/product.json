@@ -106,33 +106,33 @@
         "max_image_zoom_level": 3
       }
     },
-    "rich_text_AHyB3j": {
+    "rich_text_Urenqj": {
       "type": "rich-text",
       "blocks": {
-        "subheading_niGKVf": {
+        "subheading_96nVqG": {
           "type": "subheading",
           "settings": {
             "text": ""
           }
         },
-        "heading_MnwAdV": {
+        "heading_3KT4rg": {
           "type": "heading",
           "settings": {
-            "text": "Questions?",
+            "text": "<strong>Why Choose AKti-clear?</strong>",
             "heading_tag": "h1"
           }
         },
-        "richtext_qnYF8N": {
+        "richtext_x3RwCx": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Call Customer Care at (855) 252-8739.  </p><p>Monday to Friday 9AM to 5PM Eastern time</p><p><strong>Answers to Frequently Asked Questions can be found below.</strong></p>"
+            "content": "<p><strong>Gentle, Botanical-Based Formula:</strong> Infused with a proprietary blend of natural ingredients, AKti-Clear works with your skin’s natural healing process. It’s free from added fragrances and harsh chemicals.</p><p><strong>Fast 3-Day Application:</strong> Simply apply one drop daily for three days. The formula is designed to be straightforward and effective, allowing you to see visible improvements in your skin’s health within 15-20 days.</p><p><strong>Targeted for Sun-Damaged Skin:</strong> AKti-Clear is specifically formulated for use on sun-exposed areas. It’s an ideal solution for those looking to address sun-damaged skin and abnormal skin growths.</p><p></p><p><strong>Natural Active Ingredients:</strong> AKti-Clear contains Sanguinaria canadensis (Bloodroot) and Annona muricata (Soursop fruit), which have been used for centuries in traditional medicine for their beneficial properties.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_niGKVf",
-        "heading_MnwAdV",
-        "richtext_qnYF8N"
+        "subheading_96nVqG",
+        "heading_3KT4rg",
+        "richtext_x3RwCx"
       ],
       "settings": {
         "color_scheme": "",
@@ -215,6 +215,42 @@
         "content": ""
       }
     },
+    "rich_text_AHyB3j": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_niGKVf": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_MnwAdV": {
+          "type": "heading",
+          "settings": {
+            "text": "Questions?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_qnYF8N": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Call Customer Care at (855) 252-8739.  </p><p>Monday to Friday 9AM to 5PM Eastern time</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_niGKVf",
+        "heading_MnwAdV",
+        "richtext_qnYF8N"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image_with_text_te4rmx": {
       "type": "image-with-text",
       "blocks": {
@@ -274,8 +310,9 @@
   },
   "order": [
     "main",
-    "rich_text_AHyB3j",
+    "rich_text_Urenqj",
     "faq_ka3AeJ",
+    "rich_text_AHyB3j",
     "image_with_text_te4rmx",
     "related-products"
   ]
