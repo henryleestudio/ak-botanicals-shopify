@@ -211,6 +211,13 @@
             "answer": "<p>Three AKti-Clear ampules, enough to use on a small-to-medium lesion. Plus, a 2 oz spray bottle of AK Wound Wash to promote healing.</p>"
           }
         },
+        "question_7q3Vb3": {
+          "type": "question",
+          "settings": {
+            "question": "Why are the ampules partly filled?",
+            "answer": "<p>AKti-Clear is a concentrated solution. All you need is a drop or two per day for three days.</p>"
+          }
+        },
         "question_j7pRth": {
           "type": "question",
           "settings": {
@@ -232,6 +239,7 @@
         "question_WGAXek",
         "question_rgqzRi",
         "question_MMTNxH",
+        "question_7q3Vb3",
         "question_j7pRth",
         "question_RjBrkB"
       ],
