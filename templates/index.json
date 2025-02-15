@@ -1132,6 +1132,15 @@
             "heading_tag": "h1"
           }
         },
+        "image_BLRKnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-15_030820.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "richtext_n7JbdQ": {
           "type": "richtext",
           "settings": {
@@ -1181,6 +1190,15 @@
             "content": "<p><em>\"I applied the serum three times and my hand spot went away. I am very impressed with the results. Next time, I will try it on my face. I love it!\" - C</em>onnie Garzon, Florida</p>"
           }
         },
+        "image_gMYbUx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-15_030529.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
@@ -1200,6 +1218,7 @@
       },
       "block_order": [
         "heading_ydy69V",
+        "image_BLRKnA",
         "richtext_n7JbdQ",
         "heading_rN3MUM",
         "richtext_VDHAN3",
@@ -1207,6 +1226,7 @@
         "richtext_kYUDzi",
         "image_t6A3tt",
         "richtext_ynDYBe",
+        "image_gMYbUx",
         "subheading_tm8Dfq",
         "button_mwpwCG"
       ],
