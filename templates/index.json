@@ -1344,7 +1344,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "subheading": "for new customers only",
+        "subheading": "<strong>for new customers only</strong>",
         "title": "special introductory offer",
         "content": ""
       }
