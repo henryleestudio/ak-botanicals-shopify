@@ -14,12 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_mgqkqM": {
-          "type": "message",
-          "settings": {
-            "text": "valentines's BOGO sale ends today"
-          }
-        },
         "message-1": {
           "type": "message",
           "settings": {
@@ -34,7 +28,6 @@
         }
       },
       "block_order": [
-        "message_mgqkqM",
         "message-1",
         "message_dmYkNB"
       ],
