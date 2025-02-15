@@ -119,42 +119,6 @@
         "max_image_zoom_level": 3
       }
     },
-    "rich_text_xnHGV6": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_nPyzh9": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_xnXUzt": {
-          "type": "heading",
-          "settings": {
-            "text": "questions?",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_AipnC7": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Call Customer Care at 855-252-8739.</p><p>Monday to Friday 9AM to 5PM Eastern Time.</p><p><strong>Answers to Frequently Asked Questions can be found below.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_nPyzh9",
-        "heading_xnXUzt",
-        "richtext_AipnC7"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "faq_JWBgCg": {
       "type": "faq",
       "blocks": {
@@ -225,12 +189,49 @@
         "separate_section_with_border": false,
         "show_categories": false,
         "subheading": "",
-        "title": "click to expand",
+        "title": "faqs: click to expand",
         "content": ""
+      }
+    },
+    "rich_text_xnHGV6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nPyzh9": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_xnXUzt": {
+          "type": "heading",
+          "settings": {
+            "text": "questions?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_AipnC7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Call Customer Care at 855-252-8739.</p><p>Monday to Friday 9AM to 5PM Eastern Time.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nPyzh9",
+        "heading_xnXUzt",
+        "richtext_AipnC7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -325,8 +326,8 @@
   },
   "order": [
     "main",
-    "rich_text_xnHGV6",
     "faq_JWBgCg",
+    "rich_text_xnHGV6",
     "related-products",
     "media_grid_xnJmnw"
   ]
