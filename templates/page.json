@@ -78,6 +78,7 @@
         "heading_eXytUA",
         "richtext_Cp3Lqa"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
@@ -91,6 +92,7 @@
       "blocks": {
         "vendor_pgYMxH": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title_9XaYHV": {
@@ -189,8 +191,8 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "subheading": "",
-        "title": "Featured product",
+        "subheading": "for first time customers",
+        "title": "special introductory offer",
         "content": ""
       }
     }
