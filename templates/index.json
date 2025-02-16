@@ -716,7 +716,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "Botanically-Infused topicals",
+            "title": "special introductory offer",
             "link_url": "",
             "link_text": ""
           }
@@ -734,7 +734,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "special introductory offer"
+        "subheading": "botanically-infused topicals - made in the usa"
       }
     },
     "faq_KBkNdU": {
