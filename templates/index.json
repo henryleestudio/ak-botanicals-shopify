@@ -201,6 +201,7 @@
         },
         "item-2": {
           "type": "image_with_text",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/39.png",
             "subheading": "<strong>AK Wound wash</strong>",
@@ -680,7 +681,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>AKti-Clear™ works quickly on unattractive, scaly skin patches, helping to restore healthy skin and boost confidence. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look.<br/><br/>If left unaddressed, AK may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
+        "content": "<p>AKti-Clear™ works quickly on unattractive, scaly skin patches, helping to restore healthy skin and boost confidence. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look. If left unaddressed, AK may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
         "button_1_text": "",
         "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
