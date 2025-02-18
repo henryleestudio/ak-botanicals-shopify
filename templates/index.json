@@ -184,6 +184,122 @@
         "remove_vertical_spacing": false
       }
     },
+    "rich_text_TfYeRE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ydy69V": {
+          "type": "heading",
+          "settings": {
+            "text": "testimonials",
+            "heading_tag": "h1"
+          }
+        },
+        "image_BLRKnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-15_030820.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_n7JbdQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"In the words of my dermatologist, I am a lifelong dermatology patient. This is in part due to being a fair skinned person growing up by the beach and having a great deal of sun exposure much of my life. I have a lot of flaky spots on my arms, legs, back, chest and face that have been diagnosed as Actinic Keratosis... Over the years I’ve had those removed with a variety of methods and prescription medications and it was always an unpleasant experience...  Recently. I discovered AKti-Clear from AK Botanicals. This method is easy (3 one day, one drop, applications) painless and, after using it on multiple spots, I’m happy to say it works! The spots I have treated with this product have left my skin fresh and new without scars... I may be a lifelong dermatology patient however I will also be a lifelong AKti-Clear user. If you have flaky skin spots caused by sun damage I highly recommend you try AKti-Clear.\" </em>- Melissa Thompson, Escondido, California</p>"
+          }
+        },
+        "heading_rN3MUM": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_VDHAN3": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        },
+        "image_a4eW66": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_kYUDzi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"I had a diagnosed basal cell carcinoma on my lower leg. I had it treated by a dermatologist but the spot came back after a couple of years. I then treated it with AKti-Clear. AKti-Clear worked just like they said it would. I treated it for three consecutive days and then kept it covered and left it alone. They said to not pick off the scab but let it fall off. It worked!! The spot has not come back after a number of years now. I would highly recommend this product to anyone.\"</em> - Cathy Robinson, Florida</p>"
+          }
+        },
+        "image_t6A3tt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image000000_8.jpg",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_ynDYBe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>\"I applied the serum three times and my hand spot went away. I am very impressed with the results. Next time, I will try it on my face. I love it!\" - C</em>onnie Garzon, Florida</p>"
+          }
+        },
+        "image_gMYbUx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-02-15_030529.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "subheading_tm8Dfq": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
+          }
+        },
+        "button_mwpwCG": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "",
+            "url": "shopify://collections/featured-products",
+            "background": "#b5c29c",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ydy69V",
+        "image_BLRKnA",
+        "richtext_n7JbdQ",
+        "heading_rN3MUM",
+        "richtext_VDHAN3",
+        "image_a4eW66",
+        "richtext_kYUDzi",
+        "image_t6A3tt",
+        "richtext_ynDYBe",
+        "image_gMYbUx",
+        "subheading_tm8Dfq",
+        "button_mwpwCG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -1122,122 +1238,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_TfYeRE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ydy69V": {
-          "type": "heading",
-          "settings": {
-            "text": "testimonials",
-            "heading_tag": "h1"
-          }
-        },
-        "image_BLRKnA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-15_030820.png",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "richtext_n7JbdQ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>\"In the words of my dermatologist, I am a lifelong dermatology patient. This is in part due to being a fair skinned person growing up by the beach and having a great deal of sun exposure much of my life. I have a lot of flaky spots on my arms, legs, back, chest and face that have been diagnosed as Actinic Keratosis... Over the years I’ve had those removed with a variety of methods and prescription medications and it was always an unpleasant experience...  Recently. I discovered AKti-Clear from AK Botanicals. This method is easy (3 one day, one drop, applications) painless and, after using it on multiple spots, I’m happy to say it works! The spots I have treated with this product have left my skin fresh and new without scars... I may be a lifelong dermatology patient however I will also be a lifelong AKti-Clear user. If you have flaky skin spots caused by sun damage I highly recommend you try AKti-Clear.\" </em>- Melissa Thompson, Escondido, California</p>"
-          }
-        },
-        "heading_rN3MUM": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_VDHAN3": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        },
-        "image_a4eW66": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/5.png",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "richtext_kYUDzi": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>\"I had a diagnosed basal cell carcinoma on my lower leg. I had it treated by a dermatologist but the spot came back after a couple of years. I then treated it with AKti-Clear. AKti-Clear worked just like they said it would. I treated it for three consecutive days and then kept it covered and left it alone. They said to not pick off the scab but let it fall off. It worked!! The spot has not come back after a number of years now. I would highly recommend this product to anyone.\"</em> - Cathy Robinson, Florida</p>"
-          }
-        },
-        "image_t6A3tt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image000000_8.jpg",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "richtext_ynDYBe": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>\"I applied the serum three times and my hand spot went away. I am very impressed with the results. Next time, I will try it on my face. I love it!\" - C</em>onnie Garzon, Florida</p>"
-          }
-        },
-        "image_gMYbUx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-02-15_030529.png",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "subheading_tm8Dfq": {
-          "type": "subheading",
-          "settings": {
-            "text": "<strong>Individual results may vary. the opinions reflect our users' personal experiences. the people giving testimonials on this website may have been compensated with free products or discounts for use of their experiences. testimonials are not claimed to represent typical results. all testimonials are from real users, and are not intended to represent or guarantee that anyone will achieve the same or similar results.</strong>"
-          }
-        },
-        "button_mwpwCG": {
-          "type": "button",
-          "settings": {
-            "style": "solid",
-            "text": "",
-            "url": "shopify://collections/featured-products",
-            "background": "#b5c29c",
-            "text_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ydy69V",
-        "image_BLRKnA",
-        "richtext_n7JbdQ",
-        "heading_rN3MUM",
-        "richtext_VDHAN3",
-        "image_a4eW66",
-        "richtext_kYUDzi",
-        "image_t6A3tt",
-        "richtext_ynDYBe",
-        "image_gMYbUx",
-        "subheading_tm8Dfq",
-        "button_mwpwCG"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "featured_product_qAacGq": {
       "type": "featured-product",
       "blocks": {
@@ -1369,8 +1369,11 @@
     "slideshow",
     "rich_text_3tDxTD",
     "image-with-text-scroll",
+    "logo_list_JiRF8y",
+    "rich_text_TfYeRE",
     "featured_product_yAPJqc",
     "shop-the-look",
+    "featured-collections",
     "rich_text_zwXKph",
     "video_PiLmmQ",
     "multiple-media-with-text",
@@ -1379,15 +1382,12 @@
     "media_grid_QcHYNw",
     "video_bWLwWM",
     "multiple_media_with_text_xRkPp7",
-    "featured-collections",
     "faq_KBkNdU",
     "image_with_text_Mb6t6m",
     "image_with_text_block_NU3wXG",
     "media_grid_EC7fgN",
     "before_after_VF3mp3",
     "rich_text_kMnKyC",
-    "logo_list_JiRF8y",
-    "rich_text_TfYeRE",
     "featured_product_qAacGq",
     "newsletter"
   ]
