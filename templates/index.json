@@ -18,7 +18,7 @@
             "video": "shopify://files/videos/sunshine girl.mp4",
             "allow_sound": false,
             "subheading": "",
-            "title": "<strong>Finally, A Dermatological Skincare solution  for Use on Actinic Keratosis That's Fast, Easy and effective.</strong>",
+            "title": "<strong>Finally, A Dermatological Skincare solution  for Use on Actinic Keratosis That's Fast, Easy and Natural.</strong>",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 900,
@@ -166,7 +166,7 @@
         "richtext_FQChfc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results ourselves</a>. Since then, we've dedicated our lives to sharing it with you.</p><p>Apply a drop a day for 3 days, to restore your skin's health too. </p>"
+            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution that restores the appearance of healthy skin after just 3 daily applications. </p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results ourselves</a>. So, we've dedicated our lives to sharing it with you.</p>"
           }
         }
       },
@@ -681,7 +681,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>AKti-Clear™ works quickly on unattractive, scaly skin patches, helping to restore healthy skin and boost confidence. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look. If left unaddressed, AK may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
+        "content": "<p>AKti-Clear™ works quickly on unattractive, scaly skin patches, helping to restore healthy skin. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look. <br/><br/>If left unaddressed, Actinic Keratosis skin lesions may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
         "button_1_text": "",
         "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
