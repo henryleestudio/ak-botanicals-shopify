@@ -184,6 +184,110 @@
         "remove_vertical_spacing": false
       }
     },
+    "image-with-text-scroll": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "item-1": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/20.png",
+            "subheading": "<strong>AKti-Clear</strong>™",
+            "title": "",
+            "content": "<p>AKti-Clear™ is a concentrated fast-acting, botanically-infused topical solution for use on Actinic Keratosis and abnormal skin growths caused by sun damage.</p>",
+            "link_text": "",
+            "link_url": "https://google.com",
+            "link_style": "link"
+          }
+        },
+        "item-2": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/39.png",
+            "subheading": "<strong>AK Wound wash</strong>",
+            "title": "",
+            "content": "<p>Next generation of wound and skin care using naturally-derived lipids to clean wounds and promote healing.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "background_image": "shopify://shop_images/soursop-banner_eecd5377-38d5-4e8a-b5d0-c56447c99bb0.png",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_JiRF8y": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_mBknCN": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/before-cropped.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_ya3XYH": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/after-cropped.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_xywxWY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/day4.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_Qg9FeJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/day15.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_gGMheJ": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_mBknCN",
+        "logo_ya3XYH",
+        "logo_xywxWY",
+        "logo_Qg9FeJ",
+        "logo_gGMheJ"
+      ],
+      "settings": {
+        "logo-list-id": "results",
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "subheading": "Before & after",
+        "title": "Fast Results",
+        "items_per_row": 4,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_TfYeRE": {
       "type": "rich-text",
       "blocks": {
@@ -298,48 +402,6 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
-      }
-    },
-    "image-with-text-scroll": {
-      "type": "images-with-text-scroll",
-      "blocks": {
-        "item-1": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/20.png",
-            "subheading": "<strong>AKti-Clear</strong>™",
-            "title": "",
-            "content": "<p>AKti-Clear™ is a concentrated fast-acting, botanically-infused topical solution for use on Actinic Keratosis and abnormal skin growths caused by sun damage.</p>",
-            "link_text": "",
-            "link_url": "https://google.com",
-            "link_style": "link"
-          }
-        },
-        "item-2": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/39.png",
-            "subheading": "<strong>AK Wound wash</strong>",
-            "title": "",
-            "content": "<p>Next generation of wound and skin care using naturally-derived lipids to clean wounds and promote healing.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "background_image": "shopify://shop_images/soursop-banner_eecd5377-38d5-4e8a-b5d0-c56447c99bb0.png",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "featured_product_yAPJqc": {
@@ -485,6 +547,35 @@
         "popover_title": "Shop the look"
       }
     },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "featured-products",
+            "products_count": 8,
+            "title": "introductory offer",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "botanically-infused topicals - made in the usa"
+      }
+    },
     "rich_text_zwXKph": {
       "type": "rich-text",
       "blocks": {
@@ -579,7 +670,7 @@
         "multi-img-id": "",
         "color_scheme": "",
         "reveal_on_scroll": true,
-        "separate_section_with_border": false,
+        "separate_section_with_border": true,
         "media_position_desktop": "after_text",
         "media_position_mobile": "before_text",
         "media_layout": "overlap",
@@ -589,7 +680,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>If left unaddressed, Actinic Keratosis may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
+        "content": "<p>AKti-Clear™ works quickly on unattractive, scaly skin patches, helping to restore healthy skin and boost confidence. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look.<br/><br/>If left unaddressed, AK may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
         "button_1_text": "",
         "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
@@ -822,35 +913,6 @@
         "button_2_text": "",
         "button_2_link": "",
         "button_2_style": "solid"
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "featured-products",
-            "products_count": 8,
-            "title": "introductory offer",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "botanically-infused topicals - made in the usa"
       }
     },
     "faq_KBkNdU": {
@@ -1174,68 +1236,6 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
-      }
-    },
-    "logo_list_JiRF8y": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_mBknCN": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/before-cropped.png",
-            "logo_width": 250,
-            "link": ""
-          }
-        },
-        "logo_ya3XYH": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/after-cropped.png",
-            "logo_width": 250,
-            "link": ""
-          }
-        },
-        "logo_xywxWY": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/day4.png",
-            "logo_width": 250,
-            "link": ""
-          }
-        },
-        "logo_Qg9FeJ": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/day15.png",
-            "logo_width": 250,
-            "link": ""
-          }
-        },
-        "logo_gGMheJ": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_mBknCN",
-        "logo_ya3XYH",
-        "logo_xywxWY",
-        "logo_Qg9FeJ",
-        "logo_gGMheJ"
-      ],
-      "settings": {
-        "logo-list-id": "results",
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "subheading": "Before & after",
-        "title": "Fast Results",
-        "items_per_row": 4,
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "featured_product_qAacGq": {
