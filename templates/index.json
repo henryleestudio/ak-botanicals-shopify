@@ -150,8 +150,15 @@
             "text": ""
           }
         },
+        "richtext_pzBPEq": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        },
         "subheading_LXmV79": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "welcome to ak botanicals"
           }
@@ -166,12 +173,13 @@
         "richtext_FQChfc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution that restores the appearance of healthy skin after just 3 daily applications. </p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you. </p><p>We're a family run business. Manufacture our products right here in the USA, and pledge a portion of our profits to support skin cancer research.</p>"
+            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution that restores the appearance of healthy skin after just 3 daily applications. </p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you.</p>"
           }
         }
       },
       "block_order": [
         "subheading_gKarwX",
+        "richtext_pzBPEq",
         "subheading_LXmV79",
         "heading_F46RBE",
         "richtext_FQChfc"
