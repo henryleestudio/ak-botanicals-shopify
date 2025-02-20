@@ -18,24 +18,24 @@
             "text": ""
           }
         },
-        "heading_jNA7nc": {
-          "type": "heading",
-          "settings": {
-            "text": "howard's story",
-            "heading_tag": "h1"
-          }
-        },
         "richtext_LXUWEy": {
           "type": "richtext",
           "settings": {
-            "content": "<p><em>\"Welcome to AK Botanicals! We're a family run business. Manufacture our products right here in the USA, and pledge a portion of our profits to support skin cancer research.\"  - Howard Hirsch, Chairman</em></p>"
+            "content": "<p><em>\"Welcome to AK Botanicals! We're a family run business. Manufacture our products right here in the USA, and pledge a portion of our profits to support skin cancer research.  I hope you enjoy watching my story. We can't wait to hear yours.\"  - Howard Hirsch, Chairman</em></p>"
+          }
+        },
+        "heading_jNA7nc": {
+          "type": "heading",
+          "settings": {
+            "text": "click play: howard's story",
+            "heading_tag": "h2"
           }
         }
       },
       "block_order": [
         "subheading_4Kpryc",
-        "heading_jNA7nc",
-        "richtext_LXUWEy"
+        "richtext_LXUWEy",
+        "heading_jNA7nc"
       ],
       "settings": {
         "color_scheme": "scheme-3",
