@@ -153,20 +153,20 @@
         "subheading_LXmV79": {
           "type": "subheading",
           "settings": {
-            "text": "\"a drop a day for 3 days\""
+            "text": "welcome to ak botanicals"
           }
         },
         "heading_F46RBE": {
           "type": "heading",
           "settings": {
-            "text": "welcome to ak botanicals",
+            "text": "<strong>\"a drop a day for 3 days\"</strong>",
             "heading_tag": "h2"
           }
         },
         "richtext_FQChfc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution that restores the appearance of healthy skin after just 3 daily applications. </p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you.</p>"
+            "content": "<p>Introducing AKti-Clear™, the fast-acting dermatological skincare solution that restores the appearance of healthy skin after just 3 daily applications. </p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you. </p><p>We're a family run business. Manufacture our products right here in the USA, and pledge a portion of our profits to support skin cancer research.</p>"
           }
         }
       },
@@ -377,7 +377,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "limited time introductory offer",
+            "title": "limited time - introductory offer",
             "link_url": "",
             "link_text": ""
           }
@@ -395,7 +395,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "botanically-infused topicals - made in the usa"
+        "subheading": "botanically-infused topicals  made in the usa"
       }
     },
     "rich_text_zwXKph": {
@@ -502,7 +502,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Why choose AKti-Clear™?",
-        "content": "<p>AKti-Clear™ works quickly on scaly skin patches, helping to restore healthy skin. By addressing these rough, sun-exposed areas, AKti-Clear™ supports a smoother, revitalized look. <br/><br/>If left unaddressed, Actinic Keratosis skin lesions may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
+        "content": "<p>AKti-Clear™ works quickly on scaly skin patches, helping to restore your healthy skin.<br/></p><p>If left unaddressed, Actinic Keratosis skin lesions may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
         "button_1_text": "",
         "button_1_link": "shopify://products/akti-clear",
         "button_1_style": "solid",
