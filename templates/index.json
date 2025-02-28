@@ -385,7 +385,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "introductory offer ends feb 28th",
+            "title": "introductory offer <strong>ends today</strong>",
             "link_url": "",
             "link_text": ""
           }
