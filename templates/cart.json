@@ -37,6 +37,7 @@
       "blocks": {
         "in_cart_upsell_cross_sell_cart_app_block_itCjEG": {
           "type": "shopify://apps/in-cart-upsell-cross-sell/blocks/cart_app_block/6a252f23-8726-4893-8b3b-1ae15957efc3",
+          "disabled": true,
           "settings": {
             "icu-cart-selector": "",
             "icu-cart-action": "before",
