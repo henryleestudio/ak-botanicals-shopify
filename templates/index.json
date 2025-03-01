@@ -211,9 +211,9 @@
           "type": "image_with_text",
           "settings": {
             "image": "shopify://shop_images/39.png",
-            "subheading": "<strong>AK Wound wash </strong>(Days 4 - 14)",
+            "subheading": "<strong>AK Wound wash (Days 4 - 14)</strong>",
             "title": "",
-            "content": "<p>Next generation of wound and skin care using naturally-derived lipids to clean wounds and promote healing.</p>",
+            "content": "<p><strong>Next generation of wound and skin care using naturally-derived lipids to clean wounds and promote healing.</strong></p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
