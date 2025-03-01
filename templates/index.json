@@ -385,7 +385,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "introductory offer <strong>ends today</strong>",
+            "title": "proudly made in the u.s.a.",
             "link_url": "",
             "link_text": ""
           }
@@ -403,7 +403,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "botanically-infused topicals  made in the usa"
+        "subheading": "botanically-infused topicals"
       }
     },
     "rich_text_zwXKph": {
@@ -1352,8 +1352,8 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "subheading": "<strong>limited offer ends today</strong>",
-        "title": "special introductory price",
+        "subheading": "<strong>save 22% on the bundle</strong>",
+        "title": "<strong>free ups shipping</strong>",
         "content": ""
       }
     },
