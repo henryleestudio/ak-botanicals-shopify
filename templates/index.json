@@ -974,6 +974,21 @@
             "mobile_max_width": 400
           }
         },
+        "image_yi3eNH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-03-04_131332.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_iAVkmW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>\"At first results,  I was more than nervous but the product worked perfectly! Expect a bit scary at first BUT it heals quickly doing exactly what is supposed to!  Having used Efudex from dermatologist that takes forever to work with more unsightly results, I will use this product every time! I Am ordering  more. Love this product! From start to finish, with just redness… was only a week and a half!\"  Robin, Gulf Shores AL</p>"
+          }
+        },
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
@@ -1002,6 +1017,8 @@
         "image_t6A3tt",
         "richtext_ynDYBe",
         "image_gMYbUx",
+        "image_yi3eNH",
+        "richtext_iAVkmW",
         "subheading_tm8Dfq",
         "button_mwpwCG"
       ],
