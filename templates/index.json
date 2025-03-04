@@ -869,22 +869,13 @@
             "logo_width": 250,
             "link": ""
           }
-        },
-        "logo_gGMheJ": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_mBknCN",
         "logo_ya3XYH",
         "logo_xywxWY",
-        "logo_Qg9FeJ",
-        "logo_gGMheJ"
+        "logo_Qg9FeJ"
       ],
       "settings": {
         "logo-list-id": "results",
