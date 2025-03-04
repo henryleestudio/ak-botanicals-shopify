@@ -384,8 +384,8 @@
           "type": "collection",
           "settings": {
             "collection": "featured-products",
-            "products_count": 8,
-            "title": "Special Introductory offer",
+            "products_count": 3,
+            "title": "<strong>Special Introductory offer</strong>",
             "link_url": "",
             "link_text": ""
           }
