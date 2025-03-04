@@ -385,7 +385,7 @@
           "settings": {
             "collection": "featured-products",
             "products_count": 8,
-            "title": "proudly made in the u.s.a.",
+            "title": "Special Introductory offer",
             "link_url": "",
             "link_text": ""
           }
@@ -403,7 +403,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "botanically-infused topicals"
+        "subheading": "botanically-infused topicals, proudly made in the USA"
       }
     },
     "rich_text_zwXKph": {
