@@ -28,9 +28,8 @@
         },
         "message_dmYkNB": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "special introductory offer ends today"
+            "text": "special introductory offer ends soon"
           }
         }
       },
