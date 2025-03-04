@@ -14,10 +14,10 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message-1": {
+        "message_dmYkNB": {
           "type": "message",
           "settings": {
-            "text": "<strong>60-day money back guarantee</strong>"
+            "text": "special introductory offer for a limited time"
           }
         },
         "message_ffpyWB": {
@@ -26,17 +26,17 @@
             "text": "Free Shipping on akti-clear bundle!"
           }
         },
-        "message_dmYkNB": {
+        "message-1": {
           "type": "message",
           "settings": {
-            "text": "special introductory offer ends soon"
+            "text": "<strong>60-day money back guarantee</strong>"
           }
         }
       },
       "block_order": [
-        "message-1",
+        "message_dmYkNB",
         "message_ffpyWB",
-        "message_dmYkNB"
+        "message-1"
       ],
       "settings": {
         "color_scheme": "",
