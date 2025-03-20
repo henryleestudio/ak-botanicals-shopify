@@ -16,12 +16,20 @@
       "blocks": {
         "message_dmYkNB": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "special introductory offer for a limited time"
           }
         },
+        "message_q3MTRd": {
+          "type": "message",
+          "settings": {
+            "text": "Spring Sale 20% off - use promo code spring20"
+          }
+        },
         "message_ffpyWB": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Free Shipping on akti-clear bundle!"
           }
@@ -35,6 +43,7 @@
       },
       "block_order": [
         "message_dmYkNB",
+        "message_q3MTRd",
         "message_ffpyWB",
         "message-1"
       ],
