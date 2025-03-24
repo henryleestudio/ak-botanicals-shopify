@@ -927,6 +927,12 @@
             "mobile_max_width": 400
           }
         },
+        "richtext_9FPqpQ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>\"I am a 75 y/o male (retired surfer) with an enormous amount of facial sun exposure realized over the decades. I have suffered through the Liquid Nitrogen treatments for decades only to see the Actinic Keratosis return time and time again. Your product worked so AMAZINGLY WELL I wanted to write and tell you so. I wish I had taken before and after pictures but I was skeptical as to the results due to a previous attempted cure utilizing Milk Thistle, which  did absolutely nothing to the AK. I had a relatively large spot on my forehead, that measured approximately 2 x 5 cm. It was a gnarly spud that refused to leave until AK  Botanicals showed up and blew the interloper away. Sincere Thanks & Blessings,\" -Brian G., Oceanside, California</p>"
+          }
+        },
         "image_BLRKnA": {
           "type": "image",
           "settings": {
@@ -1004,6 +1010,7 @@
         "heading_rN3MUM",
         "richtext_VDHAN3",
         "image_a4eW66",
+        "richtext_9FPqpQ",
         "image_BLRKnA",
         "richtext_kYUDzi",
         "image_t6A3tt",
