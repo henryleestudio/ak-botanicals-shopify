@@ -174,7 +174,7 @@
         "image_gPKr7t": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Customer-logo_Amazon-1-768x384_png.webp",
+            "image": "shopify://shop_images/Amazon.png",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
