@@ -173,6 +173,7 @@
         },
         "image_gPKr7t": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Amazon.png",
             "width_mode": "custom",
@@ -229,11 +230,24 @@
             "link_url": "",
             "link_style": "solid"
           }
+        },
+        "image_with_text_3XDewC": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/HOAssholes_4.png",
+            "subheading": "",
+            "title": "<strong>Shop now</strong>",
+            "content": "<p>AKti-Clear™ is available on Amazon.com</p>",
+            "link_text": "Buy it on Amazon",
+            "link_url": "https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas",
+            "link_style": "solid"
+          }
         }
       },
       "block_order": [
         "item-1",
-        "item-2"
+        "item-2",
+        "image_with_text_3XDewC"
       ],
       "settings": {
         "color_scheme": "",
@@ -414,7 +428,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "botanically-infused topicals, proudly made in the USA"
+        "subheading": "shop our botanically-infused topicals, proudly made in the USA"
       }
     },
     "rich_text_zwXKph": {
