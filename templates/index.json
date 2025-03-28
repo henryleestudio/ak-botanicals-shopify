@@ -174,7 +174,16 @@
         "richtext_FQChfc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Finally, a dermatological skincare solution  for use on Actinic Keratosis that's fast, easy and effective.</p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you.</p>"
+            "content": "<p>Finally, a dermatological skincare solution  for use on Actinic Keratosis that's fast, easy and effective.</p><p>AKti-Clear™ is specifically formulated for use on actinic keratosis, skin lesions and abnormal growths caused by sun damage. </p><p>We discovered the AKti-Clear™ solution and <a href=\"https://akbotanicals.com/pages/about-us\" title=\"https://akbotanicals.com/pages/about-us\">got amazing results</a>. Since then, we've dedicated our lives to sharing it with you.</p><p>Buy AKti-Clear™ on Amazon.</p>"
+          }
+        },
+        "image_gPKr7t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Customer-logo_Amazon-1-768x384_png.webp",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
@@ -183,7 +192,8 @@
         "richtext_pzBPEq",
         "subheading_LXmV79",
         "heading_F46RBE",
-        "richtext_FQChfc"
+        "richtext_FQChfc",
+        "image_gPKr7t"
       ],
       "settings": {
         "color_scheme": "scheme-1",
