@@ -1256,13 +1256,30 @@
             "background": "#ed8a00",
             "text_color": "#fdf9f5"
           }
+        },
+        "image_BWfLey": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Amazon.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_bErdwh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" target=\"_blank\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\"><strong>Click Here to Get AKti-Clear™ on Amazon &gt;&gt;</strong></a></p>"
+          }
         }
       },
       "block_order": [
         "subheading_69c9tG",
         "heading_wRUcw7",
         "richtext_3nNLeV",
-        "button_H3ataP"
+        "button_H3ataP",
+        "image_BWfLey",
+        "richtext_bErdwh"
       ],
       "settings": {
         "color_scheme": "scheme-4",
