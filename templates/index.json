@@ -1384,7 +1384,7 @@
       "settings": {
         "color_scheme": "scheme-1",
         "product": "wound-wash-akti-clear-bundle",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "container_size": "lg",
         "product_info_size": 45,
         "center_basic_info": false,
@@ -1395,8 +1395,8 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "subheading": "<strong>special introductory offer</strong>",
-        "title": "<strong>free ups shipping</strong>",
+        "subheading": "<strong>Or Buy Direct, support small business and</strong>",
+        "title": "<strong>get free ups shipping</strong>",
         "content": ""
       }
     },
