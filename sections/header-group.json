@@ -21,15 +21,8 @@
             "text": "special introductory offer for a limited time"
           }
         },
-        "message_q3MTRd": {
-          "type": "message",
-          "settings": {
-            "text": "World health day sale!  Save 20% off orders over $50, free shipping"
-          }
-        },
         "message_ffpyWB": {
           "type": "message",
-          "disabled": true,
           "settings": {
             "text": "Free Shipping on akti-clear bundle!"
           }
@@ -43,7 +36,6 @@
       },
       "block_order": [
         "message_dmYkNB",
-        "message_q3MTRd",
         "message_ffpyWB",
         "message-1"
       ],
