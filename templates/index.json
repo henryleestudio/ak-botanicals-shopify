@@ -1011,6 +1011,12 @@
             "content": "<p>\"At first results,  I was more than nervous but the product worked perfectly! Expect a bit scary at first BUT it heals quickly doing exactly what is supposed to!  Having used Efudex from dermatologist that takes forever to work with more unsightly results, I will use this product every time! I am ordering  more. Love this product! From start to finish, with just redness… was only a week and a half!\"  - Robin Lapp, Gulf Shores AL</p>"
           }
         },
+        "richtext_yHfxTH": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>\"I have successfully used the AKti-Clear and it appears the lesion is gone and the area has healed. It worked exactly as described and the healing time was accurate.\" - Lynn, North Port, Florida</p>"
+          }
+        },
         "subheading_tm8Dfq": {
           "type": "subheading",
           "settings": {
@@ -1042,6 +1048,7 @@
         "image_gMYbUx",
         "image_yi3eNH",
         "richtext_iAVkmW",
+        "richtext_yHfxTH",
         "subheading_tm8Dfq",
         "button_mwpwCG"
       ],
