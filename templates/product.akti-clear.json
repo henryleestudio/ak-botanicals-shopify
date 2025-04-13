@@ -443,6 +443,7 @@
         },
         "heading_tFenRm": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "buy it on Amazon",
             "heading_tag": "h1"
@@ -450,6 +451,7 @@
         },
         "richtext_Qbznwc": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p>If you prefer, you can <a href=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\" target=\"_blank\" title=\"https://www.amazon.com/gp/product/B0DM6WNPGZ?maas=maas_adg_D99513BBAB806933AD22C418889691C4_afap_abs&ref_=aa_maas&tag=maas\">buy AKti-Clear on Amazon.com</a></p>"
           }
