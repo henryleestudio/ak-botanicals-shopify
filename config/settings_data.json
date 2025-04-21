@@ -29,6 +29,8 @@
     "button_letter_spacing": 10,
     "cart_type": "page",
     "cart_icon": "shopping_cart",
+    "cart_show_free_shipping_bar": true,
+    "cart_free_shipping_threshold": "33",
     "social_facebook": "https://www.facebook.com/share/3Q557vaCsyUptMrF",
     "social_pinterest": "https://www.pinterest.com/salesakbotanicals/",
     "social_instagram": "https://www.instagram.com/ak_botanicals",
