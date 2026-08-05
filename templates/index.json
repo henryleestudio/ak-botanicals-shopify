@@ -352,7 +352,7 @@
       "disabled": true,
       "settings": {
         "color_scheme": "",
-        "product": "akti-clear",
+        "product": "akti-clear-legacy",
         "separate_section_with_border": true,
         "container_size": "lg",
         "product_info_size": 45,
@@ -539,7 +539,7 @@
         "title": "Why choose AKti-Clear™?",
         "content": "<p>AKti-Clear™ works quickly on scaly skin patches, helping to restore your healthy skin.<br/></p><p>If left unaddressed, Actinic Keratosis skin lesions may progress to skin cancer, such as squamous cell carcinoma, the second leading cause of skin cancer deaths in the United States.  </p>",
         "button_1_text": "",
-        "button_1_link": "shopify://products/akti-clear",
+        "button_1_link": "shopify://products/akti-clear-legacy",
         "button_1_style": "solid",
         "button_2_text": "",
         "button_2_link": "",
